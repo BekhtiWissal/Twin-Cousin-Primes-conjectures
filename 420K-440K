@@ -11002,3 +11002,1591 @@ For n = 437474, We have: 874948 = 874967 - 19, with (17, 19) is a twin prime pai
 For n = 437476, We have: 874952 = 874957 - 5, with (3, 5) is a twin prime pair
 For n = 437478, We have: 874956 = 874987 - 31, with (29, 31) is a twin prime pair
 For n = 437480, We have: 874960 = 874967 - 7, with (5, 7) is a twin prime pair
+For n = 437480, We have: 874960 = 874967 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 437482, We have: 874964 = 874967 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 437482, We have: 874964 = 874987 - 23, with (19, 23) is a cousin prime pair, and 874968 = 875027 - 59, with 61 is also prime
+For n = 437484, We have: 874968 = 874987 - 19, with (17, 19) is a twin prime pair
+For n = 437486, We have: 874972 = 875033 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 437488, We have: 874976 = 874987 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 437488, We have: 874976 = 874987 - 11, with (7, 11) is a cousin prime pair, and 874980 = 875117 - 137, with 139 is also prime
+For n = 437490, We have: 874980 = 874987 - 7, with (5, 7) is a twin prime pair
+For n = 437492, We have: 874984 = 875027 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 437494, We have: 874988 = 875089 - 101, with (101, 103) is a twin prime pair
+2nd condition: For n = 437494, We have: 874988 = 875011 - 23, with (19, 23) is a cousin prime pair, and 874992 = 875033 - 41, with 43 is also prime
+For n = 437496, We have: 874992 = 875011 - 19, with (17, 19) is a twin prime pair
+For n = 437498, We have: 874996 = 875027 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 437500, We have: 875000 = 875011 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 437500, We have: 875000 = 875011 - 11, with (7, 11) is a cousin prime pair, and 875004 = 875033 - 29, with 31 is also prime
+For n = 437502, We have: 875004 = 875011 - 7, with (5, 7) is a twin prime pair
+For n = 437504, We have: 875008 = 875027 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 437506, We have: 875012 = 875113 - 101, with (101, 103) is a twin prime pair
+2nd condition: For n = 437506, We have: 875012 = 875113 - 101, with (97, 101) is a cousin prime pair, and 875016 = 875027 - 11, with 13 is also prime
+For n = 437508, We have: 875016 = 875089 - 73, with (71, 73) is a twin prime pair
+For n = 437510, We have: 875020 = 875027 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 437512, We have: 875024 = 875027 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 437512, We have: 875024 = 875107 - 83, with (79, 83) is a cousin prime pair, and 875028 = 875033 - 5, with 7 is also prime
+For n = 437514, We have: 875028 = 875033 - 5, with (3, 5) is a twin prime pair
+For n = 437516, We have: 875032 = 875141 - 109, with (107, 109) is a twin prime pair
+1st condition: For n = 437518, We have: 875036 = 875107 - 71, with (71, 73) is a twin prime pair
+2nd condition: For n = 437518, We have: 875036 = 875107 - 71, with (67, 71) is a cousin prime pair, and 875040 = 875141 - 101, with 103 is also prime
+For n = 437520, We have: 875040 = 875113 - 73, with (71, 73) is a twin prime pair
+For n = 437522, We have: 875044 = 875117 - 73, with (71, 73) is a twin prime pair
+1st condition: For n = 437524, We have: 875048 = 875089 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 437524, We have: 875048 = 875089 - 41, with (37, 41) is a cousin prime pair, and 875052 = 875201 - 149, with 151 is also prime
+For n = 437526, We have: 875052 = 875113 - 61, with (59, 61) is a twin prime pair
+For n = 437528, We have: 875056 = 875117 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 437530, We have: 875060 = 875089 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 437530, We have: 875060 = 875107 - 47, with (43, 47) is a cousin prime pair, and 875064 = 875201 - 137, with 139 is also prime
+For n = 437532, We have: 875064 = 875107 - 43, with (41, 43) is a twin prime pair
+For n = 437534, We have: 875068 = 875129 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 437536, We have: 875072 = 875089 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 437536, We have: 875072 = 875089 - 17, with (13, 17) is a cousin prime pair, and 875076 = 875117 - 41, with 43 is also prime
+For n = 437538, We have: 875076 = 875089 - 13, with (11, 13) is a twin prime pair
+For n = 437540, We have: 875080 = 875141 - 61, with (59, 61) is a twin prime pair
+For n = 437542, We have: 875084 = 875089 - 5, with (3, 5) is a twin prime pair
+For n = 437544, We have: 875088 = 875107 - 19, with (17, 19) is a twin prime pair
+For n = 437546, We have: 875092 = 875201 - 109, with (107, 109) is a twin prime pair
+1st condition: For n = 437548, We have: 875096 = 875107 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 437548, We have: 875096 = 875107 - 11, with (7, 11) is a cousin prime pair, and 875100 = 875117 - 17, with 19 is also prime
+For n = 437550, We have: 875100 = 875107 - 7, with (5, 7) is a twin prime pair
+For n = 437552, We have: 875104 = 875117 - 13, with (11, 13) is a twin prime pair
+For n = 437554, We have: 875108 = 875113 - 5, with (3, 5) is a twin prime pair
+For n = 437556, We have: 875112 = 875117 - 5, with (3, 5) is a twin prime pair
+For n = 437558, We have: 875116 = 875129 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 437560, We have: 875120 = 875269 - 149, with (149, 151) is a twin prime pair
+2nd condition: For n = 437560, We have: 875120 = 875233 - 113, with (109, 113) is a cousin prime pair, and 875124 = 875129 - 5, with 7 is also prime
+For n = 437562, We have: 875124 = 875129 - 5, with (3, 5) is a twin prime pair
+For n = 437564, We have: 875128 = 875141 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 437566, We have: 875132 = 875233 - 101, with (101, 103) is a twin prime pair
+2nd condition: For n = 437566, We have: 875132 = 875233 - 101, with (97, 101) is a cousin prime pair, and 875136 = 875141 - 5, with 7 is also prime
+For n = 437568, We have: 875136 = 875141 - 5, with (3, 5) is a twin prime pair
+For n = 437570, We have: 875140 = 875183 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 437572, We have: 875144 = 875323 - 179, with (179, 181) is a twin prime pair
+2nd condition: For n = 437572, We have: 875144 = 875341 - 197, with (193, 197) is a cousin prime pair, and 875148 = 875297 - 149, with 151 is also prime
+For n = 437574, We have: 875148 = 875209 - 61, with (59, 61) is a twin prime pair
+For n = 437576, We have: 875152 = 875183 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 437578, We have: 875156 = 875263 - 107, with (107, 109) is a twin prime pair
+2nd condition: For n = 437578, We have: 875156 = 875239 - 83, with (79, 83) is a cousin prime pair, and 875160 = 875201 - 41, with 43 is also prime
+For n = 437580, We have: 875160 = 875233 - 73, with (71, 73) is a twin prime pair
+For n = 437582, We have: 875164 = 875183 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 437584, We have: 875168 = 875209 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 437584, We have: 875168 = 875209 - 41, with (37, 41) is a cousin prime pair, and 875172 = 875183 - 11, with 13 is also prime
+For n = 437586, We have: 875172 = 875233 - 61, with (59, 61) is a twin prime pair
+For n = 437588, We have: 875176 = 875183 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 437590, We have: 875180 = 875183 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 437590, We have: 875180 = 875263 - 83, with (79, 83) is a cousin prime pair, and 875184 = 875201 - 17, with 19 is also prime
+For n = 437592, We have: 875184 = 875323 - 139, with (137, 139) is a twin prime pair
+For n = 437594, We have: 875188 = 875201 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 437596, We have: 875192 = 875209 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 437596, We have: 875192 = 875209 - 17, with (13, 17) is a cousin prime pair, and 875196 = 875201 - 5, with 7 is also prime
+For n = 437598, We have: 875196 = 875201 - 5, with (3, 5) is a twin prime pair
+For n = 437600, We have: 875200 = 875213 - 13, with (11, 13) is a twin prime pair
+For n = 437602, We have: 875204 = 875209 - 5, with (3, 5) is a twin prime pair
+For n = 437604, We have: 875208 = 875213 - 5, with (3, 5) is a twin prime pair
+For n = 437606, We have: 875212 = 875243 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 437608, We have: 875216 = 875233 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 437608, We have: 875216 = 875233 - 17, with (13, 17) is a cousin prime pair, and 875220 = 875261 - 41, with 43 is also prime
+For n = 437610, We have: 875220 = 875233 - 13, with (11, 13) is a twin prime pair
+For n = 437612, We have: 875224 = 875243 - 19, with (17, 19) is a twin prime pair
+For n = 437614, We have: 875228 = 875233 - 5, with (3, 5) is a twin prime pair
+For n = 437616, We have: 875232 = 875239 - 7, with (5, 7) is a twin prime pair
+For n = 437618, We have: 875236 = 875243 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 437620, We have: 875240 = 875243 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 437620, We have: 875240 = 875263 - 23, with (19, 23) is a cousin prime pair, and 875244 = 875261 - 17, with 19 is also prime
+For n = 437622, We have: 875244 = 875263 - 19, with (17, 19) is a twin prime pair
+For n = 437624, We have: 875248 = 875261 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 437626, We have: 875252 = 875263 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 437626, We have: 875252 = 875263 - 11, with (7, 11) is a cousin prime pair, and 875256 = 875261 - 5, with 7 is also prime
+For n = 437628, We have: 875256 = 875261 - 5, with (3, 5) is a twin prime pair
+For n = 437630, We have: 875260 = 875267 - 7, with (5, 7) is a twin prime pair
+For n = 437632, We have: 875264 = 875269 - 5, with (3, 5) is a twin prime pair
+For n = 437634, We have: 875268 = 875299 - 31, with (29, 31) is a twin prime pair
+For n = 437636, We have: 875272 = 875333 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 437638, We have: 875276 = 875317 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 437638, We have: 875276 = 875299 - 23, with (19, 23) is a cousin prime pair, and 875280 = 875297 - 17, with 19 is also prime
+For n = 437640, We have: 875280 = 875299 - 19, with (17, 19) is a twin prime pair
+For n = 437642, We have: 875284 = 875297 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 437644, We have: 875288 = 875299 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 437644, We have: 875288 = 875299 - 11, with (7, 11) is a cousin prime pair, and 875292 = 875297 - 5, with 7 is also prime
+For n = 437646, We have: 875292 = 875297 - 5, with (3, 5) is a twin prime pair
+For n = 437648, We have: 875296 = 875327 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 437650, We have: 875300 = 875317 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 437650, We have: 875300 = 875317 - 17, with (13, 17) is a cousin prime pair, and 875304 = 875333 - 29, with 31 is also prime
+For n = 437652, We have: 875304 = 875317 - 13, with (11, 13) is a twin prime pair
+For n = 437654, We have: 875308 = 875327 - 19, with (17, 19) is a twin prime pair
+For n = 437656, We have: 875312 = 875317 - 5, with (3, 5) is a twin prime pair
+For n = 437658, We have: 875316 = 875323 - 7, with (5, 7) is a twin prime pair
+For n = 437660, We have: 875320 = 875327 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 437662, We have: 875324 = 875327 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 437662, We have: 875324 = 875341 - 17, with (13, 17) is a cousin prime pair, and 875328 = 875333 - 5, with 7 is also prime
+For n = 437664, We have: 875328 = 875333 - 5, with (3, 5) is a twin prime pair
+For n = 437666, We have: 875332 = 875339 - 7, with (5, 7) is a twin prime pair
+For n = 437668, We have: 875336 = 875341 - 5, with (3, 5) is a twin prime pair
+For n = 437670, We have: 875340 = 875443 - 103, with (101, 103) is a twin prime pair
+For n = 437672, We have: 875344 = 875363 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 437674, We have: 875348 = 875377 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 437674, We have: 875348 = 875389 - 41, with (37, 41) is a cousin prime pair, and 875352 = 875363 - 11, with 13 is also prime
+For n = 437676, We have: 875352 = 875491 - 139, with (137, 139) is a twin prime pair
+For n = 437678, We have: 875356 = 875363 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 437680, We have: 875360 = 875363 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 437680, We have: 875360 = 875377 - 17, with (13, 17) is a cousin prime pair, and 875364 = 875393 - 29, with 31 is also prime
+For n = 437682, We have: 875364 = 875377 - 13, with (11, 13) is a twin prime pair
+For n = 437684, We have: 875368 = 875429 - 61, with (59, 61) is a twin prime pair
+For n = 437686, We have: 875372 = 875377 - 5, with (3, 5) is a twin prime pair
+For n = 437688, We have: 875376 = 875389 - 13, with (11, 13) is a twin prime pair
+For n = 437690, We have: 875380 = 875393 - 13, with (11, 13) is a twin prime pair
+For n = 437692, We have: 875384 = 875389 - 5, with (3, 5) is a twin prime pair
+For n = 437694, We have: 875388 = 875393 - 5, with (3, 5) is a twin prime pair
+For n = 437696, We have: 875392 = 875543 - 151, with (149, 151) is a twin prime pair
+1st condition: For n = 437698, We have: 875396 = 875503 - 107, with (107, 109) is a twin prime pair
+2nd condition: For n = 437698, We have: 875396 = 875419 - 23, with (19, 23) is a cousin prime pair, and 875400 = 875417 - 17, with 19 is also prime
+For n = 437700, We have: 875400 = 875419 - 19, with (17, 19) is a twin prime pair
+For n = 437702, We have: 875404 = 875417 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 437704, We have: 875408 = 875419 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 437704, We have: 875408 = 875419 - 11, with (7, 11) is a cousin prime pair, and 875412 = 875417 - 5, with 7 is also prime
+For n = 437706, We have: 875412 = 875417 - 5, with (3, 5) is a twin prime pair
+For n = 437708, We have: 875416 = 875429 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 437710, We have: 875420 = 875491 - 71, with (71, 73) is a twin prime pair
+2nd condition: For n = 437710, We have: 875420 = 875443 - 23, with (19, 23) is a cousin prime pair, and 875424 = 875429 - 5, with 7 is also prime
+For n = 437712, We have: 875424 = 875429 - 5, with (3, 5) is a twin prime pair
+For n = 437714, We have: 875428 = 875447 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 437716, We have: 875432 = 875443 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 437716, We have: 875432 = 875443 - 11, with (7, 11) is a cousin prime pair, and 875436 = 875447 - 11, with 13 is also prime
+For n = 437718, We have: 875436 = 875443 - 7, with (5, 7) is a twin prime pair
+For n = 437720, We have: 875440 = 875447 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 437722, We have: 875444 = 875447 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 437722, We have: 875444 = 875491 - 47, with (43, 47) is a cousin prime pair, and 875448 = 875477 - 29, with 31 is also prime
+For n = 437724, We have: 875448 = 875491 - 43, with (41, 43) is a twin prime pair
+For n = 437726, We have: 875452 = 875513 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 437728, We have: 875456 = 875593 - 137, with (137, 139) is a twin prime pair
+2nd condition: For n = 437728, We have: 875456 = 875503 - 47, with (43, 47) is a cousin prime pair, and 875460 = 875477 - 17, with 19 is also prime
+For n = 437730, We have: 875460 = 875491 - 31, with (29, 31) is a twin prime pair
+For n = 437732, We have: 875464 = 875477 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 437734, We have: 875468 = 875509 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 437734, We have: 875468 = 875491 - 23, with (19, 23) is a cousin prime pair, and 875472 = 875477 - 5, with 7 is also prime
+For n = 437736, We have: 875472 = 875477 - 5, with (3, 5) is a twin prime pair
+For n = 437738, We have: 875476 = 875519 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 437740, We have: 875480 = 875491 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 437740, We have: 875480 = 875491 - 11, with (7, 11) is a cousin prime pair, and 875484 = 875513 - 29, with 31 is also prime
+For n = 437742, We have: 875484 = 875491 - 7, with (5, 7) is a twin prime pair
+For n = 437744, We have: 875488 = 875519 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 437746, We have: 875492 = 875503 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 437746, We have: 875492 = 875503 - 11, with (7, 11) is a cousin prime pair, and 875496 = 875513 - 17, with 19 is also prime
+For n = 437748, We have: 875496 = 875503 - 7, with (5, 7) is a twin prime pair
+For n = 437750, We have: 875500 = 875513 - 13, with (11, 13) is a twin prime pair
+For n = 437752, We have: 875504 = 875509 - 5, with (3, 5) is a twin prime pair
+For n = 437754, We have: 875508 = 875513 - 5, with (3, 5) is a twin prime pair
+For n = 437756, We have: 875512 = 875519 - 7, with (5, 7) is a twin prime pair
+For n = 437758, We have: 875516 = 875521 - 5, with (3, 5) is a twin prime pair
+For n = 437760, We have: 875520 = 875593 - 73, with (71, 73) is a twin prime pair
+For n = 437762, We have: 875524 = 875543 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 437764, We have: 875528 = 875629 - 101, with (101, 103) is a twin prime pair
+2nd condition: For n = 437764, We have: 875528 = 875629 - 101, with (97, 101) is a cousin prime pair, and 875532 = 875543 - 11, with 13 is also prime
+For n = 437766, We have: 875532 = 875593 - 61, with (59, 61) is a twin prime pair
+For n = 437768, We have: 875536 = 875543 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 437770, We have: 875540 = 875543 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 437770, We have: 875540 = 875647 - 107, with (103, 107) is a cousin prime pair, and 875544 = 875681 - 137, with 139 is also prime
+For n = 437772, We have: 875544 = 875617 - 73, with (71, 73) is a twin prime pair
+For n = 437774, We have: 875548 = 875579 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 437776, We have: 875552 = 875593 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 437776, We have: 875552 = 875593 - 41, with (37, 41) is a cousin prime pair, and 875556 = 875627 - 71, with 73 is also prime
+For n = 437778, We have: 875556 = 875617 - 61, with (59, 61) is a twin prime pair
+For n = 437780, We have: 875560 = 875579 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 437782, We have: 875564 = 875593 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 437782, We have: 875564 = 875647 - 83, with (79, 83) is a cousin prime pair, and 875568 = 875579 - 11, with 13 is also prime
+For n = 437784, We have: 875568 = 875629 - 61, with (59, 61) is a twin prime pair
+For n = 437786, We have: 875572 = 875579 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 437788, We have: 875576 = 875579 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 437788, We have: 875576 = 875593 - 17, with (13, 17) is a cousin prime pair, and 875580 = 875591 - 11, with 13 is also prime
+For n = 437790, We have: 875580 = 875593 - 13, with (11, 13) is a twin prime pair
+For n = 437792, We have: 875584 = 875591 - 7, with (5, 7) is a twin prime pair
+For n = 437794, We have: 875588 = 875593 - 5, with (3, 5) is a twin prime pair
+For n = 437796, We have: 875592 = 875701 - 109, with (107, 109) is a twin prime pair
+For n = 437798, We have: 875596 = 875627 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 437800, We have: 875600 = 875617 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 437800, We have: 875600 = 875617 - 17, with (13, 17) is a cousin prime pair, and 875604 = 875621 - 17, with 19 is also prime
+For n = 437802, We have: 875604 = 875617 - 13, with (11, 13) is a twin prime pair
+For n = 437804, We have: 875608 = 875621 - 13, with (11, 13) is a twin prime pair
+For n = 437806, We have: 875612 = 875617 - 5, with (3, 5) is a twin prime pair
+For n = 437808, We have: 875616 = 875621 - 5, with (3, 5) is a twin prime pair
+For n = 437810, We have: 875620 = 875627 - 7, with (5, 7) is a twin prime pair
+For n = 437812, We have: 875624 = 875629 - 5, with (3, 5) is a twin prime pair
+For n = 437814, We have: 875628 = 875647 - 19, with (17, 19) is a twin prime pair
+For n = 437816, We have: 875632 = 875663 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 437818, We have: 875636 = 875647 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 437818, We have: 875636 = 875647 - 11, with (7, 11) is a cousin prime pair, and 875640 = 875681 - 41, with 43 is also prime
+For n = 437820, We have: 875640 = 875647 - 7, with (5, 7) is a twin prime pair
+For n = 437822, We have: 875644 = 875663 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 437824, We have: 875648 = 875659 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 437824, We have: 875648 = 875659 - 11, with (7, 11) is a cousin prime pair, and 875652 = 875663 - 11, with 13 is also prime
+For n = 437826, We have: 875652 = 875659 - 7, with (5, 7) is a twin prime pair
+For n = 437828, We have: 875656 = 875663 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 437830, We have: 875660 = 875663 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 437830, We have: 875660 = 875683 - 23, with (19, 23) is a cousin prime pair, and 875664 = 875681 - 17, with 19 is also prime
+For n = 437832, We have: 875664 = 875683 - 19, with (17, 19) is a twin prime pair
+For n = 437834, We have: 875668 = 875681 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 437836, We have: 875672 = 875683 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 437836, We have: 875672 = 875683 - 11, with (7, 11) is a cousin prime pair, and 875676 = 875681 - 5, with 7 is also prime
+For n = 437838, We have: 875676 = 875681 - 5, with (3, 5) is a twin prime pair
+For n = 437840, We have: 875680 = 875711 - 31, with (29, 31) is a twin prime pair
+For n = 437842, We have: 875684 = 875689 - 5, with (3, 5) is a twin prime pair
+For n = 437844, We have: 875688 = 875701 - 13, with (11, 13) is a twin prime pair
+For n = 437846, We have: 875692 = 875711 - 19, with (17, 19) is a twin prime pair
+For n = 437848, We have: 875696 = 875701 - 5, with (3, 5) is a twin prime pair
+For n = 437850, We have: 875700 = 875731 - 31, with (29, 31) is a twin prime pair
+For n = 437852, We have: 875704 = 875711 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 437854, We have: 875708 = 875711 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 437854, We have: 875708 = 875731 - 23, with (19, 23) is a cousin prime pair, and 875712 = 875717 - 5, with 7 is also prime
+For n = 437856, We have: 875712 = 875717 - 5, with (3, 5) is a twin prime pair
+For n = 437858, We have: 875716 = 875759 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 437860, We have: 875720 = 875731 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 437860, We have: 875720 = 875731 - 11, with (7, 11) is a cousin prime pair, and 875724 = 875741 - 17, with 19 is also prime
+For n = 437862, We have: 875724 = 875731 - 7, with (5, 7) is a twin prime pair
+For n = 437864, We have: 875728 = 875741 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 437866, We have: 875732 = 875761 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 437866, We have: 875732 = 875773 - 41, with (37, 41) is a cousin prime pair, and 875736 = 875741 - 5, with 7 is also prime
+For n = 437868, We have: 875736 = 875741 - 5, with (3, 5) is a twin prime pair
+For n = 437870, We have: 875740 = 875759 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 437872, We have: 875744 = 875761 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 437872, We have: 875744 = 875761 - 17, with (13, 17) is a cousin prime pair, and 875748 = 875759 - 11, with 13 is also prime
+For n = 437874, We have: 875748 = 875761 - 13, with (11, 13) is a twin prime pair
+For n = 437876, We have: 875752 = 875759 - 7, with (5, 7) is a twin prime pair
+For n = 437878, We have: 875756 = 875761 - 5, with (3, 5) is a twin prime pair
+For n = 437880, We have: 875760 = 875773 - 13, with (11, 13) is a twin prime pair
+For n = 437882, We have: 875764 = 875783 - 19, with (17, 19) is a twin prime pair
+For n = 437884, We have: 875768 = 875773 - 5, with (3, 5) is a twin prime pair
+For n = 437886, We have: 875772 = 875779 - 7, with (5, 7) is a twin prime pair
+For n = 437888, We have: 875776 = 875783 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 437890, We have: 875780 = 875783 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 437890, We have: 875780 = 875803 - 23, with (19, 23) is a cousin prime pair, and 875784 = 875933 - 149, with 151 is also prime
+For n = 437892, We have: 875784 = 875803 - 19, with (17, 19) is a twin prime pair
+For n = 437894, We have: 875788 = 875969 - 181, with (179, 181) is a twin prime pair
+1st condition: For n = 437896, We have: 875792 = 875803 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 437896, We have: 875792 = 875803 - 11, with (7, 11) is a cousin prime pair, and 875796 = 875837 - 41, with 43 is also prime
+For n = 437898, We have: 875796 = 875803 - 7, with (5, 7) is a twin prime pair
+For n = 437900, We have: 875800 = 875981 - 181, with (179, 181) is a twin prime pair
+1st condition: For n = 437902, We have: 875804 = 875821 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 437902, We have: 875804 = 875821 - 17, with (13, 17) is a cousin prime pair, and 875808 = 875837 - 29, with 31 is also prime
+For n = 437904, We have: 875808 = 875821 - 13, with (11, 13) is a twin prime pair
+For n = 437906, We have: 875812 = 876011 - 199, with (197, 199) is a twin prime pair
+For n = 437908, We have: 875816 = 875821 - 5, with (3, 5) is a twin prime pair
+For n = 437910, We have: 875820 = 875851 - 31, with (29, 31) is a twin prime pair
+For n = 437912, We have: 875824 = 875837 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 437914, We have: 875828 = 875929 - 101, with (101, 103) is a twin prime pair
+2nd condition: For n = 437914, We have: 875828 = 875851 - 23, with (19, 23) is a cousin prime pair, and 875832 = 875837 - 5, with 7 is also prime
+For n = 437916, We have: 875832 = 875837 - 5, with (3, 5) is a twin prime pair
+For n = 437918, We have: 875836 = 876017 - 181, with (179, 181) is a twin prime pair
+1st condition: For n = 437920, We have: 875840 = 875851 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 437920, We have: 875840 = 875851 - 11, with (7, 11) is a cousin prime pair, and 875844 = 875981 - 137, with 139 is also prime
+For n = 437922, We have: 875844 = 875851 - 7, with (5, 7) is a twin prime pair
+For n = 437924, We have: 875848 = 876041 - 193, with (191, 193) is a twin prime pair
+1st condition: For n = 437926, We have: 875852 = 875893 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 437926, We have: 875852 = 875893 - 41, with (37, 41) is a cousin prime pair, and 875856 = 876137 - 281, with 283 is also prime
+For n = 437928, We have: 875856 = 875929 - 73, with (71, 73) is a twin prime pair
+For n = 437930, We have: 875860 = 875933 - 73, with (71, 73) is a twin prime pair
+1st condition: For n = 437932, We have: 875864 = 875893 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 437932, We have: 875864 = 875947 - 83, with (79, 83) is a cousin prime pair, and 875868 = 875969 - 101, with 103 is also prime
+For n = 437934, We have: 875868 = 875929 - 61, with (59, 61) is a twin prime pair
+For n = 437936, We have: 875872 = 875933 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 437938, We have: 875876 = 875893 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 437938, We have: 875876 = 875893 - 17, with (13, 17) is a cousin prime pair, and 875880 = 875981 - 101, with 103 is also prime
+For n = 437940, We have: 875880 = 875893 - 13, with (11, 13) is a twin prime pair
+For n = 437942, We have: 875884 = 876023 - 139, with (137, 139) is a twin prime pair
+For n = 437944, We have: 875888 = 875893 - 5, with (3, 5) is a twin prime pair
+For n = 437946, We have: 875892 = 875923 - 31, with (29, 31) is a twin prime pair
+For n = 437948, We have: 875896 = 875969 - 73, with (71, 73) is a twin prime pair
+1st condition: For n = 437950, We have: 875900 = 875929 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 437950, We have: 875900 = 875923 - 23, with (19, 23) is a cousin prime pair, and 875904 = 875933 - 29, with 31 is also prime
+For n = 437952, We have: 875904 = 875923 - 19, with (17, 19) is a twin prime pair
+For n = 437954, We have: 875908 = 875969 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 437956, We have: 875912 = 875923 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 437956, We have: 875912 = 875923 - 11, with (7, 11) is a cousin prime pair, and 875916 = 875933 - 17, with 19 is also prime
+For n = 437958, We have: 875916 = 875923 - 7, with (5, 7) is a twin prime pair
+For n = 437960, We have: 875920 = 875933 - 13, with (11, 13) is a twin prime pair
+For n = 437962, We have: 875924 = 875929 - 5, with (3, 5) is a twin prime pair
+For n = 437964, We have: 875928 = 875933 - 5, with (3, 5) is a twin prime pair
+For n = 437966, We have: 875932 = 876041 - 109, with (107, 109) is a twin prime pair
+1st condition: For n = 437968, We have: 875936 = 875947 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 437968, We have: 875936 = 875947 - 11, with (7, 11) is a cousin prime pair, and 875940 = 875969 - 29, with 31 is also prime
+For n = 437970, We have: 875940 = 875947 - 7, with (5, 7) is a twin prime pair
+For n = 437972, We have: 875944 = 876017 - 73, with (71, 73) is a twin prime pair
+1st condition: For n = 437974, We have: 875948 = 876019 - 71, with (71, 73) is a twin prime pair
+2nd condition: For n = 437974, We have: 875948 = 876019 - 71, with (67, 71) is a cousin prime pair, and 875952 = 875969 - 17, with 19 is also prime
+For n = 437976, We have: 875952 = 875983 - 31, with (29, 31) is a twin prime pair
+For n = 437978, We have: 875956 = 875969 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 437980, We have: 875960 = 876019 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 437980, We have: 875960 = 875983 - 23, with (19, 23) is a cousin prime pair, and 875964 = 875969 - 5, with 7 is also prime
+For n = 437982, We have: 875964 = 875969 - 5, with (3, 5) is a twin prime pair
+For n = 437984, We have: 875968 = 875981 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 437986, We have: 875972 = 875983 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 437986, We have: 875972 = 875983 - 11, with (7, 11) is a cousin prime pair, and 875976 = 875981 - 5, with 7 is also prime
+For n = 437988, We have: 875976 = 875981 - 5, with (3, 5) is a twin prime pair
+For n = 437990, We have: 875980 = 876011 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 437992, We have: 875984 = 876013 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 437992, We have: 875984 = 876067 - 83, with (79, 83) is a cousin prime pair, and 875988 = 876017 - 29, with 31 is also prime
+For n = 437994, We have: 875988 = 876019 - 31, with (29, 31) is a twin prime pair
+For n = 437996, We have: 875992 = 876011 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 437998, We have: 875996 = 876013 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 437998, We have: 875996 = 876013 - 17, with (13, 17) is a cousin prime pair, and 876000 = 876011 - 11, with 13 is also prime
+For n = 438000, We have: 876000 = 876013 - 13, with (11, 13) is a twin prime pair
+For n = 438002, We have: 876004 = 876011 - 7, with (5, 7) is a twin prime pair
+For n = 438004, We have: 876008 = 876013 - 5, with (3, 5) is a twin prime pair
+For n = 438006, We have: 876012 = 876017 - 5, with (3, 5) is a twin prime pair
+For n = 438008, We have: 876016 = 876023 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 438010, We have: 876020 = 876023 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 438010, We have: 876020 = 876067 - 47, with (43, 47) is a cousin prime pair, and 876024 = 876041 - 17, with 19 is also prime
+For n = 438012, We have: 876024 = 876067 - 43, with (41, 43) is a twin prime pair
+For n = 438014, We have: 876028 = 876041 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 438016, We have: 876032 = 876103 - 71, with (71, 73) is a twin prime pair
+2nd condition: For n = 438016, We have: 876032 = 876079 - 47, with (43, 47) is a cousin prime pair, and 876036 = 876041 - 5, with 7 is also prime
+For n = 438018, We have: 876036 = 876041 - 5, with (3, 5) is a twin prime pair
+For n = 438020, We have: 876040 = 876149 - 109, with (107, 109) is a twin prime pair
+1st condition: For n = 438022, We have: 876044 = 876103 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 438022, We have: 876044 = 876067 - 23, with (19, 23) is a cousin prime pair, and 876048 = 876077 - 29, with 31 is also prime
+For n = 438024, We have: 876048 = 876067 - 19, with (17, 19) is a twin prime pair
+For n = 438026, We have: 876052 = 876191 - 139, with (137, 139) is a twin prime pair
+1st condition: For n = 438028, We have: 876056 = 876067 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 438028, We have: 876056 = 876067 - 11, with (7, 11) is a cousin prime pair, and 876060 = 876077 - 17, with 19 is also prime
+For n = 438030, We have: 876060 = 876067 - 7, with (5, 7) is a twin prime pair
+For n = 438032, We have: 876064 = 876077 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 438034, We have: 876068 = 876079 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 438034, We have: 876068 = 876079 - 11, with (7, 11) is a cousin prime pair, and 876072 = 876077 - 5, with 7 is also prime
+For n = 438036, We have: 876072 = 876077 - 5, with (3, 5) is a twin prime pair
+For n = 438038, We have: 876076 = 876107 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 438040, We have: 876080 = 876097 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 438040, We have: 876080 = 876097 - 17, with (13, 17) is a cousin prime pair, and 876084 = 876191 - 107, with 109 is also prime
+For n = 438042, We have: 876084 = 876097 - 13, with (11, 13) is a twin prime pair
+For n = 438044, We have: 876088 = 876107 - 19, with (17, 19) is a twin prime pair
+For n = 438046, We have: 876092 = 876097 - 5, with (3, 5) is a twin prime pair
+For n = 438048, We have: 876096 = 876103 - 7, with (5, 7) is a twin prime pair
+For n = 438050, We have: 876100 = 876107 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 438052, We have: 876104 = 876107 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 438052, We have: 876104 = 876121 - 17, with (13, 17) is a cousin prime pair, and 876108 = 876137 - 29, with 31 is also prime
+For n = 438054, We have: 876108 = 876121 - 13, with (11, 13) is a twin prime pair
+For n = 438056, We have: 876112 = 876131 - 19, with (17, 19) is a twin prime pair
+For n = 438058, We have: 876116 = 876121 - 5, with (3, 5) is a twin prime pair
+For n = 438060, We have: 876120 = 876181 - 61, with (59, 61) is a twin prime pair
+For n = 438062, We have: 876124 = 876131 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 438064, We have: 876128 = 876131 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 438064, We have: 876128 = 876199 - 71, with (67, 71) is a cousin prime pair, and 876132 = 876137 - 5, with 7 is also prime
+For n = 438066, We have: 876132 = 876137 - 5, with (3, 5) is a twin prime pair
+For n = 438068, We have: 876136 = 876149 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 438070, We have: 876140 = 876181 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 438070, We have: 876140 = 876181 - 41, with (37, 41) is a cousin prime pair, and 876144 = 876149 - 5, with 7 is also prime
+For n = 438072, We have: 876144 = 876149 - 5, with (3, 5) is a twin prime pair
+For n = 438074, We have: 876148 = 876191 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 438076, We have: 876152 = 876181 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 438076, We have: 876152 = 876193 - 41, with (37, 41) is a cousin prime pair, and 876156 = 876257 - 101, with 103 is also prime
+For n = 438078, We have: 876156 = 876199 - 43, with (41, 43) is a twin prime pair
+For n = 438080, We have: 876160 = 876191 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 438082, We have: 876164 = 876181 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 438082, We have: 876164 = 876181 - 17, with (13, 17) is a cousin prime pair, and 876168 = 876479 - 311, with 313 is also prime
+For n = 438084, We have: 876168 = 876181 - 13, with (11, 13) is a twin prime pair
+For n = 438086, We have: 876172 = 876191 - 19, with (17, 19) is a twin prime pair
+For n = 438088, We have: 876176 = 876181 - 5, with (3, 5) is a twin prime pair
+For n = 438090, We have: 876180 = 876193 - 13, with (11, 13) is a twin prime pair
+For n = 438092, We have: 876184 = 876191 - 7, with (5, 7) is a twin prime pair
+For n = 438094, We have: 876188 = 876193 - 5, with (3, 5) is a twin prime pair
+For n = 438096, We have: 876192 = 876199 - 7, with (5, 7) is a twin prime pair
+For n = 438098, We have: 876196 = 876203 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 438100, We have: 876200 = 876203 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 438100, We have: 876200 = 876301 - 101, with (97, 101) is a cousin prime pair, and 876204 = 876233 - 29, with 31 is also prime
+For n = 438102, We have: 876204 = 876307 - 103, with (101, 103) is a twin prime pair
+For n = 438104, We have: 876208 = 876311 - 103, with (101, 103) is a twin prime pair
+1st condition: For n = 438106, We have: 876212 = 876229 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 438106, We have: 876212 = 876229 - 17, with (13, 17) is a cousin prime pair, and 876216 = 876233 - 17, with 19 is also prime
+For n = 438108, We have: 876216 = 876229 - 13, with (11, 13) is a twin prime pair
+For n = 438110, We have: 876220 = 876233 - 13, with (11, 13) is a twin prime pair
+For n = 438112, We have: 876224 = 876229 - 5, with (3, 5) is a twin prime pair
+For n = 438114, We have: 876228 = 876233 - 5, with (3, 5) is a twin prime pair
+For n = 438116, We have: 876232 = 876263 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 438118, We have: 876236 = 876307 - 71, with (71, 73) is a twin prime pair
+2nd condition: For n = 438118, We have: 876236 = 876307 - 71, with (67, 71) is a cousin prime pair, and 876240 = 876257 - 17, with 19 is also prime
+For n = 438120, We have: 876240 = 876301 - 61, with (59, 61) is a twin prime pair
+For n = 438122, We have: 876244 = 876257 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 438124, We have: 876248 = 876307 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 438124, We have: 876248 = 876331 - 83, with (79, 83) is a cousin prime pair, and 876252 = 876257 - 5, with 7 is also prime
+For n = 438126, We have: 876252 = 876257 - 5, with (3, 5) is a twin prime pair
+For n = 438128, We have: 876256 = 876263 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 438130, We have: 876260 = 876263 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 438130, We have: 876260 = 876301 - 41, with (37, 41) is a cousin prime pair, and 876264 = 876371 - 107, with 109 is also prime
+For n = 438132, We have: 876264 = 876307 - 43, with (41, 43) is a twin prime pair
+For n = 438134, We have: 876268 = 876287 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 438136, We have: 876272 = 876301 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 438136, We have: 876272 = 876373 - 101, with (97, 101) is a cousin prime pair, and 876276 = 876287 - 11, with 13 is also prime
+For n = 438138, We have: 876276 = 876307 - 31, with (29, 31) is a twin prime pair
+For n = 438140, We have: 876280 = 876287 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 438142, We have: 876284 = 876287 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 438142, We have: 876284 = 876301 - 17, with (13, 17) is a cousin prime pair, and 876288 = 876329 - 41, with 43 is also prime
+For n = 438144, We have: 876288 = 876301 - 13, with (11, 13) is a twin prime pair
+For n = 438146, We have: 876292 = 876311 - 19, with (17, 19) is a twin prime pair
+For n = 438148, We have: 876296 = 876301 - 5, with (3, 5) is a twin prime pair
+For n = 438150, We have: 876300 = 876307 - 7, with (5, 7) is a twin prime pair
+For n = 438152, We have: 876304 = 876311 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 438154, We have: 876308 = 876311 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 438154, We have: 876308 = 876331 - 23, with (19, 23) is a cousin prime pair, and 876312 = 876329 - 17, with 19 is also prime
+For n = 438156, We have: 876312 = 876331 - 19, with (17, 19) is a twin prime pair
+For n = 438158, We have: 876316 = 876329 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 438160, We have: 876320 = 876331 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 438160, We have: 876320 = 876331 - 11, with (7, 11) is a cousin prime pair, and 876324 = 876329 - 5, with 7 is also prime
+For n = 438162, We have: 876324 = 876329 - 5, with (3, 5) is a twin prime pair
+For n = 438164, We have: 876328 = 876341 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 438166, We have: 876332 = 876349 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 438166, We have: 876332 = 876349 - 17, with (13, 17) is a cousin prime pair, and 876336 = 876341 - 5, with 7 is also prime
+For n = 438168, We have: 876336 = 876341 - 5, with (3, 5) is a twin prime pair
+For n = 438170, We have: 876340 = 876371 - 31, with (29, 31) is a twin prime pair
+For n = 438172, We have: 876344 = 876349 - 5, with (3, 5) is a twin prime pair
+For n = 438174, We have: 876348 = 876529 - 181, with (179, 181) is a twin prime pair
+For n = 438176, We have: 876352 = 876371 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 438178, We have: 876356 = 876373 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 438178, We have: 876356 = 876373 - 17, with (13, 17) is a cousin prime pair, and 876360 = 876371 - 11, with 13 is also prime
+For n = 438180, We have: 876360 = 876373 - 13, with (11, 13) is a twin prime pair
+For n = 438182, We have: 876364 = 876371 - 7, with (5, 7) is a twin prime pair
+For n = 438184, We have: 876368 = 876373 - 5, with (3, 5) is a twin prime pair
+For n = 438186, We have: 876372 = 876433 - 61, with (59, 61) is a twin prime pair
+For n = 438188, We have: 876376 = 876479 - 103, with (101, 103) is a twin prime pair
+1st condition: For n = 438190, We have: 876380 = 876481 - 101, with (101, 103) is a twin prime pair
+2nd condition: For n = 438190, We have: 876380 = 876481 - 101, with (97, 101) is a cousin prime pair, and 876384 = 876443 - 59, with 61 is also prime
+For n = 438192, We have: 876384 = 876523 - 139, with (137, 139) is a twin prime pair
+For n = 438194, We have: 876388 = 876431 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 438196, We have: 876392 = 876433 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 438196, We have: 876392 = 876433 - 41, with (37, 41) is a cousin prime pair, and 876396 = 876497 - 101, with 103 is also prime
+For n = 438198, We have: 876396 = 876817 - 421, with (419, 421) is a twin prime pair
+For n = 438200, We have: 876400 = 876431 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 438202, We have: 876404 = 876433 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 438202, We have: 876404 = 876721 - 317, with (313, 317) is a cousin prime pair, and 876408 = 876479 - 71, with 73 is also prime
+For n = 438204, We have: 876408 = 876481 - 73, with (71, 73) is a twin prime pair
+For n = 438206, We have: 876412 = 876431 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 438208, We have: 876416 = 876433 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 438208, We have: 876416 = 876433 - 17, with (13, 17) is a cousin prime pair, and 876420 = 876431 - 11, with 13 is also prime
+For n = 438210, We have: 876420 = 876433 - 13, with (11, 13) is a twin prime pair
+For n = 438212, We have: 876424 = 876431 - 7, with (5, 7) is a twin prime pair
+For n = 438214, We have: 876428 = 876433 - 5, with (3, 5) is a twin prime pair
+For n = 438216, We have: 876432 = 876661 - 229, with (227, 229) is a twin prime pair
+For n = 438218, We have: 876436 = 876443 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 438220, We have: 876440 = 876443 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 438220, We have: 876440 = 876481 - 41, with (37, 41) is a cousin prime pair, and 876444 = 876581 - 137, with 139 is also prime
+For n = 438222, We have: 876444 = 876643 - 199, with (197, 199) is a twin prime pair
+For n = 438224, We have: 876448 = 876479 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 438226, We have: 876452 = 876481 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 438226, We have: 876452 = 876523 - 71, with (67, 71) is a cousin prime pair, and 876456 = 876497 - 41, with 43 is also prime
+For n = 438228, We have: 876456 = 876529 - 73, with (71, 73) is a twin prime pair
+For n = 438230, We have: 876460 = 876479 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 438232, We have: 876464 = 876481 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 438232, We have: 876464 = 876481 - 17, with (13, 17) is a cousin prime pair, and 876468 = 876479 - 11, with 13 is also prime
+For n = 438234, We have: 876468 = 876481 - 13, with (11, 13) is a twin prime pair
+For n = 438236, We have: 876472 = 876479 - 7, with (5, 7) is a twin prime pair
+For n = 438238, We have: 876476 = 876481 - 5, with (3, 5) is a twin prime pair
+For n = 438240, We have: 876480 = 876523 - 43, with (41, 43) is a twin prime pair
+For n = 438242, We have: 876484 = 876497 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 438244, We have: 876488 = 876529 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 438244, We have: 876488 = 876529 - 41, with (37, 41) is a cousin prime pair, and 876492 = 876497 - 5, with 7 is also prime
+For n = 438246, We have: 876492 = 876497 - 5, with (3, 5) is a twin prime pair
+For n = 438248, We have: 876496 = 876569 - 73, with (71, 73) is a twin prime pair
+1st condition: For n = 438250, We have: 876500 = 876529 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 438250, We have: 876500 = 876523 - 23, with (19, 23) is a cousin prime pair, and 876504 = 876611 - 107, with 109 is also prime
+For n = 438252, We have: 876504 = 876523 - 19, with (17, 19) is a twin prime pair
+For n = 438254, We have: 876508 = 876569 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 438256, We have: 876512 = 876523 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 438256, We have: 876512 = 876523 - 11, with (7, 11) is a cousin prime pair, and 876516 = 876653 - 137, with 139 is also prime
+For n = 438258, We have: 876516 = 876523 - 7, with (5, 7) is a twin prime pair
+For n = 438260, We have: 876520 = 876581 - 61, with (59, 61) is a twin prime pair
+For n = 438262, We have: 876524 = 876529 - 5, with (3, 5) is a twin prime pair
+For n = 438264, We have: 876528 = 876721 - 193, with (191, 193) is a twin prime pair
+For n = 438266, We have: 876532 = 876593 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 438268, We have: 876536 = 876607 - 71, with (71, 73) is a twin prime pair
+2nd condition: For n = 438268, We have: 876536 = 876607 - 71, with (67, 71) is a cousin prime pair, and 876540 = 876569 - 29, with 31 is also prime
+For n = 438270, We have: 876540 = 876643 - 103, with (101, 103) is a twin prime pair
+For n = 438272, We have: 876544 = 876647 - 103, with (101, 103) is a twin prime pair
+1st condition: For n = 438274, We have: 876548 = 876607 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 438274, We have: 876548 = 876619 - 71, with (67, 71) is a cousin prime pair, and 876552 = 876569 - 17, with 19 is also prime
+For n = 438276, We have: 876552 = 876661 - 109, with (107, 109) is a twin prime pair
+For n = 438278, We have: 876556 = 876569 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 438280, We have: 876560 = 876619 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 438280, We have: 876560 = 876607 - 47, with (43, 47) is a cousin prime pair, and 876564 = 876569 - 5, with 7 is also prime
+For n = 438282, We have: 876564 = 876569 - 5, with (3, 5) is a twin prime pair
+For n = 438284, We have: 876568 = 876581 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 438286, We have: 876572 = 876643 - 71, with (71, 73) is a twin prime pair
+2nd condition: For n = 438286, We have: 876572 = 876619 - 47, with (43, 47) is a cousin prime pair, and 876576 = 876581 - 5, with 7 is also prime
+For n = 438288, We have: 876576 = 876581 - 5, with (3, 5) is a twin prime pair
+For n = 438290, We have: 876580 = 876593 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 438292, We have: 876584 = 876643 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 438292, We have: 876584 = 876607 - 23, with (19, 23) is a cousin prime pair, and 876588 = 876593 - 5, with 7 is also prime
+For n = 438294, We have: 876588 = 876593 - 5, with (3, 5) is a twin prime pair
+For n = 438296, We have: 876592 = 876611 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 438298, We have: 876596 = 876607 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 438298, We have: 876596 = 876607 - 11, with (7, 11) is a cousin prime pair, and 876600 = 876611 - 11, with 13 is also prime
+For n = 438300, We have: 876600 = 876607 - 7, with (5, 7) is a twin prime pair
+For n = 438302, We have: 876604 = 876611 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 438304, We have: 876608 = 876611 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 438304, We have: 876608 = 876619 - 11, with (7, 11) is a cousin prime pair, and 876612 = 876653 - 41, with 43 is also prime
+For n = 438306, We have: 876612 = 876619 - 7, with (5, 7) is a twin prime pair
+For n = 438308, We have: 876616 = 876647 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 438310, We have: 876620 = 876661 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 438310, We have: 876620 = 876643 - 23, with (19, 23) is a cousin prime pair, and 876624 = 876653 - 29, with 31 is also prime
+For n = 438312, We have: 876624 = 876643 - 19, with (17, 19) is a twin prime pair
+For n = 438314, We have: 876628 = 876647 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 438316, We have: 876632 = 876643 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 438316, We have: 876632 = 876643 - 11, with (7, 11) is a cousin prime pair, and 876636 = 876647 - 11, with 13 is also prime
+For n = 438318, We have: 876636 = 876643 - 7, with (5, 7) is a twin prime pair
+For n = 438320, We have: 876640 = 876647 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 438322, We have: 876644 = 876647 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 438322, We have: 876644 = 876661 - 17, with (13, 17) is a cousin prime pair, and 876648 = 876653 - 5, with 7 is also prime
+For n = 438324, We have: 876648 = 876653 - 5, with (3, 5) is a twin prime pair
+For n = 438326, We have: 876652 = 876761 - 109, with (107, 109) is a twin prime pair
+For n = 438328, We have: 876656 = 876661 - 5, with (3, 5) is a twin prime pair
+For n = 438330, We have: 876660 = 876721 - 61, with (59, 61) is a twin prime pair
+For n = 438332, We have: 876664 = 876677 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 438334, We have: 876668 = 876769 - 101, with (101, 103) is a twin prime pair
+2nd condition: For n = 438334, We have: 876668 = 876751 - 83, with (79, 83) is a cousin prime pair, and 876672 = 876677 - 5, with 7 is also prime
+For n = 438336, We have: 876672 = 876677 - 5, with (3, 5) is a twin prime pair
+For n = 438338, We have: 876676 = 876719 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 438340, We have: 876680 = 876721 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 438340, We have: 876680 = 876721 - 41, with (37, 41) is a cousin prime pair, and 876684 = 876791 - 107, with 109 is also prime
+For n = 438342, We have: 876684 = 876787 - 103, with (101, 103) is a twin prime pair
+For n = 438344, We have: 876688 = 876719 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 438346, We have: 876692 = 876721 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 438346, We have: 876692 = 876823 - 131, with (127, 131) is a cousin prime pair, and 876696 = 876797 - 101, with 103 is also prime
+For n = 438348, We have: 876696 = 876769 - 73, with (71, 73) is a twin prime pair
+For n = 438350, We have: 876700 = 876719 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 438352, We have: 876704 = 876721 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 438352, We have: 876704 = 876721 - 17, with (13, 17) is a cousin prime pair, and 876708 = 876719 - 11, with 13 is also prime
+For n = 438354, We have: 876708 = 876721 - 13, with (11, 13) is a twin prime pair
+For n = 438356, We have: 876712 = 876719 - 7, with (5, 7) is a twin prime pair
+For n = 438358, We have: 876716 = 876721 - 5, with (3, 5) is a twin prime pair
+For n = 438360, We have: 876720 = 876751 - 31, with (29, 31) is a twin prime pair
+For n = 438362, We have: 876724 = 876731 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 438364, We have: 876728 = 876731 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 438364, We have: 876728 = 876751 - 23, with (19, 23) is a cousin prime pair, and 876732 = 876749 - 17, with 19 is also prime
+For n = 438366, We have: 876732 = 876751 - 19, with (17, 19) is a twin prime pair
+For n = 438368, We have: 876736 = 876749 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 438370, We have: 876740 = 876751 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 438370, We have: 876740 = 876751 - 11, with (7, 11) is a cousin prime pair, and 876744 = 876749 - 5, with 7 is also prime
+For n = 438372, We have: 876744 = 876749 - 5, with (3, 5) is a twin prime pair
+For n = 438374, We have: 876748 = 876761 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 438376, We have: 876752 = 876769 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 438376, We have: 876752 = 876769 - 17, with (13, 17) is a cousin prime pair, and 876756 = 876761 - 5, with 7 is also prime
+For n = 438378, We have: 876756 = 876761 - 5, with (3, 5) is a twin prime pair
+For n = 438380, We have: 876760 = 876791 - 31, with (29, 31) is a twin prime pair
+For n = 438382, We have: 876764 = 876769 - 5, with (3, 5) is a twin prime pair
+For n = 438384, We have: 876768 = 876787 - 19, with (17, 19) is a twin prime pair
+For n = 438386, We have: 876772 = 876791 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 438388, We have: 876776 = 876787 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 438388, We have: 876776 = 876787 - 11, with (7, 11) is a cousin prime pair, and 876780 = 876791 - 11, with 13 is also prime
+For n = 438390, We have: 876780 = 876787 - 7, with (5, 7) is a twin prime pair
+For n = 438392, We have: 876784 = 876791 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 438394, We have: 876788 = 876791 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 438394, We have: 876788 = 876871 - 83, with (79, 83) is a cousin prime pair, and 876792 = 876797 - 5, with 7 is also prime
+For n = 438396, We have: 876792 = 876797 - 5, with (3, 5) is a twin prime pair
+For n = 438398, We have: 876796 = 876947 - 151, with (149, 151) is a twin prime pair
+1st condition: For n = 438400, We have: 876800 = 876817 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 438400, We have: 876800 = 876817 - 17, with (13, 17) is a cousin prime pair, and 876804 = 876833 - 29, with 31 is also prime
+For n = 438402, We have: 876804 = 876817 - 13, with (11, 13) is a twin prime pair
+For n = 438404, We have: 876808 = 876851 - 43, with (41, 43) is a twin prime pair
+For n = 438406, We have: 876812 = 876817 - 5, with (3, 5) is a twin prime pair
+For n = 438408, We have: 876816 = 876823 - 7, with (5, 7) is a twin prime pair
+For n = 438410, We have: 876820 = 876833 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 438412, We have: 876824 = 876853 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 438412, We have: 876824 = 876871 - 47, with (43, 47) is a cousin prime pair, and 876828 = 876833 - 5, with 7 is also prime
+For n = 438414, We have: 876828 = 876833 - 5, with (3, 5) is a twin prime pair
+For n = 438416, We have: 876832 = 876851 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 438418, We have: 876836 = 876853 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 438418, We have: 876836 = 876853 - 17, with (13, 17) is a cousin prime pair, and 876840 = 876851 - 11, with 13 is also prime
+For n = 438420, We have: 876840 = 876853 - 13, with (11, 13) is a twin prime pair
+For n = 438422, We have: 876844 = 876851 - 7, with (5, 7) is a twin prime pair
+For n = 438424, We have: 876848 = 876853 - 5, with (3, 5) is a twin prime pair
+For n = 438426, We have: 876852 = 876871 - 19, with (17, 19) is a twin prime pair
+For n = 438428, We have: 876856 = 876929 - 73, with (71, 73) is a twin prime pair
+1st condition: For n = 438430, We have: 876860 = 876871 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 438430, We have: 876860 = 876871 - 11, with (7, 11) is a cousin prime pair, and 876864 = 876893 - 29, with 31 is also prime
+For n = 438432, We have: 876864 = 876871 - 7, with (5, 7) is a twin prime pair
+For n = 438434, We have: 876868 = 876929 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 438436, We have: 876872 = 876913 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 438436, We have: 876872 = 876913 - 41, with (37, 41) is a cousin prime pair, and 876876 = 876893 - 17, with 19 is also prime
+For n = 438438, We have: 876876 = 877027 - 151, with (149, 151) is a twin prime pair
+For n = 438440, We have: 876880 = 876893 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 438442, We have: 876884 = 876913 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 438442, We have: 876884 = 877111 - 227, with (223, 227) is a cousin prime pair, and 876888 = 876893 - 5, with 7 is also prime
+For n = 438444, We have: 876888 = 876893 - 5, with (3, 5) is a twin prime pair
+For n = 438446, We have: 876892 = 877043 - 151, with (149, 151) is a twin prime pair
+1st condition: For n = 438448, We have: 876896 = 876913 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 438448, We have: 876896 = 876913 - 17, with (13, 17) is a cousin prime pair, and 876900 = 876929 - 29, with 31 is also prime
+For n = 438450, We have: 876900 = 876913 - 13, with (11, 13) is a twin prime pair
+For n = 438452, We have: 876904 = 876947 - 43, with (41, 43) is a twin prime pair
+For n = 438454, We have: 876908 = 876913 - 5, with (3, 5) is a twin prime pair
+For n = 438456, We have: 876912 = 877111 - 199, with (197, 199) is a twin prime pair
+For n = 438458, We have: 876916 = 876929 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 438460, We have: 876920 = 877027 - 107, with (107, 109) is a twin prime pair
+2nd condition: For n = 438460, We have: 876920 = 877003 - 83, with (79, 83) is a cousin prime pair, and 876924 = 876929 - 5, with 7 is also prime
+For n = 438462, We have: 876924 = 876929 - 5, with (3, 5) is a twin prime pair
+For n = 438464, We have: 876928 = 876947 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 438466, We have: 876932 = 877003 - 71, with (71, 73) is a twin prime pair
+2nd condition: For n = 438466, We have: 876932 = 877003 - 71, with (67, 71) is a cousin prime pair, and 876936 = 876947 - 11, with 13 is also prime
+For n = 438468, We have: 876936 = 877117 - 181, with (179, 181) is a twin prime pair
+For n = 438470, We have: 876940 = 876947 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 438472, We have: 876944 = 876947 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 438472, We have: 876944 = 877027 - 83, with (79, 83) is a cousin prime pair, and 876948 = 877187 - 239, with 241 is also prime
+For n = 438474, We have: 876948 = 877057 - 109, with (107, 109) is a twin prime pair
+For n = 438476, We have: 876952 = 876971 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 438478, We have: 876956 = 877027 - 71, with (71, 73) is a twin prime pair
+2nd condition: For n = 438478, We have: 876956 = 877003 - 47, with (43, 47) is a cousin prime pair, and 876960 = 876971 - 11, with 13 is also prime
+For n = 438480, We have: 876960 = 877003 - 43, with (41, 43) is a twin prime pair
+For n = 438482, We have: 876964 = 876971 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 438484, We have: 876968 = 876971 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 438484, We have: 876968 = 877321 - 353, with (349, 353) is a cousin prime pair, and 876972 = 877043 - 71, with 73 is also prime
+For n = 438486, We have: 876972 = 877003 - 31, with (29, 31) is a twin prime pair
+For n = 438488, We have: 876976 = 877169 - 193, with (191, 193) is a twin prime pair
+1st condition: For n = 438490, We have: 876980 = 877117 - 137, with (137, 139) is a twin prime pair
+2nd condition: For n = 438490, We have: 876980 = 877003 - 23, with (19, 23) is a cousin prime pair, and 876984 = 877043 - 59, with 61 is also prime
+For n = 438492, We have: 876984 = 877003 - 19, with (17, 19) is a twin prime pair
+For n = 438494, We have: 876988 = 877091 - 103, with (101, 103) is a twin prime pair
+1st condition: For n = 438496, We have: 876992 = 877003 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 438496, We have: 876992 = 877003 - 11, with (7, 11) is a cousin prime pair, and 876996 = 877133 - 137, with 139 is also prime
+For n = 438498, We have: 876996 = 877003 - 7, with (5, 7) is a twin prime pair
+For n = 438500, We have: 877000 = 877043 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 438502, We have: 877004 = 877111 - 107, with (107, 109) is a twin prime pair
+2nd condition: For n = 438502, We have: 877004 = 877027 - 23, with (19, 23) is a cousin prime pair, and 877008 = 877109 - 101, with 103 is also prime
+For n = 438504, We have: 877008 = 877027 - 19, with (17, 19) is a twin prime pair
+For n = 438506, We have: 877012 = 877043 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 438508, We have: 877016 = 877027 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 438508, We have: 877016 = 877027 - 11, with (7, 11) is a cousin prime pair, and 877020 = 877091 - 71, with 73 is also prime
+For n = 438510, We have: 877020 = 877027 - 7, with (5, 7) is a twin prime pair
+For n = 438512, We have: 877024 = 877043 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 438514, We have: 877028 = 877057 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 438514, We have: 877028 = 877111 - 83, with (79, 83) is a cousin prime pair, and 877032 = 877043 - 11, with 13 is also prime
+For n = 438516, We have: 877032 = 877213 - 181, with (179, 181) is a twin prime pair
+For n = 438518, We have: 877036 = 877043 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 438520, We have: 877040 = 877043 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 438520, We have: 877040 = 877057 - 17, with (13, 17) is a cousin prime pair, and 877044 = 877073 - 29, with 31 is also prime
+For n = 438522, We have: 877044 = 877057 - 13, with (11, 13) is a twin prime pair
+For n = 438524, We have: 877048 = 877091 - 43, with (41, 43) is a twin prime pair
+For n = 438526, We have: 877052 = 877057 - 5, with (3, 5) is a twin prime pair
+For n = 438528, We have: 877056 = 877117 - 61, with (59, 61) is a twin prime pair
+For n = 438530, We have: 877060 = 877073 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 438532, We have: 877064 = 877213 - 149, with (149, 151) is a twin prime pair
+2nd condition: For n = 438532, We have: 877064 = 877111 - 47, with (43, 47) is a cousin prime pair, and 877068 = 877073 - 5, with 7 is also prime
+For n = 438534, We have: 877068 = 877073 - 5, with (3, 5) is a twin prime pair
+For n = 438536, We have: 877072 = 877091 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 438538, We have: 877076 = 877117 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 438538, We have: 877076 = 877117 - 41, with (37, 41) is a cousin prime pair, and 877080 = 877091 - 11, with 13 is also prime
+For n = 438540, We have: 877080 = 877111 - 31, with (29, 31) is a twin prime pair
+For n = 438542, We have: 877084 = 877091 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 438544, We have: 877088 = 877091 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 438544, We have: 877088 = 877111 - 23, with (19, 23) is a cousin prime pair, and 877092 = 877109 - 17, with 19 is also prime
+For n = 438546, We have: 877092 = 877111 - 19, with (17, 19) is a twin prime pair
+For n = 438548, We have: 877096 = 877109 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 438550, We have: 877100 = 877111 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 438550, We have: 877100 = 877111 - 11, with (7, 11) is a cousin prime pair, and 877104 = 877109 - 5, with 7 is also prime
+For n = 438552, We have: 877104 = 877109 - 5, with (3, 5) is a twin prime pair
+For n = 438554, We have: 877108 = 877169 - 61, with (59, 61) is a twin prime pair
+For n = 438556, We have: 877112 = 877117 - 5, with (3, 5) is a twin prime pair
+For n = 438558, We have: 877116 = 877267 - 151, with (149, 151) is a twin prime pair
+For n = 438560, We have: 877120 = 877133 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 438562, We have: 877124 = 877321 - 197, with (197, 199) is a twin prime pair
+2nd condition: For n = 438562, We have: 877124 = 877237 - 113, with (109, 113) is a cousin prime pair, and 877128 = 877133 - 5, with 7 is also prime
+For n = 438564, We have: 877128 = 877133 - 5, with (3, 5) is a twin prime pair
+For n = 438566, We have: 877132 = 877313 - 181, with (179, 181) is a twin prime pair
+1st condition: For n = 438568, We have: 877136 = 877237 - 101, with (101, 103) is a twin prime pair
+2nd condition: For n = 438568, We have: 877136 = 877237 - 101, with (97, 101) is a cousin prime pair, and 877140 = 877169 - 29, with 31 is also prime
+For n = 438570, We have: 877140 = 877213 - 73, with (71, 73) is a twin prime pair
+For n = 438572, We have: 877144 = 877187 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 438574, We have: 877148 = 877297 - 149, with (149, 151) is a twin prime pair
+2nd condition: For n = 438574, We have: 877148 = 877531 - 383, with (379, 383) is a cousin prime pair, and 877152 = 877169 - 17, with 19 is also prime
+For n = 438576, We have: 877152 = 877213 - 61, with (59, 61) is a twin prime pair
+For n = 438578, We have: 877156 = 877169 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 438580, We have: 877160 = 877267 - 107, with (107, 109) is a twin prime pair
+2nd condition: For n = 438580, We have: 877160 = 877267 - 107, with (103, 107) is a cousin prime pair, and 877164 = 877169 - 5, with 7 is also prime
+For n = 438582, We have: 877164 = 877169 - 5, with (3, 5) is a twin prime pair
+For n = 438584, We have: 877168 = 877181 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 438586, We have: 877172 = 877213 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 438586, We have: 877172 = 877213 - 41, with (37, 41) is a cousin prime pair, and 877176 = 877181 - 5, with 7 is also prime
+For n = 438588, We have: 877176 = 877181 - 5, with (3, 5) is a twin prime pair
+For n = 438590, We have: 877180 = 877187 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 438592, We have: 877184 = 877187 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 438592, We have: 877184 = 877267 - 83, with (79, 83) is a cousin prime pair, and 877188 = 877199 - 11, with 13 is also prime
+For n = 438594, We have: 877188 = 877291 - 103, with (101, 103) is a twin prime pair
+For n = 438596, We have: 877192 = 877199 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 438598, We have: 877196 = 877199 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 438598, We have: 877196 = 877213 - 17, with (13, 17) is a cousin prime pair, and 877200 = 877301 - 101, with 103 is also prime
+For n = 438600, We have: 877200 = 877213 - 13, with (11, 13) is a twin prime pair
+For n = 438602, We have: 877204 = 877223 - 19, with (17, 19) is a twin prime pair
+For n = 438604, We have: 877208 = 877213 - 5, with (3, 5) is a twin prime pair
+For n = 438606, We have: 877212 = 877321 - 109, with (107, 109) is a twin prime pair
+For n = 438608, We have: 877216 = 877223 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 438610, We have: 877220 = 877223 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 438610, We have: 877220 = 877237 - 17, with (13, 17) is a cousin prime pair, and 877224 = 877361 - 137, with 139 is also prime
+For n = 438612, We have: 877224 = 877237 - 13, with (11, 13) is a twin prime pair
+For n = 438614, We have: 877228 = 877301 - 73, with (71, 73) is a twin prime pair
+For n = 438616, We have: 877232 = 877237 - 5, with (3, 5) is a twin prime pair
+For n = 438618, We have: 877236 = 877267 - 31, with (29, 31) is a twin prime pair
+For n = 438620, We have: 877240 = 877301 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 438622, We have: 877244 = 877351 - 107, with (107, 109) is a twin prime pair
+2nd condition: For n = 438622, We have: 877244 = 877267 - 23, with (19, 23) is a cousin prime pair, and 877248 = 877397 - 149, with 151 is also prime
+For n = 438624, We have: 877248 = 877267 - 19, with (17, 19) is a twin prime pair
+For n = 438626, We have: 877252 = 877313 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 438628, We have: 877256 = 877267 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 438628, We have: 877256 = 877267 - 11, with (7, 11) is a cousin prime pair, and 877260 = 877301 - 41, with 43 is also prime
+For n = 438630, We have: 877260 = 877267 - 7, with (5, 7) is a twin prime pair
+For n = 438632, We have: 877264 = 877367 - 103, with (101, 103) is a twin prime pair
+1st condition: For n = 438634, We have: 877268 = 877297 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 438634, We have: 877268 = 877291 - 23, with (19, 23) is a cousin prime pair, and 877272 = 877301 - 29, with 31 is also prime
+For n = 438636, We have: 877272 = 877291 - 19, with (17, 19) is a twin prime pair
+For n = 438638, We have: 877276 = 877379 - 103, with (101, 103) is a twin prime pair
+1st condition: For n = 438640, We have: 877280 = 877291 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 438640, We have: 877280 = 877291 - 11, with (7, 11) is a cousin prime pair, and 877284 = 877301 - 17, with 19 is also prime
+For n = 438642, We have: 877284 = 877291 - 7, with (5, 7) is a twin prime pair
+For n = 438644, We have: 877288 = 877301 - 13, with (11, 13) is a twin prime pair
+For n = 438646, We have: 877292 = 877297 - 5, with (3, 5) is a twin prime pair
+For n = 438648, We have: 877296 = 877301 - 5, with (3, 5) is a twin prime pair
+For n = 438650, We have: 877300 = 877313 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 438652, We have: 877304 = 877321 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 438652, We have: 877304 = 877321 - 17, with (13, 17) is a cousin prime pair, and 877308 = 877313 - 5, with 7 is also prime
+For n = 438654, We have: 877308 = 877313 - 5, with (3, 5) is a twin prime pair
+For n = 438656, We have: 877312 = 877343 - 31, with (29, 31) is a twin prime pair
+For n = 438658, We have: 877316 = 877321 - 5, with (3, 5) is a twin prime pair
+For n = 438660, We have: 877320 = 877333 - 13, with (11, 13) is a twin prime pair
+For n = 438662, We have: 877324 = 877343 - 19, with (17, 19) is a twin prime pair
+For n = 438664, We have: 877328 = 877333 - 5, with (3, 5) is a twin prime pair
+For n = 438666, We have: 877332 = 877351 - 19, with (17, 19) is a twin prime pair
+For n = 438668, We have: 877336 = 877343 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 438670, We have: 877340 = 877343 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 438670, We have: 877340 = 877351 - 11, with (7, 11) is a cousin prime pair, and 877344 = 877361 - 17, with 19 is also prime
+For n = 438672, We have: 877344 = 877351 - 7, with (5, 7) is a twin prime pair
+For n = 438674, We have: 877348 = 877361 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 438676, We have: 877352 = 877411 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 438676, We have: 877352 = 877399 - 47, with (43, 47) is a cousin prime pair, and 877356 = 877361 - 5, with 7 is also prime
+For n = 438678, We have: 877356 = 877361 - 5, with (3, 5) is a twin prime pair
+For n = 438680, We have: 877360 = 877367 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 438682, We have: 877364 = 877367 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 438682, We have: 877364 = 877411 - 47, with (43, 47) is a cousin prime pair, and 877368 = 877379 - 11, with 13 is also prime
+For n = 438684, We have: 877368 = 877399 - 31, with (29, 31) is a twin prime pair
+For n = 438686, We have: 877372 = 877379 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 438688, We have: 877376 = 877379 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 438688, We have: 877376 = 877399 - 23, with (19, 23) is a cousin prime pair, and 877380 = 877397 - 17, with 19 is also prime
+For n = 438690, We have: 877380 = 877399 - 19, with (17, 19) is a twin prime pair
+For n = 438692, We have: 877384 = 877397 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 438694, We have: 877388 = 877399 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 438694, We have: 877388 = 877399 - 11, with (7, 11) is a cousin prime pair, and 877392 = 877397 - 5, with 7 is also prime
+For n = 438696, We have: 877392 = 877397 - 5, with (3, 5) is a twin prime pair
+For n = 438698, We have: 877396 = 877403 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 438700, We have: 877400 = 877403 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 438700, We have: 877400 = 877411 - 11, with (7, 11) is a cousin prime pair, and 877404 = 877463 - 59, with 61 is also prime
+For n = 438702, We have: 877404 = 877411 - 7, with (5, 7) is a twin prime pair
+For n = 438704, We have: 877408 = 877469 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 438706, We have: 877412 = 877423 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 438706, We have: 877412 = 877423 - 11, with (7, 11) is a cousin prime pair, and 877416 = 877937 - 521, with 523 is also prime
+For n = 438708, We have: 877416 = 877423 - 7, with (5, 7) is a twin prime pair
+For n = 438710, We have: 877420 = 877463 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 438712, We have: 877424 = 877531 - 107, with (107, 109) is a twin prime pair
+2nd condition: For n = 438712, We have: 877424 = 877531 - 107, with (103, 107) is a cousin prime pair, and 877428 = 877469 - 41, with 43 is also prime
+For n = 438714, We have: 877428 = 877531 - 103, with (101, 103) is a twin prime pair
+For n = 438716, We have: 877432 = 877463 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 438718, We have: 877436 = 877543 - 107, with (107, 109) is a twin prime pair
+2nd condition: For n = 438718, We have: 877436 = 877543 - 107, with (103, 107) is a cousin prime pair, and 877440 = 877469 - 29, with 31 is also prime
+For n = 438720, We have: 877440 = 877543 - 103, with (101, 103) is a twin prime pair
+For n = 438722, We have: 877444 = 877463 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 438724, We have: 877448 = 877867 - 419, with (419, 421) is a twin prime pair
+2nd condition: For n = 438724, We have: 877448 = 877531 - 83, with (79, 83) is a cousin prime pair, and 877452 = 877463 - 11, with 13 is also prime
+For n = 438726, We have: 877452 = 877651 - 199, with (197, 199) is a twin prime pair
+For n = 438728, We have: 877456 = 877463 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 438730, We have: 877460 = 877463 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 438730, We have: 877460 = 877531 - 71, with (67, 71) is a cousin prime pair, and 877464 = 877469 - 5, with 7 is also prime
+For n = 438732, We have: 877464 = 877469 - 5, with (3, 5) is a twin prime pair
+For n = 438734, We have: 877468 = 877577 - 109, with (107, 109) is a twin prime pair
+1st condition: For n = 438736, We have: 877472 = 877531 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 438736, We have: 877472 = 877543 - 71, with (67, 71) is a cousin prime pair, and 877476 = 877577 - 101, with 103 is also prime
+For n = 438738, We have: 877476 = 877909 - 433, with (431, 433) is a twin prime pair
+For n = 438740, We have: 877480 = 877619 - 139, with (137, 139) is a twin prime pair
+1st condition: For n = 438742, We have: 877484 = 877543 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 438742, We have: 877484 = 877531 - 47, with (43, 47) is a cousin prime pair, and 877488 = 877907 - 419, with 421 is also prime
+For n = 438744, We have: 877488 = 877531 - 43, with (41, 43) is a twin prime pair
+For n = 438746, We have: 877492 = 877601 - 109, with (107, 109) is a twin prime pair
+1st condition: For n = 438748, We have: 877496 = 877567 - 71, with (71, 73) is a twin prime pair
+2nd condition: For n = 438748, We have: 877496 = 877543 - 47, with (43, 47) is a cousin prime pair, and 877500 = 877601 - 101, with 103 is also prime
+For n = 438750, We have: 877500 = 877531 - 31, with (29, 31) is a twin prime pair
+For n = 438752, We have: 877504 = 877577 - 73, with (71, 73) is a twin prime pair
+1st condition: For n = 438754, We have: 877508 = 877567 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 438754, We have: 877508 = 877531 - 23, with (19, 23) is a cousin prime pair, and 877512 = 877619 - 107, with 109 is also prime
+For n = 438756, We have: 877512 = 877531 - 19, with (17, 19) is a twin prime pair
+For n = 438758, We have: 877516 = 877577 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 438760, We have: 877520 = 877531 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 438760, We have: 877520 = 877531 - 11, with (7, 11) is a cousin prime pair, and 877524 = 877661 - 137, with 139 is also prime
+For n = 438762, We have: 877524 = 877531 - 7, with (5, 7) is a twin prime pair
+For n = 438764, We have: 877528 = 877601 - 73, with (71, 73) is a twin prime pair
+1st condition: For n = 438766, We have: 877532 = 877543 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 438766, We have: 877532 = 877543 - 11, with (7, 11) is a cousin prime pair, and 877536 = 877577 - 41, with 43 is also prime
+For n = 438768, We have: 877536 = 877543 - 7, with (5, 7) is a twin prime pair
+For n = 438770, We have: 877540 = 877601 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 438772, We have: 877544 = 877573 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 438772, We have: 877544 = 877567 - 23, with (19, 23) is a cousin prime pair, and 877548 = 877577 - 29, with 31 is also prime
+For n = 438774, We have: 877548 = 877567 - 19, with (17, 19) is a twin prime pair
+For n = 438776, We have: 877552 = 877661 - 109, with (107, 109) is a twin prime pair
+1st condition: For n = 438778, We have: 877556 = 877567 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 438778, We have: 877556 = 877567 - 11, with (7, 11) is a cousin prime pair, and 877560 = 877577 - 17, with 19 is also prime
+For n = 438780, We have: 877560 = 877567 - 7, with (5, 7) is a twin prime pair
+For n = 438782, We have: 877564 = 877577 - 13, with (11, 13) is a twin prime pair
+For n = 438784, We have: 877568 = 877573 - 5, with (3, 5) is a twin prime pair
+For n = 438786, We have: 877572 = 877577 - 5, with (3, 5) is a twin prime pair
+For n = 438788, We have: 877576 = 877619 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 438790, We have: 877580 = 877609 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 438790, We have: 877580 = 877621 - 41, with (37, 41) is a cousin prime pair, and 877584 = 877601 - 17, with 19 is also prime
+For n = 438792, We have: 877584 = 877783 - 199, with (197, 199) is a twin prime pair
+For n = 438794, We have: 877588 = 877601 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 438796, We have: 877592 = 877609 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 438796, We have: 877592 = 877609 - 17, with (13, 17) is a cousin prime pair, and 877596 = 877601 - 5, with 7 is also prime
+For n = 438798, We have: 877596 = 877601 - 5, with (3, 5) is a twin prime pair
+For n = 438800, We have: 877600 = 877619 - 19, with (17, 19) is a twin prime pair
+For n = 438802, We have: 877604 = 877609 - 5, with (3, 5) is a twin prime pair
+For n = 438804, We have: 877608 = 877621 - 13, with (11, 13) is a twin prime pair
+For n = 438806, We have: 877612 = 877619 - 7, with (5, 7) is a twin prime pair
+For n = 438808, We have: 877616 = 877621 - 5, with (3, 5) is a twin prime pair
+For n = 438810, We have: 877620 = 877651 - 31, with (29, 31) is a twin prime pair
+For n = 438812, We have: 877624 = 877817 - 193, with (191, 193) is a twin prime pair
+1st condition: For n = 438814, We have: 877628 = 877699 - 71, with (71, 73) is a twin prime pair
+2nd condition: For n = 438814, We have: 877628 = 877651 - 23, with (19, 23) is a cousin prime pair, and 877632 = 877661 - 29, with 31 is also prime
+For n = 438816, We have: 877632 = 877651 - 19, with (17, 19) is a twin prime pair
+For n = 438818, We have: 877636 = 877739 - 103, with (101, 103) is a twin prime pair
+1st condition: For n = 438820, We have: 877640 = 877651 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 438820, We have: 877640 = 877651 - 11, with (7, 11) is a cousin prime pair, and 877644 = 877661 - 17, with 19 is also prime
+For n = 438822, We have: 877644 = 877651 - 7, with (5, 7) is a twin prime pair
+For n = 438824, We have: 877648 = 877661 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 438826, We have: 877652 = 877843 - 191, with (191, 193) is a twin prime pair
+2nd condition: For n = 438826, We have: 877652 = 877699 - 47, with (43, 47) is a cousin prime pair, and 877656 = 877661 - 5, with 7 is also prime
+For n = 438828, We have: 877656 = 877661 - 5, with (3, 5) is a twin prime pair
+For n = 438830, We have: 877660 = 877853 - 193, with (191, 193) is a twin prime pair
+1st condition: For n = 438832, We have: 877664 = 877771 - 107, with (107, 109) is a twin prime pair
+2nd condition: For n = 438832, We have: 877664 = 877771 - 107, with (103, 107) is a cousin prime pair, and 877668 = 877739 - 71, with 73 is also prime
+For n = 438834, We have: 877668 = 877699 - 31, with (29, 31) is a twin prime pair
+For n = 438836, We have: 877672 = 877823 - 151, with (149, 151) is a twin prime pair
+1st condition: For n = 438838, We have: 877676 = 877783 - 107, with (107, 109) is a twin prime pair
+2nd condition: For n = 438838, We have: 877676 = 877699 - 23, with (19, 23) is a cousin prime pair, and 877680 = 877739 - 59, with 61 is also prime
+For n = 438840, We have: 877680 = 877699 - 19, with (17, 19) is a twin prime pair
+For n = 438842, We have: 877684 = 877823 - 139, with (137, 139) is a twin prime pair
+1st condition: For n = 438844, We have: 877688 = 877699 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 438844, We have: 877688 = 877699 - 11, with (7, 11) is a cousin prime pair, and 877692 = 877871 - 179, with 181 is also prime
+For n = 438846, We have: 877692 = 877699 - 7, with (5, 7) is a twin prime pair
+For n = 438848, We have: 877696 = 877739 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 438850, We have: 877700 = 877771 - 71, with (71, 73) is a twin prime pair
+2nd condition: For n = 438850, We have: 877700 = 877771 - 71, with (67, 71) is a cousin prime pair, and 877704 = 877853 - 149, with 151 is also prime
+For n = 438852, We have: 877704 = 877843 - 139, with (137, 139) is a twin prime pair
+For n = 438854, We have: 877708 = 877739 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 438856, We have: 877712 = 877771 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 438856, We have: 877712 = 877783 - 71, with (67, 71) is a cousin prime pair, and 877716 = 877817 - 101, with 103 is also prime
+For n = 438858, We have: 877716 = 877867 - 151, with (149, 151) is a twin prime pair
+For n = 438860, We have: 877720 = 877739 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 438862, We have: 877724 = 877783 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 438862, We have: 877724 = 877771 - 47, with (43, 47) is a cousin prime pair, and 877728 = 877739 - 11, with 13 is also prime
+For n = 438864, We have: 877728 = 877771 - 43, with (41, 43) is a twin prime pair
+For n = 438866, We have: 877732 = 877739 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 438868, We have: 877736 = 877739 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 438868, We have: 877736 = 877783 - 47, with (43, 47) is a cousin prime pair, and 877740 = 877937 - 197, with 199 is also prime
+For n = 438870, We have: 877740 = 877771 - 31, with (29, 31) is a twin prime pair
+For n = 438872, We have: 877744 = 877817 - 73, with (71, 73) is a twin prime pair
+1st condition: For n = 438874, We have: 877748 = 877939 - 191, with (191, 193) is a twin prime pair
+2nd condition: For n = 438874, We have: 877748 = 877771 - 23, with (19, 23) is a cousin prime pair, and 877752 = 877823 - 71, with 73 is also prime
+For n = 438876, We have: 877752 = 877771 - 19, with (17, 19) is a twin prime pair
+For n = 438878, We have: 877756 = 877817 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 438880, We have: 877760 = 877771 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 438880, We have: 877760 = 877771 - 11, with (7, 11) is a cousin prime pair, and 877764 = 877823 - 59, with 61 is also prime
+For n = 438882, We have: 877764 = 877771 - 7, with (5, 7) is a twin prime pair
+For n = 438884, We have: 877768 = 877871 - 103, with (101, 103) is a twin prime pair
+1st condition: For n = 438886, We have: 877772 = 877783 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 438886, We have: 877772 = 877783 - 11, with (7, 11) is a cousin prime pair, and 877776 = 877817 - 41, with 43 is also prime
+For n = 438888, We have: 877776 = 877783 - 7, with (5, 7) is a twin prime pair
+For n = 438890, We have: 877780 = 877823 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 438892, We have: 877784 = 877843 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 438892, We have: 877784 = 877867 - 83, with (79, 83) is a cousin prime pair, and 877788 = 877817 - 29, with 31 is also prime
+For n = 438894, We have: 877788 = 877939 - 151, with (149, 151) is a twin prime pair
+For n = 438896, We have: 877792 = 877823 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 438898, We have: 877796 = 877837 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 438898, We have: 877796 = 877837 - 41, with (37, 41) is a cousin prime pair, and 877800 = 877817 - 17, with 19 is also prime
+For n = 438900, We have: 877800 = 877843 - 43, with (41, 43) is a twin prime pair
+For n = 438902, We have: 877804 = 877817 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 438904, We have: 877808 = 877837 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 438904, We have: 877808 = 877879 - 71, with (67, 71) is a cousin prime pair, and 877812 = 877817 - 5, with 7 is also prime
+For n = 438906, We have: 877812 = 877817 - 5, with (3, 5) is a twin prime pair
+For n = 438908, We have: 877816 = 877823 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 438910, We have: 877820 = 877823 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 438910, We have: 877820 = 877837 - 17, with (13, 17) is a cousin prime pair, and 877824 = 877853 - 29, with 31 is also prime
+For n = 438912, We have: 877824 = 877837 - 13, with (11, 13) is a twin prime pair
+For n = 438914, We have: 877828 = 877871 - 43, with (41, 43) is a twin prime pair
+For n = 438916, We have: 877832 = 877837 - 5, with (3, 5) is a twin prime pair
+For n = 438918, We have: 877836 = 877843 - 7, with (5, 7) is a twin prime pair
+For n = 438920, We have: 877840 = 877853 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 438922, We have: 877844 = 877873 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 438922, We have: 877844 = 877867 - 23, with (19, 23) is a cousin prime pair, and 877848 = 877853 - 5, with 7 is also prime
+For n = 438924, We have: 877848 = 877853 - 5, with (3, 5) is a twin prime pair
+For n = 438926, We have: 877852 = 877871 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 438928, We have: 877856 = 877867 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 438928, We have: 877856 = 877867 - 11, with (7, 11) is a cousin prime pair, and 877860 = 877871 - 11, with 13 is also prime
+For n = 438930, We have: 877860 = 877867 - 7, with (5, 7) is a twin prime pair
+For n = 438932, We have: 877864 = 877871 - 7, with (5, 7) is a twin prime pair
+For n = 438934, We have: 877868 = 877873 - 5, with (3, 5) is a twin prime pair
+For n = 438936, We have: 877872 = 877879 - 7, with (5, 7) is a twin prime pair
+For n = 438938, We have: 877876 = 877883 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 438940, We have: 877880 = 877883 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 438940, We have: 877880 = 878011 - 131, with (127, 131) is a cousin prime pair, and 877884 = 878021 - 137, with 139 is also prime
+For n = 438942, We have: 877884 = 878023 - 139, with (137, 139) is a twin prime pair
+For n = 438944, We have: 877888 = 877907 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 438946, We have: 877892 = 877909 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 438946, We have: 877892 = 877909 - 17, with (13, 17) is a cousin prime pair, and 877896 = 877907 - 11, with 13 is also prime
+For n = 438948, We have: 877896 = 877909 - 13, with (11, 13) is a twin prime pair
+For n = 438950, We have: 877900 = 877907 - 7, with (5, 7) is a twin prime pair
+For n = 438952, We have: 877904 = 877909 - 5, with (3, 5) is a twin prime pair
+For n = 438954, We have: 877908 = 877939 - 31, with (29, 31) is a twin prime pair
+For n = 438956, We have: 877912 = 878021 - 109, with (107, 109) is a twin prime pair
+1st condition: For n = 438958, We have: 877916 = 878023 - 107, with (107, 109) is a twin prime pair
+2nd condition: For n = 438958, We have: 877916 = 877939 - 23, with (19, 23) is a cousin prime pair, and 877920 = 877937 - 17, with 19 is also prime
+For n = 438960, We have: 877920 = 877939 - 19, with (17, 19) is a twin prime pair
+For n = 438962, We have: 877924 = 877937 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 438964, We have: 877928 = 877939 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 438964, We have: 877928 = 877939 - 11, with (7, 11) is a cousin prime pair, and 877932 = 877937 - 5, with 7 is also prime
+For n = 438966, We have: 877932 = 877937 - 5, with (3, 5) is a twin prime pair
+For n = 438968, We have: 877936 = 877949 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 438970, We have: 877940 = 878011 - 71, with (71, 73) is a twin prime pair
+2nd condition: For n = 438970, We have: 877940 = 878011 - 71, with (67, 71) is a cousin prime pair, and 877944 = 877949 - 5, with 7 is also prime
+For n = 438972, We have: 877944 = 877949 - 5, with (3, 5) is a twin prime pair
+For n = 438974, We have: 877948 = 878021 - 73, with (71, 73) is a twin prime pair
+1st condition: For n = 438976, We have: 877952 = 878011 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 438976, We have: 877952 = 878023 - 71, with (67, 71) is a cousin prime pair, and 877956 = 877997 - 41, with 43 is also prime
+For n = 438978, We have: 877956 = 878107 - 151, with (149, 151) is a twin prime pair
+For n = 438980, We have: 877960 = 878021 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 438982, We have: 877964 = 878023 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 438982, We have: 877964 = 878011 - 47, with (43, 47) is a cousin prime pair, and 877968 = 877997 - 29, with 31 is also prime
+For n = 438984, We have: 877968 = 878011 - 43, with (41, 43) is a twin prime pair
+For n = 438986, We have: 877972 = 878153 - 181, with (179, 181) is a twin prime pair
+1st condition: For n = 438988, We have: 877976 = 878077 - 101, with (101, 103) is a twin prime pair
+2nd condition: For n = 438988, We have: 877976 = 878023 - 47, with (43, 47) is a cousin prime pair, and 877980 = 877997 - 17, with 19 is also prime
+For n = 438990, We have: 877980 = 878011 - 31, with (29, 31) is a twin prime pair
+For n = 438992, We have: 877984 = 877997 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 438994, We have: 877988 = 878089 - 101, with (101, 103) is a twin prime pair
+2nd condition: For n = 438994, We have: 877988 = 878011 - 23, with (19, 23) is a cousin prime pair, and 877992 = 877997 - 5, with 7 is also prime
+For n = 438996, We have: 877992 = 877997 - 5, with (3, 5) is a twin prime pair
+For n = 438998, We have: 877996 = 878039 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 439000, We have: 878000 = 878011 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 439000, We have: 878000 = 878011 - 11, with (7, 11) is a cousin prime pair, and 878004 = 878021 - 17, with 19 is also prime
+For n = 439002, We have: 878004 = 878011 - 7, with (5, 7) is a twin prime pair
+For n = 439004, We have: 878008 = 878021 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 439006, We have: 878012 = 878023 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 439006, We have: 878012 = 878023 - 11, with (7, 11) is a cousin prime pair, and 878016 = 878021 - 5, with 7 is also prime
+For n = 439008, We have: 878016 = 878021 - 5, with (3, 5) is a twin prime pair
+For n = 439010, We have: 878020 = 878039 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 439012, We have: 878024 = 878041 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 439012, We have: 878024 = 878041 - 17, with (13, 17) is a cousin prime pair, and 878028 = 878039 - 11, with 13 is also prime
+For n = 439014, We have: 878028 = 878041 - 13, with (11, 13) is a twin prime pair
+For n = 439016, We have: 878032 = 878039 - 7, with (5, 7) is a twin prime pair
+For n = 439018, We have: 878036 = 878041 - 5, with (3, 5) is a twin prime pair
+For n = 439020, We have: 878040 = 878083 - 43, with (41, 43) is a twin prime pair
+For n = 439022, We have: 878044 = 878147 - 103, with (101, 103) is a twin prime pair
+1st condition: For n = 439024, We have: 878048 = 878077 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 439024, We have: 878048 = 878089 - 41, with (37, 41) is a cousin prime pair, and 878052 = 878153 - 101, with 103 is also prime
+For n = 439026, We have: 878052 = 878083 - 31, with (29, 31) is a twin prime pair
+For n = 439028, We have: 878056 = 878099 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 439030, We have: 878060 = 878077 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 439030, We have: 878060 = 878077 - 17, with (13, 17) is a cousin prime pair, and 878064 = 878201 - 137, with 139 is also prime
+For n = 439032, We have: 878064 = 878077 - 13, with (11, 13) is a twin prime pair
+For n = 439034, We have: 878068 = 878099 - 31, with (29, 31) is a twin prime pair
+For n = 439036, We have: 878072 = 878077 - 5, with (3, 5) is a twin prime pair
+For n = 439038, We have: 878076 = 878083 - 7, with (5, 7) is a twin prime pair
+For n = 439040, We have: 878080 = 878099 - 19, with (17, 19) is a twin prime pair
+For n = 439042, We have: 878084 = 878089 - 5, with (3, 5) is a twin prime pair
+For n = 439044, We have: 878088 = 878107 - 19, with (17, 19) is a twin prime pair
+For n = 439046, We have: 878092 = 878099 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 439048, We have: 878096 = 878099 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 439048, We have: 878096 = 878107 - 11, with (7, 11) is a cousin prime pair, and 878100 = 878159 - 59, with 61 is also prime
+For n = 439050, We have: 878100 = 878107 - 7, with (5, 7) is a twin prime pair
+For n = 439052, We have: 878104 = 878147 - 43, with (41, 43) is a twin prime pair
+For n = 439054, We have: 878108 = 878113 - 5, with (3, 5) is a twin prime pair
+For n = 439056, We have: 878112 = 878131 - 19, with (17, 19) is a twin prime pair
+For n = 439058, We have: 878116 = 878147 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 439060, We have: 878120 = 878131 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 439060, We have: 878120 = 878131 - 11, with (7, 11) is a cousin prime pair, and 878124 = 878153 - 29, with 31 is also prime
+For n = 439062, We have: 878124 = 878131 - 7, with (5, 7) is a twin prime pair
+For n = 439064, We have: 878128 = 878147 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 439066, We have: 878132 = 878173 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 439066, We have: 878132 = 878173 - 41, with (37, 41) is a cousin prime pair, and 878136 = 878147 - 11, with 13 is also prime
+For n = 439068, We have: 878136 = 878167 - 31, with (29, 31) is a twin prime pair
+For n = 439070, We have: 878140 = 878147 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 439072, We have: 878144 = 878147 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 439072, We have: 878144 = 878167 - 23, with (19, 23) is a cousin prime pair, and 878148 = 878153 - 5, with 7 is also prime
+For n = 439074, We have: 878148 = 878153 - 5, with (3, 5) is a twin prime pair
+For n = 439076, We have: 878152 = 878159 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 439078, We have: 878156 = 878159 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 439078, We have: 878156 = 878167 - 11, with (7, 11) is a cousin prime pair, and 878160 = 878201 - 41, with 43 is also prime
+For n = 439080, We have: 878160 = 878167 - 7, with (5, 7) is a twin prime pair
+For n = 439082, We have: 878164 = 878183 - 19, with (17, 19) is a twin prime pair
+For n = 439084, We have: 878168 = 878173 - 5, with (3, 5) is a twin prime pair
+For n = 439086, We have: 878172 = 878191 - 19, with (17, 19) is a twin prime pair
+For n = 439088, We have: 878176 = 878183 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 439090, We have: 878180 = 878183 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 439090, We have: 878180 = 878191 - 11, with (7, 11) is a cousin prime pair, and 878184 = 878201 - 17, with 19 is also prime
+For n = 439092, We have: 878184 = 878191 - 7, with (5, 7) is a twin prime pair
+For n = 439094, We have: 878188 = 878201 - 13, with (11, 13) is a twin prime pair
+For n = 439096, We have: 878192 = 878197 - 5, with (3, 5) is a twin prime pair
+For n = 439098, We have: 878196 = 878201 - 5, with (3, 5) is a twin prime pair
+For n = 439100, We have: 878200 = 878309 - 109, with (107, 109) is a twin prime pair
+1st condition: For n = 439102, We have: 878204 = 878221 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 439102, We have: 878204 = 878221 - 17, with (13, 17) is a cousin prime pair, and 878208 = 878279 - 71, with 73 is also prime
+For n = 439104, We have: 878208 = 878221 - 13, with (11, 13) is a twin prime pair
+For n = 439106, We have: 878212 = 878411 - 199, with (197, 199) is a twin prime pair
+For n = 439108, We have: 878216 = 878221 - 5, with (3, 5) is a twin prime pair
+For n = 439110, We have: 878220 = 878239 - 19, with (17, 19) is a twin prime pair
+For n = 439112, We have: 878224 = 878453 - 229, with (227, 229) is a twin prime pair
+1st condition: For n = 439114, We have: 878228 = 878239 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 439114, We have: 878228 = 878239 - 11, with (7, 11) is a cousin prime pair, and 878232 = 878291 - 59, with 61 is also prime
+For n = 439116, We have: 878232 = 878239 - 7, with (5, 7) is a twin prime pair
+For n = 439118, We have: 878236 = 878279 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 439120, We have: 878240 = 878299 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 439120, We have: 878240 = 878287 - 47, with (43, 47) is a cousin prime pair, and 878244 = 878513 - 269, with 271 is also prime
+For n = 439122, We have: 878244 = 878287 - 43, with (41, 43) is a twin prime pair
+For n = 439124, We have: 878248 = 878279 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 439126, We have: 878252 = 878359 - 107, with (107, 109) is a twin prime pair
+2nd condition: For n = 439126, We have: 878252 = 878299 - 47, with (43, 47) is a cousin prime pair, and 878256 = 878453 - 197, with 199 is also prime
+For n = 439128, We have: 878256 = 878287 - 31, with (29, 31) is a twin prime pair
+For n = 439130, We have: 878260 = 878279 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 439132, We have: 878264 = 878413 - 149, with (149, 151) is a twin prime pair
+2nd condition: For n = 439132, We have: 878264 = 878287 - 23, with (19, 23) is a cousin prime pair, and 878268 = 878279 - 11, with 13 is also prime
+For n = 439134, We have: 878268 = 878287 - 19, with (17, 19) is a twin prime pair
+For n = 439136, We have: 878272 = 878279 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 439138, We have: 878276 = 878279 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 439138, We have: 878276 = 878287 - 11, with (7, 11) is a cousin prime pair, and 878280 = 878291 - 11, with 13 is also prime
+For n = 439140, We have: 878280 = 878287 - 7, with (5, 7) is a twin prime pair
+For n = 439142, We have: 878284 = 878291 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 439144, We have: 878288 = 878291 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 439144, We have: 878288 = 878299 - 11, with (7, 11) is a cousin prime pair, and 878292 = 878309 - 17, with 19 is also prime
+For n = 439146, We have: 878292 = 878299 - 7, with (5, 7) is a twin prime pair
+For n = 439148, We have: 878296 = 878309 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 439150, We have: 878300 = 878359 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 439150, We have: 878300 = 878413 - 113, with (109, 113) is a cousin prime pair, and 878304 = 878309 - 5, with 7 is also prime
+For n = 439152, We have: 878304 = 878309 - 5, with (3, 5) is a twin prime pair
+For n = 439154, We have: 878308 = 878411 - 103, with (101, 103) is a twin prime pair
+1st condition: For n = 439156, We have: 878312 = 878413 - 101, with (101, 103) is a twin prime pair
+2nd condition: For n = 439156, We have: 878312 = 878359 - 47, with (43, 47) is a cousin prime pair, and 878316 = 878387 - 71, with 73 is also prime
+For n = 439158, We have: 878316 = 878359 - 43, with (41, 43) is a twin prime pair
+For n = 439160, We have: 878320 = 878513 - 193, with (191, 193) is a twin prime pair
+1st condition: For n = 439162, We have: 878324 = 878551 - 227, with (227, 229) is a twin prime pair
+2nd condition: For n = 439162, We have: 878324 = 878551 - 227, with (223, 227) is a cousin prime pair, and 878328 = 878387 - 59, with 61 is also prime
+For n = 439164, We have: 878328 = 878359 - 31, with (29, 31) is a twin prime pair
+For n = 439166, We have: 878332 = 878513 - 181, with (179, 181) is a twin prime pair
+1st condition: For n = 439168, We have: 878336 = 878377 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 439168, We have: 878336 = 878359 - 23, with (19, 23) is a cousin prime pair, and 878340 = 878411 - 71, with 73 is also prime
+For n = 439170, We have: 878340 = 878359 - 19, with (17, 19) is a twin prime pair
+For n = 439172, We have: 878344 = 878387 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 439174, We have: 878348 = 878359 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 439174, We have: 878348 = 878359 - 11, with (7, 11) is a cousin prime pair, and 878352 = 878411 - 59, with 61 is also prime
+For n = 439176, We have: 878352 = 878359 - 7, with (5, 7) is a twin prime pair
+For n = 439178, We have: 878356 = 878387 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 439180, We have: 878360 = 878377 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 439180, We have: 878360 = 878377 - 17, with (13, 17) is a cousin prime pair, and 878364 = 878513 - 149, with 151 is also prime
+For n = 439182, We have: 878364 = 878377 - 13, with (11, 13) is a twin prime pair
+For n = 439184, We have: 878368 = 878387 - 19, with (17, 19) is a twin prime pair
+For n = 439186, We have: 878372 = 878377 - 5, with (3, 5) is a twin prime pair
+For n = 439188, We have: 878376 = 878419 - 43, with (41, 43) is a twin prime pair
+For n = 439190, We have: 878380 = 878387 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 439192, We have: 878384 = 878387 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 439192, We have: 878384 = 878467 - 83, with (79, 83) is a cousin prime pair, and 878388 = 878489 - 101, with 103 is also prime
+For n = 439194, We have: 878388 = 878419 - 31, with (29, 31) is a twin prime pair
+For n = 439196, We have: 878392 = 878411 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 439198, We have: 878396 = 878413 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 439198, We have: 878396 = 878413 - 17, with (13, 17) is a cousin prime pair, and 878400 = 878411 - 11, with 13 is also prime
+For n = 439200, We have: 878400 = 878413 - 13, with (11, 13) is a twin prime pair
+For n = 439202, We have: 878404 = 878411 - 7, with (5, 7) is a twin prime pair
+For n = 439204, We have: 878408 = 878413 - 5, with (3, 5) is a twin prime pair
+For n = 439206, We have: 878412 = 878419 - 7, with (5, 7) is a twin prime pair
+For n = 439208, We have: 878416 = 878489 - 73, with (71, 73) is a twin prime pair
+1st condition: For n = 439210, We have: 878420 = 878659 - 239, with (239, 241) is a twin prime pair
+2nd condition: For n = 439210, We have: 878420 = 878443 - 23, with (19, 23) is a cousin prime pair, and 878424 = 878453 - 29, with 31 is also prime
+For n = 439212, We have: 878424 = 878443 - 19, with (17, 19) is a twin prime pair
+For n = 439214, We have: 878428 = 878489 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 439216, We have: 878432 = 878443 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 439216, We have: 878432 = 878443 - 11, with (7, 11) is a cousin prime pair, and 878436 = 878453 - 17, with 19 is also prime
+For n = 439218, We have: 878436 = 878443 - 7, with (5, 7) is a twin prime pair
+For n = 439220, We have: 878440 = 878453 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 439222, We have: 878444 = 878551 - 107, with (107, 109) is a twin prime pair
+2nd condition: For n = 439222, We have: 878444 = 878467 - 23, with (19, 23) is a cousin prime pair, and 878448 = 878453 - 5, with 7 is also prime
+For n = 439224, We have: 878448 = 878453 - 5, with (3, 5) is a twin prime pair
+For n = 439226, We have: 878452 = 878513 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 439228, We have: 878456 = 878467 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 439228, We have: 878456 = 878467 - 11, with (7, 11) is a cousin prime pair, and 878460 = 878489 - 29, with 31 is also prime
+For n = 439230, We have: 878460 = 878467 - 7, with (5, 7) is a twin prime pair
+For n = 439232, We have: 878464 = 878567 - 103, with (101, 103) is a twin prime pair
+1st condition: For n = 439234, We have: 878468 = 878539 - 71, with (71, 73) is a twin prime pair
+2nd condition: For n = 439234, We have: 878468 = 878539 - 71, with (67, 71) is a cousin prime pair, and 878472 = 878489 - 17, with 19 is also prime
+For n = 439236, We have: 878472 = 878743 - 271, with (269, 271) is a twin prime pair
+For n = 439238, We have: 878476 = 878489 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 439240, We have: 878480 = 878539 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 439240, We have: 878480 = 878551 - 71, with (67, 71) is a cousin prime pair, and 878484 = 878489 - 5, with 7 is also prime
+For n = 439242, We have: 878484 = 878489 - 5, with (3, 5) is a twin prime pair
+For n = 439244, We have: 878488 = 878597 - 109, with (107, 109) is a twin prime pair
+1st condition: For n = 439246, We have: 878492 = 878551 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 439246, We have: 878492 = 878539 - 47, with (43, 47) is a cousin prime pair, and 878496 = 878513 - 17, with 19 is also prime
+For n = 439248, We have: 878496 = 878539 - 43, with (41, 43) is a twin prime pair
+For n = 439250, We have: 878500 = 878513 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 439252, We have: 878504 = 878641 - 137, with (137, 139) is a twin prime pair
+2nd condition: For n = 439252, We have: 878504 = 878551 - 47, with (43, 47) is a cousin prime pair, and 878508 = 878513 - 5, with 7 is also prime
+For n = 439254, We have: 878508 = 878513 - 5, with (3, 5) is a twin prime pair
+For n = 439256, We have: 878512 = 878573 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 439258, We have: 878516 = 878743 - 227, with (227, 229) is a twin prime pair
+2nd condition: For n = 439258, We have: 878516 = 878539 - 23, with (19, 23) is a cousin prime pair, and 878520 = 878621 - 101, with 103 is also prime
+For n = 439260, We have: 878520 = 878539 - 19, with (17, 19) is a twin prime pair
+For n = 439262, We have: 878524 = 878567 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 439264, We have: 878528 = 878539 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 439264, We have: 878528 = 878539 - 11, with (7, 11) is a cousin prime pair, and 878532 = 878573 - 41, with 43 is also prime
+For n = 439266, We have: 878532 = 878539 - 7, with (5, 7) is a twin prime pair
+For n = 439268, We have: 878536 = 878567 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 439270, We have: 878540 = 878551 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 439270, We have: 878540 = 878551 - 11, with (7, 11) is a cousin prime pair, and 878544 = 878573 - 29, with 31 is also prime
+For n = 439272, We have: 878544 = 878551 - 7, with (5, 7) is a twin prime pair
+For n = 439274, We have: 878548 = 878567 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 439276, We have: 878552 = 878593 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 439276, We have: 878552 = 878593 - 41, with (37, 41) is a cousin prime pair, and 878556 = 878567 - 11, with 13 is also prime
+For n = 439278, We have: 878556 = 878629 - 73, with (71, 73) is a twin prime pair
+For n = 439280, We have: 878560 = 878567 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 439282, We have: 878564 = 878567 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 439282, We have: 878564 = 878677 - 113, with (109, 113) is a cousin prime pair, and 878568 = 878573 - 5, with 7 is also prime
+For n = 439284, We have: 878568 = 878573 - 5, with (3, 5) is a twin prime pair
+For n = 439286, We have: 878572 = 878681 - 109, with (107, 109) is a twin prime pair
+1st condition: For n = 439288, We have: 878576 = 878593 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 439288, We have: 878576 = 878593 - 17, with (13, 17) is a cousin prime pair, and 878580 = 878597 - 17, with 19 is also prime
+For n = 439290, We have: 878580 = 878593 - 13, with (11, 13) is a twin prime pair
+For n = 439292, We have: 878584 = 878597 - 13, with (11, 13) is a twin prime pair
+For n = 439294, We have: 878588 = 878593 - 5, with (3, 5) is a twin prime pair
+For n = 439296, We have: 878592 = 878597 - 5, with (3, 5) is a twin prime pair
+For n = 439298, We have: 878596 = 878609 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 439300, We have: 878600 = 878629 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 439300, We have: 878600 = 878641 - 41, with (37, 41) is a cousin prime pair, and 878604 = 878609 - 5, with 7 is also prime
+For n = 439302, We have: 878604 = 878609 - 5, with (3, 5) is a twin prime pair
+For n = 439304, We have: 878608 = 878621 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 439306, We have: 878612 = 878629 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 439306, We have: 878612 = 878629 - 17, with (13, 17) is a cousin prime pair, and 878616 = 878621 - 5, with 7 is also prime
+For n = 439308, We have: 878616 = 878621 - 5, with (3, 5) is a twin prime pair
+For n = 439310, We have: 878620 = 878651 - 31, with (29, 31) is a twin prime pair
+For n = 439312, We have: 878624 = 878629 - 5, with (3, 5) is a twin prime pair
+For n = 439314, We have: 878628 = 878641 - 13, with (11, 13) is a twin prime pair
+For n = 439316, We have: 878632 = 878651 - 19, with (17, 19) is a twin prime pair
+For n = 439318, We have: 878636 = 878641 - 5, with (3, 5) is a twin prime pair
+For n = 439320, We have: 878640 = 878659 - 19, with (17, 19) is a twin prime pair
+For n = 439322, We have: 878644 = 878651 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 439324, We have: 878648 = 878651 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 439324, We have: 878648 = 878659 - 11, with (7, 11) is a cousin prime pair, and 878652 = 878663 - 11, with 13 is also prime
+For n = 439326, We have: 878652 = 878659 - 7, with (5, 7) is a twin prime pair
+For n = 439328, We have: 878656 = 878663 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 439330, We have: 878660 = 878663 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 439330, We have: 878660 = 878677 - 17, with (13, 17) is a cousin prime pair, and 878664 = 878681 - 17, with 19 is also prime
+For n = 439332, We have: 878664 = 878677 - 13, with (11, 13) is a twin prime pair
+For n = 439334, We have: 878668 = 878681 - 13, with (11, 13) is a twin prime pair
+For n = 439336, We have: 878672 = 878677 - 5, with (3, 5) is a twin prime pair
+For n = 439338, We have: 878676 = 878681 - 5, with (3, 5) is a twin prime pair
+For n = 439340, We have: 878680 = 878699 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 439342, We have: 878684 = 878743 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 439342, We have: 878684 = 878797 - 113, with (109, 113) is a cousin prime pair, and 878688 = 878699 - 11, with 13 is also prime
+For n = 439344, We have: 878688 = 878719 - 31, with (29, 31) is a twin prime pair
+For n = 439346, We have: 878692 = 878699 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 439348, We have: 878696 = 878699 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 439348, We have: 878696 = 878719 - 23, with (19, 23) is a cousin prime pair, and 878700 = 878837 - 137, with 139 is also prime
+For n = 439350, We have: 878700 = 878719 - 19, with (17, 19) is a twin prime pair
+For n = 439352, We have: 878704 = 878777 - 73, with (71, 73) is a twin prime pair
+1st condition: For n = 439354, We have: 878708 = 878719 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 439354, We have: 878708 = 878719 - 11, with (7, 11) is a cousin prime pair, and 878712 = 878783 - 71, with 73 is also prime
+For n = 439356, We have: 878712 = 878719 - 7, with (5, 7) is a twin prime pair
+For n = 439358, We have: 878716 = 878777 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 439360, We have: 878720 = 878737 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 439360, We have: 878720 = 878737 - 17, with (13, 17) is a cousin prime pair, and 878724 = 878783 - 59, with 61 is also prime
+For n = 439362, We have: 878724 = 878737 - 13, with (11, 13) is a twin prime pair
+For n = 439364, We have: 878728 = 878789 - 61, with (59, 61) is a twin prime pair
+For n = 439366, We have: 878732 = 878737 - 5, with (3, 5) is a twin prime pair
+For n = 439368, We have: 878736 = 878743 - 7, with (5, 7) is a twin prime pair
+For n = 439370, We have: 878740 = 878783 - 43, with (41, 43) is a twin prime pair
+For n = 439372, We have: 878744 = 878749 - 5, with (3, 5) is a twin prime pair
+For n = 439374, We have: 878748 = 878821 - 73, with (71, 73) is a twin prime pair
+For n = 439376, We have: 878752 = 878783 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 439378, We have: 878756 = 878797 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 439378, We have: 878756 = 878797 - 41, with (37, 41) is a cousin prime pair, and 878760 = 878777 - 17, with 19 is also prime
+For n = 439380, We have: 878760 = 878821 - 61, with (59, 61) is a twin prime pair
+For n = 439382, We have: 878764 = 878777 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 439384, We have: 878768 = 878797 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 439384, We have: 878768 = 878851 - 83, with (79, 83) is a cousin prime pair, and 878772 = 878777 - 5, with 7 is also prime
+For n = 439386, We have: 878772 = 878777 - 5, with (3, 5) is a twin prime pair
+For n = 439388, We have: 878776 = 878783 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 439390, We have: 878780 = 878783 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 439390, We have: 878780 = 878797 - 17, with (13, 17) is a cousin prime pair, and 878784 = 878789 - 5, with 7 is also prime
+For n = 439392, We have: 878784 = 878789 - 5, with (3, 5) is a twin prime pair
+For n = 439394, We have: 878788 = 878831 - 43, with (41, 43) is a twin prime pair
+For n = 439396, We have: 878792 = 878797 - 5, with (3, 5) is a twin prime pair
+For n = 439398, We have: 878796 = 878869 - 73, with (71, 73) is a twin prime pair
+For n = 439400, We have: 878800 = 878831 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 439402, We have: 878804 = 878821 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 439402, We have: 878804 = 878821 - 17, with (13, 17) is a cousin prime pair, and 878808 = 878837 - 29, with 31 is also prime
+For n = 439404, We have: 878808 = 878821 - 13, with (11, 13) is a twin prime pair
+For n = 439406, We have: 878812 = 878831 - 19, with (17, 19) is a twin prime pair
+For n = 439408, We have: 878816 = 878821 - 5, with (3, 5) is a twin prime pair
+For n = 439410, We have: 878820 = 878833 - 13, with (11, 13) is a twin prime pair
+For n = 439412, We have: 878824 = 878831 - 7, with (5, 7) is a twin prime pair
+For n = 439414, We have: 878828 = 878833 - 5, with (3, 5) is a twin prime pair
+For n = 439416, We have: 878832 = 878837 - 5, with (3, 5) is a twin prime pair
+For n = 439418, We have: 878836 = 878939 - 103, with (101, 103) is a twin prime pair
+1st condition: For n = 439420, We have: 878840 = 878851 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 439420, We have: 878840 = 878851 - 11, with (7, 11) is a cousin prime pair, and 878844 = 878873 - 29, with 31 is also prime
+For n = 439422, We have: 878844 = 878851 - 7, with (5, 7) is a twin prime pair
+For n = 439424, We have: 878848 = 878957 - 109, with (107, 109) is a twin prime pair
+1st condition: For n = 439426, We have: 878852 = 878863 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 439426, We have: 878852 = 878863 - 11, with (7, 11) is a cousin prime pair, and 878856 = 878873 - 17, with 19 is also prime
+For n = 439428, We have: 878856 = 878863 - 7, with (5, 7) is a twin prime pair
+For n = 439430, We have: 878860 = 878873 - 13, with (11, 13) is a twin prime pair
+For n = 439432, We have: 878864 = 878869 - 5, with (3, 5) is a twin prime pair
+For n = 439434, We have: 878868 = 878873 - 5, with (3, 5) is a twin prime pair
+For n = 439436, We have: 878872 = 879023 - 151, with (149, 151) is a twin prime pair
+1st condition: For n = 439438, We have: 878876 = 878893 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 439438, We have: 878876 = 878893 - 17, with (13, 17) is a cousin prime pair, and 878880 = 878939 - 59, with 61 is also prime
+For n = 439440, We have: 878880 = 878893 - 13, with (11, 13) is a twin prime pair
+For n = 439442, We have: 878884 = 878957 - 73, with (71, 73) is a twin prime pair
+For n = 439444, We have: 878888 = 878893 - 5, with (3, 5) is a twin prime pair
+For n = 439446, We have: 878892 = 878953 - 61, with (59, 61) is a twin prime pair
+For n = 439448, We have: 878896 = 878939 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 439450, We have: 878900 = 878929 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 439450, We have: 878900 = 879001 - 101, with (97, 101) is a cousin prime pair, and 878904 = 879143 - 239, with 241 is also prime
+For n = 439452, We have: 878904 = 879007 - 103, with (101, 103) is a twin prime pair
+For n = 439454, We have: 878908 = 878939 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 439456, We have: 878912 = 878929 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 439456, We have: 878912 = 878929 - 17, with (13, 17) is a cousin prime pair, and 878916 = 878957 - 41, with 43 is also prime
+For n = 439458, We have: 878916 = 878929 - 13, with (11, 13) is a twin prime pair
+For n = 439460, We have: 878920 = 878939 - 19, with (17, 19) is a twin prime pair
+For n = 439462, We have: 878924 = 878929 - 5, with (3, 5) is a twin prime pair
+For n = 439464, We have: 878928 = 878989 - 61, with (59, 61) is a twin prime pair
+For n = 439466, We have: 878932 = 878939 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 439468, We have: 878936 = 878939 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 439468, We have: 878936 = 878953 - 17, with (13, 17) is a cousin prime pair, and 878940 = 878957 - 17, with 19 is also prime
+For n = 439470, We have: 878940 = 878953 - 13, with (11, 13) is a twin prime pair
+For n = 439472, We have: 878944 = 878957 - 13, with (11, 13) is a twin prime pair
+For n = 439474, We have: 878948 = 878953 - 5, with (3, 5) is a twin prime pair
+For n = 439476, We have: 878952 = 878957 - 5, with (3, 5) is a twin prime pair
+For n = 439478, We have: 878956 = 878987 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 439480, We have: 878960 = 878989 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 439480, We have: 878960 = 879001 - 41, with (37, 41) is a cousin prime pair, and 878964 = 879023 - 59, with 61 is also prime
+For n = 439482, We have: 878964 = 879007 - 43, with (41, 43) is a twin prime pair
+For n = 439484, We have: 878968 = 878987 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 439486, We have: 878972 = 878989 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 439486, We have: 878972 = 878989 - 17, with (13, 17) is a cousin prime pair, and 878976 = 878987 - 11, with 13 is also prime
+For n = 439488, We have: 878976 = 878989 - 13, with (11, 13) is a twin prime pair
+For n = 439490, We have: 878980 = 878987 - 7, with (5, 7) is a twin prime pair
+For n = 439492, We have: 878984 = 878989 - 5, with (3, 5) is a twin prime pair
+For n = 439494, We have: 878988 = 879001 - 13, with (11, 13) is a twin prime pair
+For n = 439496, We have: 878992 = 879023 - 31, with (29, 31) is a twin prime pair
+For n = 439498, We have: 878996 = 879001 - 5, with (3, 5) is a twin prime pair
+For n = 439500, We have: 879000 = 879007 - 7, with (5, 7) is a twin prime pair
+For n = 439502, We have: 879004 = 879023 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 439504, We have: 879008 = 879199 - 191, with (191, 193) is a twin prime pair
+2nd condition: For n = 439504, We have: 879008 = 879031 - 23, with (19, 23) is a cousin prime pair, and 879012 = 879023 - 11, with 13 is also prime
+For n = 439506, We have: 879012 = 879031 - 19, with (17, 19) is a twin prime pair
+For n = 439508, We have: 879016 = 879023 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 439510, We have: 879020 = 879023 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 439510, We have: 879020 = 879031 - 11, with (7, 11) is a cousin prime pair, and 879024 = 879371 - 347, with 349 is also prime
+For n = 439512, We have: 879024 = 879031 - 7, with (5, 7) is a twin prime pair
+For n = 439514, We have: 879028 = 879089 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 439516, We have: 879032 = 879061 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 439516, We have: 879032 = 879103 - 71, with (67, 71) is a cousin prime pair, and 879036 = 879143 - 107, with 109 is also prime
+For n = 439518, We have: 879036 = 879097 - 61, with (59, 61) is a twin prime pair
+For n = 439520, We have: 879040 = 879113 - 73, with (71, 73) is a twin prime pair
+1st condition: For n = 439522, We have: 879044 = 879061 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 439522, We have: 879044 = 879061 - 17, with (13, 17) is a cousin prime pair, and 879048 = 879089 - 41, with 43 is also prime
+For n = 439524, We have: 879048 = 879061 - 13, with (11, 13) is a twin prime pair
+For n = 439526, We have: 879052 = 879113 - 61, with (59, 61) is a twin prime pair
+For n = 439528, We have: 879056 = 879061 - 5, with (3, 5) is a twin prime pair
+For n = 439530, We have: 879060 = 879103 - 43, with (41, 43) is a twin prime pair
+For n = 439532, We have: 879064 = 879167 - 103, with (101, 103) is a twin prime pair
+1st condition: For n = 439534, We have: 879068 = 879097 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 439534, We have: 879068 = 879169 - 101, with (97, 101) is a cousin prime pair, and 879072 = 879089 - 17, with 19 is also prime
+For n = 439536, We have: 879072 = 879103 - 31, with (29, 31) is a twin prime pair
+For n = 439538, We have: 879076 = 879089 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 439540, We have: 879080 = 879097 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 439540, We have: 879080 = 879097 - 17, with (13, 17) is a cousin prime pair, and 879084 = 879089 - 5, with 7 is also prime
+For n = 439542, We have: 879084 = 879089 - 5, with (3, 5) is a twin prime pair
+For n = 439544, We have: 879088 = 879119 - 31, with (29, 31) is a twin prime pair
+For n = 439546, We have: 879092 = 879097 - 5, with (3, 5) is a twin prime pair
+For n = 439548, We have: 879096 = 879103 - 7, with (5, 7) is a twin prime pair
+For n = 439550, We have: 879100 = 879113 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 439552, We have: 879104 = 879133 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 439552, We have: 879104 = 879271 - 167, with (163, 167) is a cousin prime pair, and 879108 = 879113 - 5, with 7 is also prime
+For n = 439554, We have: 879108 = 879113 - 5, with (3, 5) is a twin prime pair
+For n = 439556, We have: 879112 = 879119 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 439558, We have: 879116 = 879119 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 439558, We have: 879116 = 879133 - 17, with (13, 17) is a cousin prime pair, and 879120 = 879227 - 107, with 109 is also prime
+For n = 439560, We have: 879120 = 879133 - 13, with (11, 13) is a twin prime pair
+For n = 439562, We have: 879124 = 879143 - 19, with (17, 19) is a twin prime pair
+For n = 439564, We have: 879128 = 879133 - 5, with (3, 5) is a twin prime pair
+For n = 439566, We have: 879132 = 879271 - 139, with (137, 139) is a twin prime pair
+For n = 439568, We have: 879136 = 879143 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 439570, We have: 879140 = 879143 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 439570, We have: 879140 = 879181 - 41, with (37, 41) is a cousin prime pair, and 879144 = 879341 - 197, with 199 is also prime
+For n = 439572, We have: 879144 = 879247 - 103, with (101, 103) is a twin prime pair
+For n = 439574, We have: 879148 = 879167 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 439576, We have: 879152 = 879169 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 439576, We have: 879152 = 879169 - 17, with (13, 17) is a cousin prime pair, and 879156 = 879167 - 11, with 13 is also prime
+For n = 439578, We have: 879156 = 879169 - 13, with (11, 13) is a twin prime pair
+For n = 439580, We have: 879160 = 879167 - 7, with (5, 7) is a twin prime pair
+For n = 439582, We have: 879164 = 879169 - 5, with (3, 5) is a twin prime pair
+For n = 439584, We have: 879168 = 879181 - 13, with (11, 13) is a twin prime pair
+For n = 439586, We have: 879172 = 879353 - 181, with (179, 181) is a twin prime pair
+For n = 439588, We have: 879176 = 879181 - 5, with (3, 5) is a twin prime pair
+For n = 439590, We have: 879180 = 879199 - 19, with (17, 19) is a twin prime pair
+For n = 439592, We have: 879184 = 879227 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 439594, We have: 879188 = 879199 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 439594, We have: 879188 = 879199 - 11, with (7, 11) is a cousin prime pair, and 879192 = 879299 - 107, with 109 is also prime
+For n = 439596, We have: 879192 = 879199 - 7, with (5, 7) is a twin prime pair
+For n = 439598, We have: 879196 = 879227 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 439600, We have: 879200 = 879259 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 439600, We have: 879200 = 879247 - 47, with (43, 47) is a cousin prime pair, and 879204 = 879341 - 137, with 139 is also prime
+For n = 439602, We have: 879204 = 879247 - 43, with (41, 43) is a twin prime pair
+For n = 439604, We have: 879208 = 879227 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 439606, We have: 879212 = 879271 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 439606, We have: 879212 = 879259 - 47, with (43, 47) is a cousin prime pair, and 879216 = 879227 - 11, with 13 is also prime
+For n = 439608, We have: 879216 = 879247 - 31, with (29, 31) is a twin prime pair
+For n = 439610, We have: 879220 = 879227 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 439612, We have: 879224 = 879227 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 439612, We have: 879224 = 879247 - 23, with (19, 23) is a cousin prime pair, and 879228 = 879239 - 11, with 13 is also prime
+For n = 439614, We have: 879228 = 879247 - 19, with (17, 19) is a twin prime pair
+For n = 439616, We have: 879232 = 879239 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 439618, We have: 879236 = 879239 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 439618, We have: 879236 = 879247 - 11, with (7, 11) is a cousin prime pair, and 879240 = 879269 - 29, with 31 is also prime
+For n = 439620, We have: 879240 = 879247 - 7, with (5, 7) is a twin prime pair
+For n = 439622, We have: 879244 = 879287 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 439624, We have: 879248 = 879259 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 439624, We have: 879248 = 879259 - 11, with (7, 11) is a cousin prime pair, and 879252 = 879269 - 17, with 19 is also prime
+For n = 439626, We have: 879252 = 879259 - 7, with (5, 7) is a twin prime pair
+For n = 439628, We have: 879256 = 879269 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 439630, We have: 879260 = 879271 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 439630, We have: 879260 = 879271 - 11, with (7, 11) is a cousin prime pair, and 879264 = 879269 - 5, with 7 is also prime
+For n = 439632, We have: 879264 = 879269 - 5, with (3, 5) is a twin prime pair
+For n = 439634, We have: 879268 = 879287 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 439636, We have: 879272 = 879283 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 439636, We have: 879272 = 879283 - 11, with (7, 11) is a cousin prime pair, and 879276 = 879287 - 11, with 13 is also prime
+For n = 439638, We have: 879276 = 879283 - 7, with (5, 7) is a twin prime pair
+For n = 439640, We have: 879280 = 879287 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 439642, We have: 879284 = 879287 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 439642, We have: 879284 = 879331 - 47, with (43, 47) is a cousin prime pair, and 879288 = 879299 - 11, with 13 is also prime
+For n = 439644, We have: 879288 = 879331 - 43, with (41, 43) is a twin prime pair
+For n = 439646, We have: 879292 = 879299 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 439648, We have: 879296 = 879299 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 439648, We have: 879296 = 879343 - 47, with (43, 47) is a cousin prime pair, and 879300 = 879341 - 41, with 43 is also prime
+For n = 439650, We have: 879300 = 879331 - 31, with (29, 31) is a twin prime pair
+For n = 439652, We have: 879304 = 879413 - 109, with (107, 109) is a twin prime pair
+1st condition: For n = 439654, We have: 879308 = 879457 - 149, with (149, 151) is a twin prime pair
+2nd condition: For n = 439654, We have: 879308 = 879331 - 23, with (19, 23) is a cousin prime pair, and 879312 = 879341 - 29, with 31 is also prime
+For n = 439656, We have: 879312 = 879331 - 19, with (17, 19) is a twin prime pair
+For n = 439658, We have: 879316 = 879629 - 313, with (311, 313) is a twin prime pair
+1st condition: For n = 439660, We have: 879320 = 879331 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 439660, We have: 879320 = 879331 - 11, with (7, 11) is a cousin prime pair, and 879324 = 879341 - 17, with 19 is also prime
+For n = 439662, We have: 879324 = 879331 - 7, with (5, 7) is a twin prime pair
+For n = 439664, We have: 879328 = 879341 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 439666, We have: 879332 = 879343 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 439666, We have: 879332 = 879343 - 11, with (7, 11) is a cousin prime pair, and 879336 = 879341 - 5, with 7 is also prime
+For n = 439668, We have: 879336 = 879341 - 5, with (3, 5) is a twin prime pair
+For n = 439670, We have: 879340 = 879353 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 439672, We have: 879344 = 879493 - 149, with (149, 151) is a twin prime pair
+2nd condition: For n = 439672, We have: 879344 = 879391 - 47, with (43, 47) is a cousin prime pair, and 879348 = 879353 - 5, with 7 is also prime
+For n = 439674, We have: 879348 = 879353 - 5, with (3, 5) is a twin prime pair
+For n = 439676, We have: 879352 = 879371 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 439678, We have: 879356 = 879457 - 101, with (101, 103) is a twin prime pair
+2nd condition: For n = 439678, We have: 879356 = 879457 - 101, with (97, 101) is a cousin prime pair, and 879360 = 879371 - 11, with 13 is also prime
+For n = 439680, We have: 879360 = 879391 - 31, with (29, 31) is a twin prime pair
+For n = 439682, We have: 879364 = 879371 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 439684, We have: 879368 = 879371 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 439684, We have: 879368 = 879391 - 23, with (19, 23) is a cousin prime pair, and 879372 = 879401 - 29, with 31 is also prime
+For n = 439686, We have: 879372 = 879391 - 19, with (17, 19) is a twin prime pair
+For n = 439688, We have: 879376 = 879449 - 73, with (71, 73) is a twin prime pair
+1st condition: For n = 439690, We have: 879380 = 879391 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 439690, We have: 879380 = 879391 - 11, with (7, 11) is a cousin prime pair, and 879384 = 879401 - 17, with 19 is also prime
+For n = 439692, We have: 879384 = 879391 - 7, with (5, 7) is a twin prime pair
+For n = 439694, We have: 879388 = 879401 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 439696, We have: 879392 = 879493 - 101, with (101, 103) is a twin prime pair
+2nd condition: For n = 439696, We have: 879392 = 879493 - 101, with (97, 101) is a cousin prime pair, and 879396 = 879401 - 5, with 7 is also prime
+For n = 439698, We have: 879396 = 879401 - 5, with (3, 5) is a twin prime pair
+For n = 439700, We have: 879400 = 879413 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 439702, We have: 879404 = 879553 - 149, with (149, 151) is a twin prime pair
+2nd condition: For n = 439702, We have: 879404 = 879721 - 317, with (313, 317) is a cousin prime pair, and 879408 = 879413 - 5, with 7 is also prime
+For n = 439704, We have: 879408 = 879413 - 5, with (3, 5) is a twin prime pair
+For n = 439706, We have: 879412 = 879653 - 241, with (239, 241) is a twin prime pair
+1st condition: For n = 439708, We have: 879416 = 879457 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 439708, We have: 879416 = 879457 - 41, with (37, 41) is a cousin prime pair, and 879420 = 879449 - 29, with 31 is also prime
+For n = 439710, We have: 879420 = 879493 - 73, with (71, 73) is a twin prime pair
+For n = 439712, We have: 879424 = 879533 - 109, with (107, 109) is a twin prime pair
+1st condition: For n = 439714, We have: 879428 = 879457 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 439714, We have: 879428 = 879661 - 233, with (229, 233) is a cousin prime pair, and 879432 = 879449 - 17, with 19 is also prime
+For n = 439716, We have: 879432 = 879493 - 61, with (59, 61) is a twin prime pair
+For n = 439718, We have: 879436 = 879449 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 439720, We have: 879440 = 879457 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 439720, We have: 879440 = 879457 - 17, with (13, 17) is a cousin prime pair, and 879444 = 879449 - 5, with 7 is also prime
+For n = 439722, We have: 879444 = 879449 - 5, with (3, 5) is a twin prime pair
+For n = 439724, We have: 879448 = 879629 - 181, with (179, 181) is a twin prime pair
+For n = 439726, We have: 879452 = 879457 - 5, with (3, 5) is a twin prime pair
+For n = 439728, We have: 879456 = 879607 - 151, with (149, 151) is a twin prime pair
+For n = 439730, We have: 879460 = 879533 - 73, with (71, 73) is a twin prime pair
+1st condition: For n = 439732, We have: 879464 = 879493 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 439732, We have: 879464 = 879661 - 197, with (193, 197) is a cousin prime pair, and 879468 = 879539 - 71, with 73 is also prime
+For n = 439734, We have: 879468 = 879607 - 139, with (137, 139) is a twin prime pair
+For n = 439736, We have: 879472 = 879533 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 439738, We have: 879476 = 879493 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 439738, We have: 879476 = 879493 - 17, with (13, 17) is a cousin prime pair, and 879480 = 879539 - 59, with 61 is also prime
+For n = 439740, We have: 879480 = 879493 - 13, with (11, 13) is a twin prime pair
+For n = 439742, We have: 879484 = 879623 - 139, with (137, 139) is a twin prime pair
+For n = 439744, We have: 879488 = 879493 - 5, with (3, 5) is a twin prime pair
+For n = 439746, We have: 879492 = 879523 - 31, with (29, 31) is a twin prime pair
+For n = 439748, We have: 879496 = 879539 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 439750, We have: 879500 = 879607 - 107, with (107, 109) is a twin prime pair
+2nd condition: For n = 439750, We have: 879500 = 879523 - 23, with (19, 23) is a cousin prime pair, and 879504 = 879533 - 29, with 31 is also prime
+For n = 439752, We have: 879504 = 879523 - 19, with (17, 19) is a twin prime pair
+For n = 439754, We have: 879508 = 879539 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 439756, We have: 879512 = 879523 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 439756, We have: 879512 = 879523 - 11, with (7, 11) is a cousin prime pair, and 879516 = 879533 - 17, with 19 is also prime
+For n = 439758, We have: 879516 = 879523 - 7, with (5, 7) is a twin prime pair
+For n = 439760, We have: 879520 = 879533 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 439762, We have: 879524 = 879553 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 439762, We have: 879524 = 879607 - 83, with (79, 83) is a cousin prime pair, and 879528 = 879533 - 5, with 7 is also prime
+For n = 439764, We have: 879528 = 879533 - 5, with (3, 5) is a twin prime pair
+For n = 439766, We have: 879532 = 879539 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 439768, We have: 879536 = 879539 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 439768, We have: 879536 = 879553 - 17, with (13, 17) is a cousin prime pair, and 879540 = 879581 - 41, with 43 is also prime
+For n = 439770, We have: 879540 = 879553 - 13, with (11, 13) is a twin prime pair
+For n = 439772, We have: 879544 = 879617 - 73, with (71, 73) is a twin prime pair
+For n = 439774, We have: 879548 = 879553 - 5, with (3, 5) is a twin prime pair
+For n = 439776, We have: 879552 = 879583 - 31, with (29, 31) is a twin prime pair
+For n = 439778, We have: 879556 = 879617 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 439780, We have: 879560 = 879661 - 101, with (101, 103) is a twin prime pair
+2nd condition: For n = 439780, We have: 879560 = 879583 - 23, with (19, 23) is a cousin prime pair, and 879564 = 879581 - 17, with 19 is also prime
+For n = 439782, We have: 879564 = 879583 - 19, with (17, 19) is a twin prime pair
+For n = 439784, We have: 879568 = 879581 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 439786, We have: 879572 = 879583 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 439786, We have: 879572 = 879583 - 11, with (7, 11) is a cousin prime pair, and 879576 = 879581 - 5, with 7 is also prime
+For n = 439788, We have: 879576 = 879581 - 5, with (3, 5) is a twin prime pair
+For n = 439790, We have: 879580 = 879623 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 439792, We have: 879584 = 879691 - 107, with (107, 109) is a twin prime pair
+2nd condition: For n = 439792, We have: 879584 = 879607 - 23, with (19, 23) is a cousin prime pair, and 879588 = 879617 - 29, with 31 is also prime
+For n = 439794, We have: 879588 = 879607 - 19, with (17, 19) is a twin prime pair
+For n = 439796, We have: 879592 = 879623 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 439798, We have: 879596 = 879607 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 439798, We have: 879596 = 879607 - 11, with (7, 11) is a cousin prime pair, and 879600 = 879617 - 17, with 19 is also prime
+For n = 439800, We have: 879600 = 879607 - 7, with (5, 7) is a twin prime pair
+For n = 439802, We have: 879604 = 879617 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 439804, We have: 879608 = 879649 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 439804, We have: 879608 = 879649 - 41, with (37, 41) is a cousin prime pair, and 879612 = 879617 - 5, with 7 is also prime
+For n = 439806, We have: 879612 = 879617 - 5, with (3, 5) is a twin prime pair
+For n = 439808, We have: 879616 = 879623 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 439810, We have: 879620 = 879623 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 439810, We have: 879620 = 879661 - 41, with (37, 41) is a cousin prime pair, and 879624 = 879629 - 5, with 7 is also prime
+For n = 439812, We have: 879624 = 879629 - 5, with (3, 5) is a twin prime pair
+For n = 439814, We have: 879628 = 879689 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 439816, We have: 879632 = 879649 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 439816, We have: 879632 = 879649 - 17, with (13, 17) is a cousin prime pair, and 879636 = 879653 - 17, with 19 is also prime
+For n = 439818, We have: 879636 = 879649 - 13, with (11, 13) is a twin prime pair
+For n = 439820, We have: 879640 = 879653 - 13, with (11, 13) is a twin prime pair
+For n = 439822, We have: 879644 = 879649 - 5, with (3, 5) is a twin prime pair
+For n = 439824, We have: 879648 = 879653 - 5, with (3, 5) is a twin prime pair
+For n = 439826, We have: 879652 = 879713 - 61, with (59, 61) is a twin prime pair
+For n = 439828, We have: 879656 = 879661 - 5, with (3, 5) is a twin prime pair
+For n = 439830, We have: 879660 = 879667 - 7, with (5, 7) is a twin prime pair
+For n = 439832, We have: 879664 = 879707 - 43, with (41, 43) is a twin prime pair
+For n = 439834, We have: 879668 = 879673 - 5, with (3, 5) is a twin prime pair
+For n = 439836, We have: 879672 = 879679 - 7, with (5, 7) is a twin prime pair
+For n = 439838, We have: 879676 = 879689 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 439840, We have: 879680 = 879691 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 439840, We have: 879680 = 879691 - 11, with (7, 11) is a cousin prime pair, and 879684 = 879689 - 5, with 7 is also prime
+For n = 439842, We have: 879684 = 879689 - 5, with (3, 5) is a twin prime pair
+For n = 439844, We have: 879688 = 879701 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 439846, We have: 879692 = 879709 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 439846, We have: 879692 = 879709 - 17, with (13, 17) is a cousin prime pair, and 879696 = 879701 - 5, with 7 is also prime
+For n = 439848, We have: 879696 = 879701 - 5, with (3, 5) is a twin prime pair
+For n = 439850, We have: 879700 = 879707 - 7, with (5, 7) is a twin prime pair
+For n = 439852, We have: 879704 = 879709 - 5, with (3, 5) is a twin prime pair
+For n = 439854, We have: 879708 = 879713 - 5, with (3, 5) is a twin prime pair
+For n = 439856, We have: 879712 = 879743 - 31, with (29, 31) is a twin prime pair
+For n = 439858, We have: 879716 = 879721 - 5, with (3, 5) is a twin prime pair
+For n = 439860, We have: 879720 = 879859 - 139, with (137, 139) is a twin prime pair
+For n = 439862, We have: 879724 = 879743 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 439864, We have: 879728 = 879799 - 71, with (71, 73) is a twin prime pair
+2nd condition: For n = 439864, We have: 879728 = 879799 - 71, with (67, 71) is a cousin prime pair, and 879732 = 879743 - 11, with 13 is also prime
+For n = 439866, We have: 879732 = 879961 - 229, with (227, 229) is a twin prime pair
+For n = 439868, We have: 879736 = 879743 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 439870, We have: 879740 = 879743 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 439870, We have: 879740 = 879973 - 233, with (229, 233) is a cousin prime pair, and 879744 = 879881 - 137, with 139 is also prime
+For n = 439872, We have: 879744 = 879817 - 73, with (71, 73) is a twin prime pair
+For n = 439874, We have: 879748 = 879821 - 73, with (71, 73) is a twin prime pair
+1st condition: For n = 439876, We have: 879752 = 879859 - 107, with (107, 109) is a twin prime pair
+2nd condition: For n = 439876, We have: 879752 = 879799 - 47, with (43, 47) is a cousin prime pair, and 879756 = 879797 - 41, with 43 is also prime
+For n = 439878, We have: 879756 = 879799 - 43, with (41, 43) is a twin prime pair
+For n = 439880, We have: 879760 = 879821 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 439882, We have: 879764 = 879961 - 197, with (197, 199) is a twin prime pair
+2nd condition: For n = 439882, We have: 879764 = 879961 - 197, with (193, 197) is a cousin prime pair, and 879768 = 879797 - 29, with 31 is also prime
+For n = 439884, We have: 879768 = 879799 - 31, with (29, 31) is a twin prime pair
+For n = 439886, We have: 879772 = 879881 - 109, with (107, 109) is a twin prime pair
+1st condition: For n = 439888, We have: 879776 = 879817 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 439888, We have: 879776 = 879799 - 23, with (19, 23) is a cousin prime pair, and 879780 = 879797 - 17, with 19 is also prime
+For n = 439890, We have: 879780 = 879799 - 19, with (17, 19) is a twin prime pair
+For n = 439892, We have: 879784 = 879797 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 439894, We have: 879788 = 879799 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 439894, We have: 879788 = 879799 - 11, with (7, 11) is a cousin prime pair, and 879792 = 879797 - 5, with 7 is also prime
+For n = 439896, We have: 879792 = 879797 - 5, with (3, 5) is a twin prime pair
+For n = 439898, We have: 879796 = 879839 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 439900, We have: 879800 = 879817 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 439900, We have: 879800 = 879817 - 17, with (13, 17) is a cousin prime pair, and 879804 = 879821 - 17, with 19 is also prime
+For n = 439902, We have: 879804 = 879817 - 13, with (11, 13) is a twin prime pair
+For n = 439904, We have: 879808 = 879821 - 13, with (11, 13) is a twin prime pair
+For n = 439906, We have: 879812 = 879817 - 5, with (3, 5) is a twin prime pair
+For n = 439908, We have: 879816 = 879821 - 5, with (3, 5) is a twin prime pair
+For n = 439910, We have: 879820 = 879839 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 439912, We have: 879824 = 879961 - 137, with (137, 139) is a twin prime pair
+2nd condition: For n = 439912, We have: 879824 = 880021 - 197, with (193, 197) is a cousin prime pair, and 879828 = 879839 - 11, with 13 is also prime
+For n = 439914, We have: 879828 = 879859 - 31, with (29, 31) is a twin prime pair
+For n = 439916, We have: 879832 = 879839 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 439918, We have: 879836 = 879839 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 439918, We have: 879836 = 879859 - 23, with (19, 23) is a cousin prime pair, and 879840 = 879881 - 41, with 43 is also prime
+For n = 439920, We have: 879840 = 879859 - 19, with (17, 19) is a twin prime pair
+For n = 439922, We have: 879844 = 879863 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 439924, We have: 879848 = 879859 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 439924, We have: 879848 = 879859 - 11, with (7, 11) is a cousin prime pair, and 879852 = 879863 - 11, with 13 is also prime
+For n = 439926, We have: 879852 = 879859 - 7, with (5, 7) is a twin prime pair
+For n = 439928, We have: 879856 = 879863 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 439930, We have: 879860 = 879863 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 439930, We have: 879860 = 879961 - 101, with (97, 101) is a cousin prime pair, and 879864 = 879881 - 17, with 19 is also prime
+For n = 439932, We have: 879864 = 879973 - 109, with (107, 109) is a twin prime pair
+For n = 439934, We have: 879868 = 879881 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 439936, We have: 879872 = 879973 - 101, with (101, 103) is a twin prime pair
+2nd condition: For n = 439936, We have: 879872 = 879919 - 47, with (43, 47) is a cousin prime pair, and 879876 = 879881 - 5, with 7 is also prime
+For n = 439938, We have: 879876 = 879881 - 5, with (3, 5) is a twin prime pair
+For n = 439940, We have: 879880 = 879941 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 439942, We have: 879884 = 880021 - 137, with (137, 139) is a twin prime pair
+2nd condition: For n = 439942, We have: 879884 = 880531 - 647, with (643, 647) is a cousin prime pair, and 879888 = 879917 - 29, with 31 is also prime
+For n = 439944, We have: 879888 = 879919 - 31, with (29, 31) is a twin prime pair
+For n = 439946, We have: 879892 = 879953 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 439948, We have: 879896 = 880513 - 617, with (617, 619) is a twin prime pair
+2nd condition: For n = 439948, We have: 879896 = 879919 - 23, with (19, 23) is a cousin prime pair, and 879900 = 879917 - 17, with 19 is also prime
+For n = 439950, We have: 879900 = 879919 - 19, with (17, 19) is a twin prime pair
+For n = 439952, We have: 879904 = 879917 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 439954, We have: 879908 = 879919 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 439954, We have: 879908 = 879919 - 11, with (7, 11) is a cousin prime pair, and 879912 = 879917 - 5, with 7 is also prime
+For n = 439956, We have: 879912 = 879917 - 5, with (3, 5) is a twin prime pair
+For n = 439958, We have: 879916 = 880067 - 151, with (149, 151) is a twin prime pair
+1st condition: For n = 439960, We have: 879920 = 879961 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 439960, We have: 879920 = 879961 - 41, with (37, 41) is a cousin prime pair, and 879924 = 879941 - 17, with 19 is also prime
+For n = 439962, We have: 879924 = 880027 - 103, with (101, 103) is a twin prime pair
+For n = 439964, We have: 879928 = 879941 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 439966, We have: 879932 = 879961 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 439966, We have: 879932 = 879973 - 41, with (37, 41) is a cousin prime pair, and 879936 = 879941 - 5, with 7 is also prime
+For n = 439968, We have: 879936 = 879941 - 5, with (3, 5) is a twin prime pair
+For n = 439970, We have: 879940 = 879953 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 439972, We have: 879944 = 879961 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 439972, We have: 879944 = 879961 - 17, with (13, 17) is a cousin prime pair, and 879948 = 879953 - 5, with 7 is also prime
+For n = 439974, We have: 879948 = 879953 - 5, with (3, 5) is a twin prime pair
+For n = 439976, We have: 879952 = 880091 - 139, with (137, 139) is a twin prime pair
+For n = 439978, We have: 879956 = 879961 - 5, with (3, 5) is a twin prime pair
+For n = 439980, We have: 879960 = 879973 - 13, with (11, 13) is a twin prime pair
+For n = 439982, We have: 879964 = 880007 - 43, with (41, 43) is a twin prime pair
+For n = 439984, We have: 879968 = 879973 - 5, with (3, 5) is a twin prime pair
+For n = 439986, We have: 879972 = 879979 - 7, with (5, 7) is a twin prime pair
+For n = 439988, We have: 879976 = 880007 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 439990, We have: 879980 = 880021 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 439990, We have: 879980 = 880021 - 41, with (37, 41) is a cousin prime pair, and 879984 = 880001 - 17, with 19 is also prime
+For n = 439992, We have: 879984 = 880027 - 43, with (41, 43) is a twin prime pair
+For n = 439994, We have: 879988 = 880001 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 439996, We have: 879992 = 880021 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 439996, We have: 879992 = 880219 - 227, with (223, 227) is a cousin prime pair, and 879996 = 880001 - 5, with 7 is also prime
+For n = 439998, We have: 879996 = 880001 - 5, with (3, 5) is a twin prime pair
