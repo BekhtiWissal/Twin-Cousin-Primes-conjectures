@@ -5217,3 +5217,1093 @@ For n = 488282, We have: 976564 = 976571 - 7, with (5, 7) is a twin prime pair
 For n = 488286, We have: 976572 = 977191 - 619, with (617, 619) is a twin prime pair
 For n = 488288, We have: 976576 = 976607 - 31, with (29, 31) is a twin prime pair
 1st condition: For n = 488290, We have: 976580 = 976621 - 41, with (41, 43) is a twin prime pair
+1st condition: For n = 488290, We have: 976580 = 976621 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 488290, We have: 976580 = 976621 - 41, with ((37, 41)) is a cousin prime pair, and 976584 = 976601 - 17, with 19 is also prime
+For n = 488292, We have: 976584 = 976777 - 193, with (191, 193) is a twin prime pair
+For n = 488294, We have: 976588 = 976601 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 488296, We have: 976592 = 976621 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 488296, We have: 976592 = 976639 - 47, with ((43, 47)) is a cousin prime pair, and 976596 = 976601 - 5, with 7 is also prime
+For n = 488298, We have: 976596 = 976601 - 5, with (3, 5) is a twin prime pair
+For n = 488300, We have: 976600 = 976607 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 488302, We have: 976604 = 976607 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 488302, We have: 976604 = 976621 - 17, with ((13, 17)) is a cousin prime pair, and 976608 = 976637 - 29, with 31 is also prime
+For n = 488304, We have: 976608 = 976621 - 13, with (11, 13) is a twin prime pair
+For n = 488306, We have: 976612 = 976643 - 31, with (29, 31) is a twin prime pair
+For n = 488308, We have: 976616 = 976621 - 5, with (3, 5) is a twin prime pair
+For n = 488310, We have: 976620 = 976639 - 19, with (17, 19) is a twin prime pair
+For n = 488312, We have: 976624 = 976637 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 488314, We have: 976628 = 976639 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 488314, We have: 976628 = 976639 - 11, with ((7, 11)) is a cousin prime pair, and 976632 = 976637 - 5, with 7 is also prime
+For n = 488316, We have: 976632 = 976637 - 5, with (3, 5) is a twin prime pair
+For n = 488318, We have: 976636 = 976643 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 488320, We have: 976640 = 976643 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 488320, We have: 976640 = 976951 - 311, with ((307, 311)) is a cousin prime pair, and 976644 = 976709 - 65, with 67 is also prime
+For n = 488322, We have: 976644 = 976957 - 313, with (311, 313) is a twin prime pair
+For n = 488324, We have: 976648 = 976709 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 488326, We have: 976652 = 976669 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 488326, We have: 976652 = 976669 - 17, with ((13, 17)) is a cousin prime pair, and 976656 = 976721 - 65, with 67 is also prime
+For n = 488328, We have: 976656 = 976669 - 13, with (11, 13) is a twin prime pair
+For n = 488330, We have: 976660 = 976721 - 61, with (59, 61) is a twin prime pair
+For n = 488332, We have: 976664 = 976669 - 5, with (3, 5) is a twin prime pair
+For n = 488334, We have: 976668 = 976699 - 31, with (29, 31) is a twin prime pair
+For n = 488336, We have: 976672 = 976823 - 151, with (149, 151) is a twin prime pair
+1st condition: For n = 488338, We have: 976676 = 976777 - 101, with (101, 103) is a twin prime pair
+2nd condition: For n = 488338, We have: 976676 = 976699 - 23, with ((19, 23)) is a cousin prime pair, and 976680 = 976709 - 29, with 31 is also prime
+For n = 488340, We have: 976680 = 976699 - 19, with (17, 19) is a twin prime pair
+For n = 488342, We have: 976684 = 976727 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 488344, We have: 976688 = 976699 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 488344, We have: 976688 = 976699 - 11, with ((7, 11)) is a cousin prime pair, and 976692 = 976709 - 17, with 19 is also prime
+For n = 488346, We have: 976692 = 976699 - 7, with (5, 7) is a twin prime pair
+For n = 488348, We have: 976696 = 976709 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 488350, We have: 976700 = 976849 - 149, with (149, 151) is a twin prime pair
+2nd condition: For n = 488350, We have: 976700 = 976933 - 233, with ((229, 233)) is a cousin prime pair, and 976704 = 976709 - 5, with 7 is also prime
+For n = 488352, We have: 976704 = 976709 - 5, with (3, 5) is a twin prime pair
+For n = 488354, We have: 976708 = 976721 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 488356, We have: 976712 = 976849 - 137, with (137, 139) is a twin prime pair
+2nd condition: For n = 488356, We have: 976712 = 976909 - 197, with ((193, 197)) is a cousin prime pair, and 976716 = 976721 - 5, with 7 is also prime
+For n = 488358, We have: 976716 = 976721 - 5, with (3, 5) is a twin prime pair
+For n = 488360, We have: 976720 = 976727 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 488362, We have: 976724 = 976727 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 488362, We have: 976724 = 976951 - 227, with ((223, 227)) is a cousin prime pair, and 976728 = 976799 - 71, with 73 is also prime
+For n = 488364, We have: 976728 = 976909 - 181, with (179, 181) is a twin prime pair
+For n = 488366, We have: 976732 = 976883 - 151, with (149, 151) is a twin prime pair
+1st condition: For n = 488368, We have: 976736 = 976777 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 488368, We have: 976736 = 976777 - 41, with ((37, 41)) is a cousin prime pair, and 976740 = 976799 - 59, with 61 is also prime
+For n = 488370, We have: 976740 = 976849 - 109, with (107, 109) is a twin prime pair
+For n = 488372, We have: 976744 = 976817 - 73, with (71, 73) is a twin prime pair
+1st condition: For n = 488374, We have: 976748 = 976777 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 488374, We have: 976748 = 976849 - 101, with ((97, 101)) is a cousin prime pair, and 976752 = 976817 - 65, with 67 is also prime
+For n = 488376, We have: 976752 = 976933 - 181, with (179, 181) is a twin prime pair
+For n = 488378, We have: 976756 = 976799 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 488380, We have: 976760 = 976777 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 488380, We have: 976760 = 976777 - 17, with ((13, 17)) is a cousin prime pair, and 976764 = 976799 - 35, with 37 is also prime
+For n = 488382, We have: 976764 = 976777 - 13, with (11, 13) is a twin prime pair
+For n = 488384, We have: 976768 = 976799 - 31, with (29, 31) is a twin prime pair
+For n = 488386, We have: 976772 = 976777 - 5, with (3, 5) is a twin prime pair
+For n = 488388, We have: 976776 = 976849 - 73, with (71, 73) is a twin prime pair
+For n = 488390, We have: 976780 = 976799 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 488392, We have: 976784 = 976933 - 149, with (149, 151) is a twin prime pair
+2nd condition: For n = 488392, We have: 976784 = 976951 - 167, with ((163, 167)) is a cousin prime pair, and 976788 = 976799 - 11, with 13 is also prime
+For n = 488394, We have: 976788 = 976849 - 61, with (59, 61) is a twin prime pair
+For n = 488396, We have: 976792 = 976799 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 488398, We have: 976796 = 976799 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 488398, We have: 976796 = 976909 - 113, with ((109, 113)) is a cousin prime pair, and 976800 = 976817 - 17, with 19 is also prime
+For n = 488400, We have: 976800 = 976909 - 109, with (107, 109) is a twin prime pair
+For n = 488402, We have: 976804 = 976817 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 488404, We have: 976808 = 976849 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 488404, We have: 976808 = 976849 - 41, with ((37, 41)) is a cousin prime pair, and 976812 = 976817 - 5, with 7 is also prime
+For n = 488406, We have: 976812 = 976817 - 5, with (3, 5) is a twin prime pair
+For n = 488408, We have: 976816 = 976823 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 488410, We have: 976820 = 976823 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 488410, We have: 976820 = 976933 - 113, with ((109, 113)) is a cousin prime pair, and 976824 = 976853 - 29, with 31 is also prime
+For n = 488412, We have: 976824 = 976933 - 109, with (107, 109) is a twin prime pair
+For n = 488414, We have: 976828 = 977021 - 193, with (191, 193) is a twin prime pair
+1st condition: For n = 488416, We have: 976832 = 976849 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 488416, We have: 976832 = 976849 - 17, with ((13, 17)) is a cousin prime pair, and 976836 = 976853 - 17, with 19 is also prime
+For n = 488418, We have: 976836 = 976849 - 13, with (11, 13) is a twin prime pair
+For n = 488420, We have: 976840 = 976853 - 13, with (11, 13) is a twin prime pair
+For n = 488422, We have: 976844 = 976849 - 5, with (3, 5) is a twin prime pair
+For n = 488424, We have: 976848 = 976853 - 5, with (3, 5) is a twin prime pair
+For n = 488426, We have: 976852 = 976883 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 488428, We have: 976856 = 976957 - 101, with (101, 103) is a twin prime pair
+2nd condition: For n = 488428, We have: 976856 = 976957 - 101, with ((97, 101)) is a cousin prime pair, and 976860 = 976919 - 59, with 61 is also prime
+For n = 488430, We have: 976860 = 976933 - 73, with (71, 73) is a twin prime pair
+For n = 488432, We have: 976864 = 976883 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 488434, We have: 976868 = 976909 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 488434, We have: 976868 = 976909 - 41, with ((37, 41)) is a cousin prime pair, and 976872 = 976883 - 11, with 13 is also prime
+For n = 488436, We have: 976872 = 976933 - 61, with (59, 61) is a twin prime pair
+For n = 488438, We have: 976876 = 976883 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 488440, We have: 976880 = 976883 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 488440, We have: 976880 = 976951 - 71, with ((67, 71)) is a cousin prime pair, and 976884 = 976919 - 35, with 37 is also prime
+For n = 488442, We have: 976884 = 976957 - 73, with (71, 73) is a twin prime pair
+For n = 488444, We have: 976888 = 976919 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 488446, We have: 976892 = 976909 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 488446, We have: 976892 = 976909 - 17, with ((13, 17)) is a cousin prime pair, and 976896 = 976991 - 95, with 97 is also prime
+For n = 488448, We have: 976896 = 976909 - 13, with (11, 13) is a twin prime pair
+For n = 488450, We have: 976900 = 976919 - 19, with (17, 19) is a twin prime pair
+For n = 488452, We have: 976904 = 976909 - 5, with (3, 5) is a twin prime pair
+For n = 488454, We have: 976908 = 976951 - 43, with (41, 43) is a twin prime pair
+For n = 488456, We have: 976912 = 976919 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 488458, We have: 976916 = 976919 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 488458, We have: 976916 = 976933 - 17, with ((13, 17)) is a cousin prime pair, and 976920 = 976991 - 71, with 73 is also prime
+For n = 488460, We have: 976920 = 976933 - 13, with (11, 13) is a twin prime pair
+For n = 488462, We have: 976924 = 977357 - 433, with (431, 433) is a twin prime pair
+For n = 488464, We have: 976928 = 976933 - 5, with (3, 5) is a twin prime pair
+For n = 488466, We have: 976932 = 976951 - 19, with (17, 19) is a twin prime pair
+For n = 488468, We have: 976936 = 977087 - 151, with (149, 151) is a twin prime pair
+1st condition: For n = 488470, We have: 976940 = 976951 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 488470, We have: 976940 = 976951 - 11, with ((7, 11)) is a cousin prime pair, and 976944 = 977021 - 77, with 79 is also prime
+For n = 488472, We have: 976944 = 976951 - 7, with (5, 7) is a twin prime pair
+For n = 488474, We have: 976948 = 976991 - 43, with (41, 43) is a twin prime pair
+For n = 488476, We have: 976952 = 976957 - 5, with (3, 5) is a twin prime pair
+For n = 488478, We have: 976956 = 977107 - 151, with (149, 151) is a twin prime pair
+For n = 488480, We have: 976960 = 976991 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 488482, We have: 976964 = 977023 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 488482, We have: 976964 = 977047 - 83, with ((79, 83)) is a cousin prime pair, and 976968 = 977069 - 101, with 103 is also prime
+For n = 488484, We have: 976968 = 977107 - 139, with (137, 139) is a twin prime pair
+For n = 488486, We have: 976972 = 976991 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 488488, We have: 976976 = 977047 - 71, with (71, 73) is a twin prime pair
+2nd condition: For n = 488488, We have: 976976 = 977023 - 47, with ((43, 47)) is a cousin prime pair, and 976980 = 976991 - 11, with 13 is also prime
+For n = 488490, We have: 976980 = 977023 - 43, with (41, 43) is a twin prime pair
+For n = 488492, We have: 976984 = 976991 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 488494, We have: 976988 = 976991 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 488494, We have: 976988 = 977269 - 281, with ((277, 281)) is a cousin prime pair, and 976992 = 977021 - 29, with 31 is also prime
+For n = 488496, We have: 976992 = 977023 - 31, with (29, 31) is a twin prime pair
+For n = 488498, We have: 976996 = 977057 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 488500, We have: 977000 = 977107 - 107, with (107, 109) is a twin prime pair
+2nd condition: For n = 488500, We have: 977000 = 977023 - 23, with ((19, 23)) is a cousin prime pair, and 977004 = 977021 - 17, with 19 is also prime
+For n = 488502, We have: 977004 = 977023 - 19, with (17, 19) is a twin prime pair
+For n = 488504, We have: 977008 = 977021 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 488506, We have: 977012 = 977023 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 488506, We have: 977012 = 977023 - 11, with ((7, 11)) is a cousin prime pair, and 977016 = 977021 - 5, with 7 is also prime
+For n = 488508, We have: 977016 = 977021 - 5, with (3, 5) is a twin prime pair
+For n = 488510, We have: 977020 = 977369 - 349, with (347, 349) is a twin prime pair
+1st condition: For n = 488512, We have: 977024 = 977203 - 179, with (179, 181) is a twin prime pair
+2nd condition: For n = 488512, We have: 977024 = 977047 - 23, with ((19, 23)) is a cousin prime pair, and 977028 = 977057 - 29, with 31 is also prime
+For n = 488514, We have: 977028 = 977047 - 19, with (17, 19) is a twin prime pair
+For n = 488516, We have: 977032 = 977183 - 151, with (149, 151) is a twin prime pair
+1st condition: For n = 488518, We have: 977036 = 977047 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 488518, We have: 977036 = 977047 - 11, with ((7, 11)) is a cousin prime pair, and 977040 = 977057 - 17, with 19 is also prime
+For n = 488520, We have: 977040 = 977047 - 7, with (5, 7) is a twin prime pair
+For n = 488522, We have: 977044 = 977057 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 488524, We have: 977048 = 977107 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 488524, We have: 977048 = 977149 - 101, with ((97, 101)) is a cousin prime pair, and 977052 = 977057 - 5, with 7 is also prime
+For n = 488526, We have: 977052 = 977057 - 5, with (3, 5) is a twin prime pair
+For n = 488528, We have: 977056 = 977069 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 488530, We have: 977060 = 977167 - 107, with (107, 109) is a twin prime pair
+2nd condition: For n = 488530, We have: 977060 = 977107 - 47, with ((43, 47)) is a cousin prime pair, and 977064 = 977069 - 5, with 7 is also prime
+For n = 488532, We have: 977064 = 977069 - 5, with (3, 5) is a twin prime pair
+For n = 488534, We have: 977068 = 977087 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 488536, We have: 977072 = 977209 - 137, with (137, 139) is a twin prime pair
+2nd condition: For n = 488536, We have: 977072 = 977203 - 131, with ((127, 131)) is a cousin prime pair, and 977076 = 977087 - 11, with 13 is also prime
+For n = 488538, We have: 977076 = 977107 - 31, with (29, 31) is a twin prime pair
+For n = 488540, We have: 977080 = 977087 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 488542, We have: 977084 = 977087 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 488542, We have: 977084 = 977107 - 23, with ((19, 23)) is a cousin prime pair, and 977088 = 977147 - 59, with 61 is also prime
+For n = 488544, We have: 977088 = 977107 - 19, with (17, 19) is a twin prime pair
+For n = 488546, We have: 977092 = 977243 - 151, with (149, 151) is a twin prime pair
+1st condition: For n = 488548, We have: 977096 = 977107 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 488548, We have: 977096 = 977107 - 11, with ((7, 11)) is a cousin prime pair, and 977100 = 977369 - 269, with 271 is also prime
+For n = 488550, We have: 977100 = 977107 - 7, with (5, 7) is a twin prime pair
+For n = 488552, We have: 977104 = 977147 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 488554, We have: 977108 = 977149 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 488554, We have: 977108 = 977149 - 41, with ((37, 41)) is a cousin prime pair, and 977112 = 977147 - 35, with 37 is also prime
+For n = 488556, We have: 977112 = 977923 - 811, with (809, 811) is a twin prime pair
+For n = 488558, We have: 977116 = 977147 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 488560, We have: 977120 = 977149 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 488560, We have: 977120 = 977167 - 47, with ((43, 47)) is a cousin prime pair, and 977124 = 977183 - 59, with 61 is also prime
+For n = 488562, We have: 977124 = 977167 - 43, with (41, 43) is a twin prime pair
+For n = 488564, We have: 977128 = 977147 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 488566, We have: 977132 = 977149 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 488566, We have: 977132 = 977149 - 17, with ((13, 17)) is a cousin prime pair, and 977136 = 977147 - 11, with 13 is also prime
+For n = 488568, We have: 977136 = 977149 - 13, with (11, 13) is a twin prime pair
+For n = 488570, We have: 977140 = 977147 - 7, with (5, 7) is a twin prime pair
+For n = 488572, We have: 977144 = 977149 - 5, with (3, 5) is a twin prime pair
+For n = 488574, We have: 977148 = 977167 - 19, with (17, 19) is a twin prime pair
+For n = 488576, We have: 977152 = 977183 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 488578, We have: 977156 = 977167 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 488578, We have: 977156 = 977167 - 11, with ((7, 11)) is a cousin prime pair, and 977160 = 977351 - 191, with 193 is also prime
+For n = 488580, We have: 977160 = 977167 - 7, with (5, 7) is a twin prime pair
+For n = 488582, We have: 977164 = 977183 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 488584, We have: 977168 = 977209 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 488584, We have: 977168 = 977191 - 23, with ((19, 23)) is a cousin prime pair, and 977172 = 977183 - 11, with 13 is also prime
+For n = 488586, We have: 977172 = 977191 - 19, with (17, 19) is a twin prime pair
+For n = 488588, We have: 977176 = 977183 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 488590, We have: 977180 = 977183 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 488590, We have: 977180 = 977191 - 11, with ((7, 11)) is a cousin prime pair, and 977184 = 977243 - 59, with 61 is also prime
+For n = 488592, We have: 977184 = 977191 - 7, with (5, 7) is a twin prime pair
+For n = 488594, We have: 977188 = 977369 - 181, with (179, 181) is a twin prime pair
+1st condition: For n = 488596, We have: 977192 = 977203 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 488596, We have: 977192 = 977203 - 11, with ((7, 11)) is a cousin prime pair, and 977196 = 977351 - 155, with 157 is also prime
+For n = 488598, We have: 977196 = 977203 - 7, with (5, 7) is a twin prime pair
+For n = 488600, We have: 977200 = 977243 - 43, with (41, 43) is a twin prime pair
+For n = 488602, We have: 977204 = 977209 - 5, with (3, 5) is a twin prime pair
+For n = 488604, We have: 977208 = 977239 - 31, with (29, 31) is a twin prime pair
+For n = 488606, We have: 977212 = 977243 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 488608, We have: 977216 = 977233 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 488608, We have: 977216 = 977233 - 17, with ((13, 17)) is a cousin prime pair, and 977220 = 977357 - 137, with 139 is also prime
+For n = 488610, We have: 977220 = 977233 - 13, with (11, 13) is a twin prime pair
+For n = 488612, We have: 977224 = 977243 - 19, with (17, 19) is a twin prime pair
+For n = 488614, We have: 977228 = 977233 - 5, with (3, 5) is a twin prime pair
+For n = 488616, We have: 977232 = 977239 - 7, with (5, 7) is a twin prime pair
+For n = 488618, We have: 977236 = 977243 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 488620, We have: 977240 = 977243 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 488620, We have: 977240 = 977257 - 17, with ((13, 17)) is a cousin prime pair, and 977244 = 977351 - 107, with 109 is also prime
+For n = 488622, We have: 977244 = 977257 - 13, with (11, 13) is a twin prime pair
+For n = 488624, We have: 977248 = 977351 - 103, with (101, 103) is a twin prime pair
+For n = 488626, We have: 977252 = 977257 - 5, with (3, 5) is a twin prime pair
+For n = 488628, We have: 977256 = 977269 - 13, with (11, 13) is a twin prime pair
+For n = 488630, We have: 977260 = 977363 - 103, with (101, 103) is a twin prime pair
+For n = 488632, We have: 977264 = 977269 - 5, with (3, 5) is a twin prime pair
+For n = 488634, We have: 977268 = 977299 - 31, with (29, 31) is a twin prime pair
+For n = 488636, We have: 977272 = 977411 - 139, with (137, 139) is a twin prime pair
+1st condition: For n = 488638, We have: 977276 = 977413 - 137, with (137, 139) is a twin prime pair
+2nd condition: For n = 488638, We have: 977276 = 977299 - 23, with ((19, 23)) is a cousin prime pair, and 977280 = 977351 - 71, with 73 is also prime
+For n = 488640, We have: 977280 = 977299 - 19, with (17, 19) is a twin prime pair
+For n = 488642, We have: 977284 = 977357 - 73, with (71, 73) is a twin prime pair
+1st condition: For n = 488644, We have: 977288 = 977299 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 488644, We have: 977288 = 977299 - 11, with ((7, 11)) is a cousin prime pair, and 977292 = 977351 - 59, with 61 is also prime
+For n = 488646, We have: 977292 = 977299 - 7, with (5, 7) is a twin prime pair
+For n = 488648, We have: 977296 = 977357 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 488650, We have: 977300 = 977359 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 488650, We have: 977300 = 977323 - 23, with ((19, 23)) is a cousin prime pair, and 977304 = 977363 - 59, with 61 is also prime
+For n = 488652, We have: 977304 = 977323 - 19, with (17, 19) is a twin prime pair
+For n = 488654, We have: 977308 = 977351 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 488656, We have: 977312 = 977323 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 488656, We have: 977312 = 977323 - 11, with ((7, 11)) is a cousin prime pair, and 977316 = 977351 - 35, with 37 is also prime
+For n = 488658, We have: 977316 = 977323 - 7, with (5, 7) is a twin prime pair
+For n = 488660, We have: 977320 = 977351 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 488662, We have: 977324 = 977521 - 197, with (197, 199) is a twin prime pair
+2nd condition: For n = 488662, We have: 977324 = 977407 - 83, with ((79, 83)) is a cousin prime pair, and 977328 = 977357 - 29, with 31 is also prime
+For n = 488664, We have: 977328 = 977359 - 31, with (29, 31) is a twin prime pair
+For n = 488666, We have: 977332 = 977351 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 488668, We have: 977336 = 977407 - 71, with (71, 73) is a twin prime pair
+2nd condition: For n = 488668, We have: 977336 = 977359 - 23, with ((19, 23)) is a cousin prime pair, and 977340 = 977351 - 11, with 13 is also prime
+For n = 488670, We have: 977340 = 977359 - 19, with (17, 19) is a twin prime pair
+For n = 488672, We have: 977344 = 977351 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 488674, We have: 977348 = 977351 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 488674, We have: 977348 = 977359 - 11, with ((7, 11)) is a cousin prime pair, and 977352 = 977357 - 5, with 7 is also prime
+For n = 488676, We have: 977352 = 977357 - 5, with (3, 5) is a twin prime pair
+For n = 488678, We have: 977356 = 977363 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 488680, We have: 977360 = 977363 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 488680, We have: 977360 = 977407 - 47, with ((43, 47)) is a cousin prime pair, and 977364 = 977369 - 5, with 7 is also prime
+For n = 488682, We have: 977364 = 977369 - 5, with (3, 5) is a twin prime pair
+For n = 488684, We have: 977368 = 977411 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 488686, We have: 977372 = 977413 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 488686, We have: 977372 = 977413 - 41, with ((37, 41)) is a cousin prime pair, and 977376 = 977411 - 35, with 37 is also prime
+For n = 488688, We have: 977376 = 977407 - 31, with (29, 31) is a twin prime pair
+For n = 488690, We have: 977380 = 977411 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 488692, We have: 977384 = 977413 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 488692, We have: 977384 = 977407 - 23, with ((19, 23)) is a cousin prime pair, and 977388 = 977447 - 59, with 61 is also prime
+For n = 488694, We have: 977388 = 977407 - 19, with (17, 19) is a twin prime pair
+For n = 488696, We have: 977392 = 977411 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 488698, We have: 977396 = 977407 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 488698, We have: 977396 = 977407 - 11, with ((7, 11)) is a cousin prime pair, and 977400 = 977411 - 11, with 13 is also prime
+For n = 488700, We have: 977400 = 977407 - 7, with (5, 7) is a twin prime pair
+For n = 488702, We have: 977404 = 977411 - 7, with (5, 7) is a twin prime pair
+For n = 488704, We have: 977408 = 977413 - 5, with (3, 5) is a twin prime pair
+For n = 488706, We have: 977412 = 977521 - 109, with (107, 109) is a twin prime pair
+For n = 488708, We have: 977416 = 977447 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 488710, We have: 977420 = 977437 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 488710, We have: 977420 = 977437 - 17, with ((13, 17)) is a cousin prime pair, and 977424 = 977693 - 269, with 271 is also prime
+For n = 488712, We have: 977424 = 977437 - 13, with (11, 13) is a twin prime pair
+For n = 488714, We have: 977428 = 977447 - 19, with (17, 19) is a twin prime pair
+For n = 488716, We have: 977432 = 977437 - 5, with (3, 5) is a twin prime pair
+For n = 488718, We have: 977436 = 977539 - 103, with (101, 103) is a twin prime pair
+For n = 488720, We have: 977440 = 977447 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 488722, We have: 977444 = 977447 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 488722, We have: 977444 = 977611 - 167, with ((163, 167)) is a cousin prime pair, and 977448 = 977507 - 59, with 61 is also prime
+For n = 488724, We have: 977448 = 977521 - 73, with (71, 73) is a twin prime pair
+For n = 488726, We have: 977452 = 977513 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 488728, We have: 977456 = 977593 - 137, with (137, 139) is a twin prime pair
+2nd condition: For n = 488728, We have: 977456 = 977539 - 83, with ((79, 83)) is a cousin prime pair, and 977460 = 977567 - 107, with 109 is also prime
+For n = 488730, We have: 977460 = 977521 - 61, with (59, 61) is a twin prime pair
+For n = 488732, We have: 977464 = 977507 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 488734, We have: 977468 = 977539 - 71, with (71, 73) is a twin prime pair
+2nd condition: For n = 488734, We have: 977468 = 977539 - 71, with ((67, 71)) is a cousin prime pair, and 977472 = 977507 - 35, with 37 is also prime
+For n = 488736, We have: 977472 = 977611 - 139, with (137, 139) is a twin prime pair
+For n = 488738, We have: 977476 = 977507 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 488740, We have: 977480 = 977521 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 488740, We have: 977480 = 977521 - 41, with ((37, 41)) is a cousin prime pair, and 977484 = 977513 - 29, with 31 is also prime
+For n = 488742, We have: 977484 = 977593 - 109, with (107, 109) is a twin prime pair
+For n = 488744, We have: 977488 = 977507 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 488746, We have: 977492 = 977521 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 488746, We have: 977492 = 977539 - 47, with ((43, 47)) is a cousin prime pair, and 977496 = 977507 - 11, with 13 is also prime
+For n = 488748, We have: 977496 = 977539 - 43, with (41, 43) is a twin prime pair
+For n = 488750, We have: 977500 = 977507 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 488752, We have: 977504 = 977507 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 488752, We have: 977504 = 977521 - 17, with ((13, 17)) is a cousin prime pair, and 977508 = 977513 - 5, with 7 is also prime
+For n = 488754, We have: 977508 = 977513 - 5, with (3, 5) is a twin prime pair
+For n = 488756, We have: 977512 = 977693 - 181, with (179, 181) is a twin prime pair
+For n = 488758, We have: 977516 = 977521 - 5, with (3, 5) is a twin prime pair
+For n = 488760, We have: 977520 = 977539 - 19, with (17, 19) is a twin prime pair
+For n = 488762, We have: 977524 = 977567 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 488764, We have: 977528 = 977539 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 488764, We have: 977528 = 977539 - 11, with ((7, 11)) is a cousin prime pair, and 977532 = 977567 - 35, with 37 is also prime
+For n = 488766, We have: 977532 = 977539 - 7, with (5, 7) is a twin prime pair
+For n = 488768, We have: 977536 = 977567 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 488770, We have: 977540 = 977611 - 71, with (71, 73) is a twin prime pair
+2nd condition: For n = 488770, We have: 977540 = 977611 - 71, with ((67, 71)) is a cousin prime pair, and 977544 = 977609 - 65, with 67 is also prime
+For n = 488772, We have: 977544 = 978007 - 463, with (461, 463) is a twin prime pair
+For n = 488774, We have: 977548 = 977567 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 488776, We have: 977552 = 977593 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 488776, We have: 977552 = 977593 - 41, with ((37, 41)) is a cousin prime pair, and 977556 = 977567 - 11, with 13 is also prime
+For n = 488778, We have: 977556 = 977629 - 73, with (71, 73) is a twin prime pair
+For n = 488780, We have: 977560 = 977567 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 488782, We have: 977564 = 977567 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 488782, We have: 977564 = 977611 - 47, with ((43, 47)) is a cousin prime pair, and 977568 = 977609 - 41, with 43 is also prime
+For n = 488784, We have: 977568 = 977611 - 43, with (41, 43) is a twin prime pair
+For n = 488786, We have: 977572 = 977591 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 488788, We have: 977576 = 977593 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 488788, We have: 977576 = 977593 - 17, with ((13, 17)) is a cousin prime pair, and 977580 = 977591 - 11, with 13 is also prime
+For n = 488790, We have: 977580 = 977593 - 13, with (11, 13) is a twin prime pair
+For n = 488792, We have: 977584 = 977591 - 7, with (5, 7) is a twin prime pair
+For n = 488794, We have: 977588 = 977593 - 5, with (3, 5) is a twin prime pair
+For n = 488796, We have: 977592 = 977611 - 19, with (17, 19) is a twin prime pair
+For n = 488798, We have: 977596 = 977609 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 488800, We have: 977600 = 977611 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 488800, We have: 977600 = 977611 - 11, with ((7, 11)) is a cousin prime pair, and 977604 = 977609 - 5, with 7 is also prime
+For n = 488802, We have: 977604 = 977609 - 5, with (3, 5) is a twin prime pair
+For n = 488804, We have: 977608 = 977681 - 73, with (71, 73) is a twin prime pair
+1st condition: For n = 488806, We have: 977612 = 977629 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 488806, We have: 977612 = 977629 - 17, with ((13, 17)) is a cousin prime pair, and 977616 = 977681 - 65, with 67 is also prime
+For n = 488808, We have: 977616 = 977629 - 13, with (11, 13) is a twin prime pair
+For n = 488810, We have: 977620 = 977681 - 61, with (59, 61) is a twin prime pair
+For n = 488812, We have: 977624 = 977629 - 5, with (3, 5) is a twin prime pair
+For n = 488814, We have: 977628 = 977671 - 43, with (41, 43) is a twin prime pair
+For n = 488816, We have: 977632 = 977693 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 488818, We have: 977636 = 978067 - 431, with (431, 433) is a twin prime pair
+2nd condition: For n = 488818, We have: 977636 = 977719 - 83, with ((79, 83)) is a cousin prime pair, and 977640 = 977681 - 41, with 43 is also prime
+For n = 488820, We have: 977640 = 977671 - 31, with (29, 31) is a twin prime pair
+For n = 488822, We have: 977644 = 977747 - 103, with (101, 103) is a twin prime pair
+1st condition: For n = 488824, We have: 977648 = 977719 - 71, with (71, 73) is a twin prime pair
+2nd condition: For n = 488824, We have: 977648 = 977671 - 23, with ((19, 23)) is a cousin prime pair, and 977652 = 977681 - 29, with 31 is also prime
+For n = 488826, We have: 977652 = 977671 - 19, with (17, 19) is a twin prime pair
+For n = 488828, We have: 977656 = 977849 - 193, with (191, 193) is a twin prime pair
+1st condition: For n = 488830, We have: 977660 = 977671 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 488830, We have: 977660 = 977671 - 11, with ((7, 11)) is a cousin prime pair, and 977664 = 977681 - 17, with 19 is also prime
+For n = 488832, We have: 977664 = 977671 - 7, with (5, 7) is a twin prime pair
+For n = 488834, We have: 977668 = 977681 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 488836, We have: 977672 = 978091 - 419, with (419, 421) is a twin prime pair
+2nd condition: For n = 488836, We have: 977672 = 977719 - 47, with ((43, 47)) is a cousin prime pair, and 977676 = 977681 - 5, with 7 is also prime
+For n = 488838, We have: 977676 = 977681 - 5, with (3, 5) is a twin prime pair
+For n = 488840, We have: 977680 = 977693 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 488842, We have: 977684 = 977791 - 107, with (107, 109) is a twin prime pair
+2nd condition: For n = 488842, We have: 977684 = 977791 - 107, with ((103, 107)) is a cousin prime pair, and 977688 = 977693 - 5, with 7 is also prime
+For n = 488844, We have: 977688 = 977693 - 5, with (3, 5) is a twin prime pair
+For n = 488846, We have: 977692 = 977723 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 488848, We have: 977696 = 977803 - 107, with (107, 109) is a twin prime pair
+2nd condition: For n = 488848, We have: 977696 = 977719 - 23, with ((19, 23)) is a cousin prime pair, and 977700 = 977849 - 149, with 151 is also prime
+For n = 488850, We have: 977700 = 977719 - 19, with (17, 19) is a twin prime pair
+For n = 488852, We have: 977704 = 977723 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 488854, We have: 977708 = 977719 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 488854, We have: 977708 = 977719 - 11, with ((7, 11)) is a cousin prime pair, and 977712 = 977723 - 11, with 13 is also prime
+For n = 488856, We have: 977712 = 977719 - 7, with (5, 7) is a twin prime pair
+For n = 488858, We have: 977716 = 977723 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 488860, We have: 977720 = 977723 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 488860, We have: 977720 = 977761 - 41, with ((37, 41)) is a cousin prime pair, and 977724 = 977819 - 95, with 97 is also prime
+For n = 488862, We have: 977724 = 977923 - 199, with (197, 199) is a twin prime pair
+For n = 488864, We have: 977728 = 977747 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 488866, We have: 977732 = 977761 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 488866, We have: 977732 = 977803 - 71, with ((67, 71)) is a cousin prime pair, and 977736 = 977747 - 11, with 13 is also prime
+For n = 488868, We have: 977736 = 978007 - 271, with (269, 271) is a twin prime pair
+For n = 488870, We have: 977740 = 977747 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 488872, We have: 977744 = 977747 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 488872, We have: 977744 = 977761 - 17, with ((13, 17)) is a cousin prime pair, and 977748 = 977813 - 65, with 67 is also prime
+For n = 488874, We have: 977748 = 977761 - 13, with (11, 13) is a twin prime pair
+For n = 488876, We have: 977752 = 977813 - 61, with (59, 61) is a twin prime pair
+For n = 488878, We have: 977756 = 977761 - 5, with (3, 5) is a twin prime pair
+For n = 488880, We have: 977760 = 977791 - 31, with (29, 31) is a twin prime pair
+For n = 488882, We have: 977764 = 978077 - 313, with (311, 313) is a twin prime pair
+1st condition: For n = 488884, We have: 977768 = 978007 - 239, with (239, 241) is a twin prime pair
+2nd condition: For n = 488884, We have: 977768 = 977791 - 23, with ((19, 23)) is a cousin prime pair, and 977772 = 977813 - 41, with 43 is also prime
+For n = 488886, We have: 977772 = 977791 - 19, with (17, 19) is a twin prime pair
+For n = 488888, We have: 977776 = 977819 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 488890, We have: 977780 = 977791 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 488890, We have: 977780 = 977791 - 11, with ((7, 11)) is a cousin prime pair, and 977784 = 977813 - 29, with 31 is also prime
+For n = 488892, We have: 977784 = 977791 - 7, with (5, 7) is a twin prime pair
+For n = 488894, We have: 977788 = 977819 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 488896, We have: 977792 = 977803 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 488896, We have: 977792 = 977803 - 11, with ((7, 11)) is a cousin prime pair, and 977796 = 977813 - 17, with 19 is also prime
+For n = 488898, We have: 977796 = 977803 - 7, with (5, 7) is a twin prime pair
+For n = 488900, We have: 977800 = 977813 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 488902, We have: 977804 = 978001 - 197, with (197, 199) is a twin prime pair
+2nd condition: For n = 488902, We have: 977804 = 977971 - 167, with ((163, 167)) is a cousin prime pair, and 977808 = 977813 - 5, with 7 is also prime
+For n = 488904, We have: 977808 = 977813 - 5, with (3, 5) is a twin prime pair
+For n = 488906, We have: 977812 = 977819 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 488908, We have: 977816 = 977819 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 488908, We have: 977816 = 977923 - 107, with ((103, 107)) is a cousin prime pair, and 977820 = 977831 - 11, with 13 is also prime
+For n = 488910, We have: 977820 = 977881 - 61, with (59, 61) is a twin prime pair
+For n = 488912, We have: 977824 = 977831 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 488914, We have: 977828 = 977831 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 488914, We have: 977828 = 978181 - 353, with ((349, 353)) is a cousin prime pair, and 977832 = 977849 - 17, with 19 is also prime
+For n = 488916, We have: 977832 = 977971 - 139, with (137, 139) is a twin prime pair
+For n = 488918, We have: 977836 = 977849 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 488920, We have: 977840 = 977881 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 488920, We have: 977840 = 977881 - 41, with ((37, 41)) is a cousin prime pair, and 977844 = 977849 - 5, with 7 is also prime
+For n = 488922, We have: 977844 = 977849 - 5, with (3, 5) is a twin prime pair
+For n = 488924, We have: 977848 = 977861 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 488926, We have: 977852 = 977881 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 488926, We have: 977852 = 977923 - 71, with ((67, 71)) is a cousin prime pair, and 977856 = 977861 - 5, with 7 is also prime
+For n = 488928, We have: 977856 = 977861 - 5, with (3, 5) is a twin prime pair
+For n = 488930, We have: 977860 = 978011 - 151, with (149, 151) is a twin prime pair
+1st condition: For n = 488932, We have: 977864 = 977881 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 488932, We have: 977864 = 977881 - 17, with ((13, 17)) is a cousin prime pair, and 977868 = 977897 - 29, with 31 is also prime
+For n = 488934, We have: 977868 = 977881 - 13, with (11, 13) is a twin prime pair
+For n = 488936, We have: 977872 = 978011 - 139, with (137, 139) is a twin prime pair
+For n = 488938, We have: 977876 = 977881 - 5, with (3, 5) is a twin prime pair
+For n = 488940, We have: 977880 = 977923 - 43, with (41, 43) is a twin prime pair
+For n = 488942, We have: 977884 = 977897 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 488944, We have: 977888 = 978037 - 149, with (149, 151) is a twin prime pair
+2nd condition: For n = 488944, We have: 977888 = 977971 - 83, with ((79, 83)) is a cousin prime pair, and 977892 = 977897 - 5, with 7 is also prime
+For n = 488946, We have: 977892 = 977897 - 5, with (3, 5) is a twin prime pair
+For n = 488948, We have: 977896 = 977927 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 488950, We have: 977900 = 977971 - 71, with (71, 73) is a twin prime pair
+2nd condition: For n = 488950, We have: 977900 = 977923 - 23, with ((19, 23)) is a cousin prime pair, and 977904 = 978011 - 107, with 109 is also prime
+For n = 488952, We have: 977904 = 977923 - 19, with (17, 19) is a twin prime pair
+For n = 488954, We have: 977908 = 977927 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 488956, We have: 977912 = 977923 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 488956, We have: 977912 = 977923 - 11, with ((7, 11)) is a cousin prime pair, and 977916 = 977927 - 11, with 13 is also prime
+For n = 488958, We have: 977916 = 977923 - 7, with (5, 7) is a twin prime pair
+For n = 488960, We have: 977920 = 977927 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 488962, We have: 977924 = 977927 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 488962, We have: 977924 = 977971 - 47, with ((43, 47)) is a cousin prime pair, and 977928 = 978053 - 125, with 127 is also prime
+For n = 488964, We have: 977928 = 977971 - 43, with (41, 43) is a twin prime pair
+For n = 488966, We have: 977932 = 978041 - 109, with (107, 109) is a twin prime pair
+1st condition: For n = 488968, We have: 977936 = 978007 - 71, with (71, 73) is a twin prime pair
+2nd condition: For n = 488968, We have: 977936 = 978007 - 71, with ((67, 71)) is a cousin prime pair, and 977940 = 978011 - 71, with 73 is also prime
+For n = 488970, We have: 977940 = 977971 - 31, with (29, 31) is a twin prime pair
+For n = 488972, We have: 977944 = 978017 - 73, with (71, 73) is a twin prime pair
+1st condition: For n = 488974, We have: 977948 = 978007 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 488974, We have: 977948 = 977971 - 23, with ((19, 23)) is a cousin prime pair, and 977952 = 978011 - 59, with 61 is also prime
+For n = 488976, We have: 977952 = 977971 - 19, with (17, 19) is a twin prime pair
+For n = 488978, We have: 977956 = 978017 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 488980, We have: 977960 = 977971 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 488980, We have: 977960 = 977971 - 11, with ((7, 11)) is a cousin prime pair, and 977964 = 978041 - 77, with 79 is also prime
+For n = 488982, We have: 977964 = 977971 - 7, with (5, 7) is a twin prime pair
+For n = 488984, We have: 977968 = 978011 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 488986, We have: 977972 = 978001 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 488986, We have: 977972 = 978073 - 101, with ((97, 101)) is a cousin prime pair, and 977976 = 978011 - 35, with 37 is also prime
+For n = 488988, We have: 977976 = 978007 - 31, with (29, 31) is a twin prime pair
+For n = 488990, We have: 977980 = 978011 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 488992, We have: 977984 = 978001 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 488992, We have: 977984 = 978001 - 17, with ((13, 17)) is a cousin prime pair, and 977988 = 978017 - 29, with 31 is also prime
+For n = 488994, We have: 977988 = 978001 - 13, with (11, 13) is a twin prime pair
+For n = 488996, We have: 977992 = 978011 - 19, with (17, 19) is a twin prime pair
+For n = 488998, We have: 977996 = 978001 - 5, with (3, 5) is a twin prime pair
+For n = 489000, We have: 978000 = 978007 - 7, with (5, 7) is a twin prime pair
+For n = 489002, We have: 978004 = 978011 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 489004, We have: 978008 = 978011 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 489004, We have: 978008 = 978031 - 23, with ((19, 23)) is a cousin prime pair, and 978012 = 978017 - 5, with 7 is also prime
+For n = 489006, We have: 978012 = 978017 - 5, with (3, 5) is a twin prime pair
+For n = 489008, We have: 978016 = 978077 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 489010, We have: 978020 = 978031 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 489010, We have: 978020 = 978031 - 11, with ((7, 11)) is a cousin prime pair, and 978024 = 978041 - 17, with 19 is also prime
+For n = 489012, We have: 978024 = 978031 - 7, with (5, 7) is a twin prime pair
+For n = 489014, We have: 978028 = 978041 - 13, with (11, 13) is a twin prime pair
+For n = 489016, We have: 978032 = 978037 - 5, with (3, 5) is a twin prime pair
+For n = 489018, We have: 978036 = 978041 - 5, with (3, 5) is a twin prime pair
+For n = 489020, We have: 978040 = 978053 - 13, with (11, 13) is a twin prime pair
+For n = 489022, We have: 978044 = 978049 - 5, with (3, 5) is a twin prime pair
+For n = 489024, We have: 978048 = 978053 - 5, with (3, 5) is a twin prime pair
+For n = 489026, We have: 978052 = 978071 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 489028, We have: 978056 = 978067 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 489028, We have: 978056 = 978067 - 11, with ((7, 11)) is a cousin prime pair, and 978060 = 978071 - 11, with 13 is also prime
+For n = 489030, We have: 978060 = 978067 - 7, with (5, 7) is a twin prime pair
+For n = 489032, We have: 978064 = 978071 - 7, with (5, 7) is a twin prime pair
+For n = 489034, We have: 978068 = 978073 - 5, with (3, 5) is a twin prime pair
+For n = 489036, We have: 978072 = 978077 - 5, with (3, 5) is a twin prime pair
+For n = 489038, We have: 978076 = 978149 - 73, with (71, 73) is a twin prime pair
+1st condition: For n = 489040, We have: 978080 = 978091 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 489040, We have: 978080 = 978091 - 11, with ((7, 11)) is a cousin prime pair, and 978084 = 978113 - 29, with 31 is also prime
+For n = 489042, We have: 978084 = 978091 - 7, with (5, 7) is a twin prime pair
+For n = 489044, We have: 978088 = 978149 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 489046, We have: 978092 = 978151 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 489046, We have: 978092 = 978223 - 131, with ((127, 131)) is a cousin prime pair, and 978096 = 978113 - 17, with 19 is also prime
+For n = 489048, We have: 978096 = 978157 - 61, with (59, 61) is a twin prime pair
+For n = 489050, We have: 978100 = 978113 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 489052, We have: 978104 = 978283 - 179, with (179, 181) is a twin prime pair
+2nd condition: For n = 489052, We have: 978104 = 978151 - 47, with ((43, 47)) is a cousin prime pair, and 978108 = 978113 - 5, with 7 is also prime
+For n = 489054, We have: 978108 = 978113 - 5, with (3, 5) is a twin prime pair
+For n = 489056, We have: 978112 = 978683 - 571, with (569, 571) is a twin prime pair
+1st condition: For n = 489058, We have: 978116 = 978157 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 489058, We have: 978116 = 978157 - 41, with ((37, 41)) is a cousin prime pair, and 978120 = 978149 - 29, with 31 is also prime
+For n = 489060, We have: 978120 = 978151 - 31, with (29, 31) is a twin prime pair
+For n = 489062, We have: 978124 = 978233 - 109, with (107, 109) is a twin prime pair
+1st condition: For n = 489064, We have: 978128 = 978157 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 489064, We have: 978128 = 978151 - 23, with ((19, 23)) is a cousin prime pair, and 978132 = 978149 - 17, with 19 is also prime
+For n = 489066, We have: 978132 = 978151 - 19, with (17, 19) is a twin prime pair
+For n = 489068, We have: 978136 = 978149 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 489070, We have: 978140 = 978151 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 489070, We have: 978140 = 978151 - 11, with ((7, 11)) is a cousin prime pair, and 978144 = 978149 - 5, with 7 is also prime
+For n = 489072, We have: 978144 = 978149 - 5, with (3, 5) is a twin prime pair
+For n = 489074, We have: 978148 = 978179 - 31, with (29, 31) is a twin prime pair
+For n = 489076, We have: 978152 = 978157 - 5, with (3, 5) is a twin prime pair
+For n = 489078, We have: 978156 = 978217 - 61, with (59, 61) is a twin prime pair
+For n = 489080, We have: 978160 = 978179 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 489082, We have: 978164 = 978181 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 489082, We have: 978164 = 978181 - 17, with ((13, 17)) is a cousin prime pair, and 978168 = 978179 - 11, with 13 is also prime
+For n = 489084, We have: 978168 = 978181 - 13, with (11, 13) is a twin prime pair
+For n = 489086, We have: 978172 = 978179 - 7, with (5, 7) is a twin prime pair
+For n = 489088, We have: 978176 = 978181 - 5, with (3, 5) is a twin prime pair
+For n = 489090, We have: 978180 = 978223 - 43, with (41, 43) is a twin prime pair
+For n = 489092, We have: 978184 = 978203 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 489094, We have: 978188 = 978217 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 489094, We have: 978188 = 978541 - 353, with ((349, 353)) is a cousin prime pair, and 978192 = 978203 - 11, with 13 is also prime
+For n = 489096, We have: 978192 = 978223 - 31, with (29, 31) is a twin prime pair
+For n = 489098, We have: 978196 = 978203 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 489100, We have: 978200 = 978203 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 489100, We have: 978200 = 978217 - 17, with ((13, 17)) is a cousin prime pair, and 978204 = 978209 - 5, with 7 is also prime
+For n = 489102, We have: 978204 = 978209 - 5, with (3, 5) is a twin prime pair
+For n = 489104, We have: 978208 = 978239 - 31, with (29, 31) is a twin prime pair
+For n = 489106, We have: 978212 = 978217 - 5, with (3, 5) is a twin prime pair
+For n = 489108, We have: 978216 = 978223 - 7, with (5, 7) is a twin prime pair
+For n = 489110, We have: 978220 = 978233 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 489112, We have: 978224 = 978283 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 489112, We have: 978224 = 978337 - 113, with ((109, 113)) is a cousin prime pair, and 978228 = 978233 - 5, with 7 is also prime
+For n = 489114, We have: 978228 = 978233 - 5, with (3, 5) is a twin prime pair
+For n = 489116, We have: 978232 = 978239 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 489118, We have: 978236 = 978239 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 489118, We have: 978236 = 978277 - 41, with ((37, 41)) is a cousin prime pair, and 978240 = 978269 - 29, with 31 is also prime
+For n = 489120, We have: 978240 = 978283 - 43, with (41, 43) is a twin prime pair
+For n = 489122, We have: 978244 = 978287 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 489124, We have: 978248 = 978277 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 489124, We have: 978248 = 978349 - 101, with ((97, 101)) is a cousin prime pair, and 978252 = 978269 - 17, with 19 is also prime
+For n = 489126, We have: 978252 = 978283 - 31, with (29, 31) is a twin prime pair
+For n = 489128, We have: 978256 = 978269 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 489130, We have: 978260 = 978277 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 489130, We have: 978260 = 978277 - 17, with ((13, 17)) is a cousin prime pair, and 978264 = 978269 - 5, with 7 is also prime
+For n = 489132, We have: 978264 = 978269 - 5, with (3, 5) is a twin prime pair
+For n = 489134, We have: 978268 = 978287 - 19, with (17, 19) is a twin prime pair
+For n = 489136, We have: 978272 = 978277 - 5, with (3, 5) is a twin prime pair
+For n = 489138, We have: 978276 = 978283 - 7, with (5, 7) is a twin prime pair
+For n = 489140, We have: 978280 = 978287 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 489142, We have: 978284 = 978287 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 489142, We have: 978284 = 978511 - 227, with ((223, 227)) is a cousin prime pair, and 978288 = 978323 - 35, with 37 is also prime
+For n = 489144, We have: 978288 = 978349 - 61, with (59, 61) is a twin prime pair
+For n = 489146, We have: 978292 = 978323 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 489148, We have: 978296 = 978337 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 489148, We have: 978296 = 978337 - 41, with ((37, 41)) is a cousin prime pair, and 978300 = 978359 - 59, with 61 is also prime
+For n = 489150, We have: 978300 = 978343 - 43, with (41, 43) is a twin prime pair
+For n = 489152, We have: 978304 = 978323 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 489154, We have: 978308 = 978337 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 489154, We have: 978308 = 978349 - 41, with ((37, 41)) is a cousin prime pair, and 978312 = 978323 - 11, with 13 is also prime
+For n = 489156, We have: 978312 = 978343 - 31, with (29, 31) is a twin prime pair
+For n = 489158, We have: 978316 = 978323 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 489160, We have: 978320 = 978323 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 489160, We have: 978320 = 978337 - 17, with ((13, 17)) is a cousin prime pair, and 978324 = 978359 - 35, with 37 is also prime
+For n = 489162, We have: 978324 = 978337 - 13, with (11, 13) is a twin prime pair
+For n = 489164, We have: 978328 = 978347 - 19, with (17, 19) is a twin prime pair
+For n = 489166, We have: 978332 = 978337 - 5, with (3, 5) is a twin prime pair
+For n = 489168, We have: 978336 = 978343 - 7, with (5, 7) is a twin prime pair
+For n = 489170, We have: 978340 = 978347 - 7, with (5, 7) is a twin prime pair
+For n = 489172, We have: 978344 = 978349 - 5, with (3, 5) is a twin prime pair
+For n = 489174, We have: 978348 = 978457 - 109, with (107, 109) is a twin prime pair
+For n = 489176, We have: 978352 = 978359 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 489178, We have: 978356 = 978359 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 489178, We have: 978356 = 978403 - 47, with ((43, 47)) is a cousin prime pair, and 978360 = 978389 - 29, with 31 is also prime
+For n = 489180, We have: 978360 = 978403 - 43, with (41, 43) is a twin prime pair
+For n = 489182, We have: 978364 = 978473 - 109, with (107, 109) is a twin prime pair
+1st condition: For n = 489184, We have: 978368 = 978427 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 489184, We have: 978368 = 978871 - 503, with ((499, 503)) is a cousin prime pair, and 978372 = 978389 - 17, with 19 is also prime
+For n = 489186, We have: 978372 = 978403 - 31, with (29, 31) is a twin prime pair
+For n = 489188, We have: 978376 = 978389 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 489190, We have: 978380 = 978619 - 239, with (239, 241) is a twin prime pair
+2nd condition: For n = 489190, We have: 978380 = 978403 - 23, with ((19, 23)) is a cousin prime pair, and 978384 = 978389 - 5, with 7 is also prime
+For n = 489192, We have: 978384 = 978389 - 5, with (3, 5) is a twin prime pair
+For n = 489194, We have: 978388 = 978449 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 489196, We have: 978392 = 978403 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 489196, We have: 978392 = 978403 - 11, with ((7, 11)) is a cousin prime pair, and 978396 = 978413 - 17, with 19 is also prime
+For n = 489198, We have: 978396 = 978403 - 7, with (5, 7) is a twin prime pair
+For n = 489200, We have: 978400 = 978413 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 489202, We have: 978404 = 978463 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 489202, We have: 978404 = 978427 - 23, with ((19, 23)) is a cousin prime pair, and 978408 = 978413 - 5, with 7 is also prime
+For n = 489204, We have: 978408 = 978413 - 5, with (3, 5) is a twin prime pair
+For n = 489206, We have: 978412 = 978473 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 489208, We have: 978416 = 978427 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 489208, We have: 978416 = 978427 - 11, with ((7, 11)) is a cousin prime pair, and 978420 = 978449 - 29, with 31 is also prime
+For n = 489210, We have: 978420 = 978427 - 7, with (5, 7) is a twin prime pair
+For n = 489212, We have: 978424 = 978617 - 193, with (191, 193) is a twin prime pair
+1st condition: For n = 489214, We have: 978428 = 978457 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 489214, We have: 978428 = 978511 - 83, with ((79, 83)) is a cousin prime pair, and 978432 = 978449 - 17, with 19 is also prime
+For n = 489216, We have: 978432 = 978463 - 31, with (29, 31) is a twin prime pair
+For n = 489218, We have: 978436 = 978449 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 489220, We have: 978440 = 978457 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 489220, We have: 978440 = 978457 - 17, with ((13, 17)) is a cousin prime pair, and 978444 = 978449 - 5, with 7 is also prime
+For n = 489222, We have: 978444 = 978449 - 5, with (3, 5) is a twin prime pair
+For n = 489224, We have: 978448 = 978479 - 31, with (29, 31) is a twin prime pair
+For n = 489226, We have: 978452 = 978457 - 5, with (3, 5) is a twin prime pair
+For n = 489228, We have: 978456 = 978463 - 7, with (5, 7) is a twin prime pair
+For n = 489230, We have: 978460 = 978473 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 489232, We have: 978464 = 978643 - 179, with (179, 181) is a twin prime pair
+2nd condition: For n = 489232, We have: 978464 = 978511 - 47, with ((43, 47)) is a cousin prime pair, and 978468 = 978473 - 5, with 7 is also prime
+For n = 489234, We have: 978468 = 978473 - 5, with (3, 5) is a twin prime pair
+For n = 489236, We have: 978472 = 978479 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 489238, We have: 978476 = 978479 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 489238, We have: 978476 = 978643 - 167, with ((163, 167)) is a cousin prime pair, and 978480 = 978491 - 11, with 13 is also prime
+For n = 489240, We have: 978480 = 978511 - 31, with (29, 31) is a twin prime pair
+For n = 489242, We have: 978484 = 978491 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 489244, We have: 978488 = 978491 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 489244, We have: 978488 = 978511 - 23, with ((19, 23)) is a cousin prime pair, and 978492 = 978521 - 29, with 31 is also prime
+For n = 489246, We have: 978492 = 978511 - 19, with (17, 19) is a twin prime pair
+For n = 489248, We have: 978496 = 978569 - 73, with (71, 73) is a twin prime pair
+1st condition: For n = 489250, We have: 978500 = 978511 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 489250, We have: 978500 = 978511 - 11, with ((7, 11)) is a cousin prime pair, and 978504 = 978521 - 17, with 19 is also prime
+For n = 489252, We have: 978504 = 978511 - 7, with (5, 7) is a twin prime pair
+For n = 489254, We have: 978508 = 978521 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 489256, We have: 978512 = 978541 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 489256, We have: 978512 = 978619 - 107, with ((103, 107)) is a cousin prime pair, and 978516 = 978521 - 5, with 7 is also prime
+For n = 489258, We have: 978516 = 978521 - 5, with (3, 5) is a twin prime pair
+For n = 489260, We have: 978520 = 978713 - 193, with (191, 193) is a twin prime pair
+1st condition: For n = 489262, We have: 978524 = 978541 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 489262, We have: 978524 = 978541 - 17, with ((13, 17)) is a cousin prime pair, and 978528 = 978569 - 41, with 43 is also prime
+For n = 489264, We have: 978528 = 978541 - 13, with (11, 13) is a twin prime pair
+For n = 489266, We have: 978532 = 978683 - 151, with (149, 151) is a twin prime pair
+For n = 489268, We have: 978536 = 978541 - 5, with (3, 5) is a twin prime pair
+For n = 489270, We have: 978540 = 978643 - 103, with (101, 103) is a twin prime pair
+For n = 489272, We have: 978544 = 978617 - 73, with (71, 73) is a twin prime pair
+1st condition: For n = 489274, We have: 978548 = 978619 - 71, with (71, 73) is a twin prime pair
+2nd condition: For n = 489274, We have: 978548 = 978619 - 71, with ((67, 71)) is a cousin prime pair, and 978552 = 978569 - 17, with 19 is also prime
+For n = 489276, We have: 978552 = 978973 - 421, with (419, 421) is a twin prime pair
+For n = 489278, We have: 978556 = 978569 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 489280, We have: 978560 = 978619 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 489280, We have: 978560 = 978643 - 83, with ((79, 83)) is a cousin prime pair, and 978564 = 978569 - 5, with 7 is also prime
+For n = 489282, We have: 978564 = 978569 - 5, with (3, 5) is a twin prime pair
+For n = 489284, We have: 978568 = 978599 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 489286, We have: 978572 = 978643 - 71, with (71, 73) is a twin prime pair
+2nd condition: For n = 489286, We have: 978572 = 978619 - 47, with ((43, 47)) is a cousin prime pair, and 978576 = 978611 - 35, with 37 is also prime
+For n = 489288, We have: 978576 = 978619 - 43, with (41, 43) is a twin prime pair
+For n = 489290, We have: 978580 = 978599 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 489292, We have: 978584 = 978643 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 489292, We have: 978584 = 978697 - 113, with ((109, 113)) is a cousin prime pair, and 978588 = 978599 - 11, with 13 is also prime
+For n = 489294, We have: 978588 = 978619 - 31, with (29, 31) is a twin prime pair
+For n = 489296, We have: 978592 = 978599 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 489298, We have: 978596 = 978599 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 489298, We have: 978596 = 978619 - 23, with ((19, 23)) is a cousin prime pair, and 978600 = 978611 - 11, with 13 is also prime
+For n = 489300, We have: 978600 = 978619 - 19, with (17, 19) is a twin prime pair
+For n = 489302, We have: 978604 = 978611 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 489304, We have: 978608 = 978611 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 489304, We have: 978608 = 978619 - 11, with ((7, 11)) is a cousin prime pair, and 978612 = 978617 - 5, with 7 is also prime
+For n = 489306, We have: 978612 = 978617 - 5, with (3, 5) is a twin prime pair
+For n = 489308, We have: 978616 = 978647 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 489310, We have: 978620 = 978727 - 107, with (107, 109) is a twin prime pair
+2nd condition: For n = 489310, We have: 978620 = 978643 - 23, with ((19, 23)) is a cousin prime pair, and 978624 = 978683 - 59, with 61 is also prime
+For n = 489312, We have: 978624 = 978643 - 19, with (17, 19) is a twin prime pair
+For n = 489314, We have: 978628 = 978647 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 489316, We have: 978632 = 978643 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 489316, We have: 978632 = 978643 - 11, with ((7, 11)) is a cousin prime pair, and 978636 = 978647 - 11, with 13 is also prime
+For n = 489318, We have: 978636 = 978643 - 7, with (5, 7) is a twin prime pair
+For n = 489320, We have: 978640 = 978647 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 489322, We have: 978644 = 978647 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 489322, We have: 978644 = 978727 - 83, with ((79, 83)) is a cousin prime pair, and 978648 = 978683 - 35, with 37 is also prime
+For n = 489324, We have: 978648 = 978799 - 151, with (149, 151) is a twin prime pair
+For n = 489326, We have: 978652 = 978683 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 489328, We have: 978656 = 978697 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 489328, We have: 978656 = 978697 - 41, with ((37, 41)) is a cousin prime pair, and 978660 = 978689 - 29, with 31 is also prime
+For n = 489330, We have: 978660 = 978799 - 139, with (137, 139) is a twin prime pair
+For n = 489332, We have: 978664 = 978683 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 489334, We have: 978668 = 978697 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 489334, We have: 978668 = 978799 - 131, with ((127, 131)) is a cousin prime pair, and 978672 = 978683 - 11, with 13 is also prime
+For n = 489336, We have: 978672 = 978853 - 181, with (179, 181) is a twin prime pair
+For n = 489338, We have: 978676 = 978683 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 489340, We have: 978680 = 978683 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 489340, We have: 978680 = 978697 - 17, with ((13, 17)) is a cousin prime pair, and 978684 = 978689 - 5, with 7 is also prime
+For n = 489342, We have: 978684 = 978689 - 5, with (3, 5) is a twin prime pair
+For n = 489344, We have: 978688 = 978749 - 61, with (59, 61) is a twin prime pair
+For n = 489346, We have: 978692 = 978697 - 5, with (3, 5) is a twin prime pair
+For n = 489348, We have: 978696 = 978727 - 31, with (29, 31) is a twin prime pair
+For n = 489350, We have: 978700 = 978713 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 489352, We have: 978704 = 978853 - 149, with (149, 151) is a twin prime pair
+2nd condition: For n = 489352, We have: 978704 = 978727 - 23, with ((19, 23)) is a cousin prime pair, and 978708 = 978713 - 5, with 7 is also prime
+For n = 489354, We have: 978708 = 978713 - 5, with (3, 5) is a twin prime pair
+For n = 489356, We have: 978712 = 978743 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 489358, We have: 978716 = 978727 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 489358, We have: 978716 = 978727 - 11, with ((7, 11)) is a cousin prime pair, and 978720 = 978749 - 29, with 31 is also prime
+For n = 489360, We have: 978720 = 978727 - 7, with (5, 7) is a twin prime pair
+For n = 489362, We have: 978724 = 978743 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 489364, We have: 978728 = 978799 - 71, with (71, 73) is a twin prime pair
+2nd condition: For n = 489364, We have: 978728 = 978799 - 71, with ((67, 71)) is a cousin prime pair, and 978732 = 978743 - 11, with 13 is also prime
+For n = 489366, We have: 978732 = 978871 - 139, with (137, 139) is a twin prime pair
+For n = 489368, We have: 978736 = 978743 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 489370, We have: 978740 = 978743 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 489370, We have: 978740 = 978853 - 113, with ((109, 113)) is a cousin prime pair, and 978744 = 978749 - 5, with 7 is also prime
+For n = 489372, We have: 978744 = 978749 - 5, with (3, 5) is a twin prime pair
+For n = 489374, We have: 978748 = 978821 - 73, with (71, 73) is a twin prime pair
+1st condition: For n = 489376, We have: 978752 = 978853 - 101, with (101, 103) is a twin prime pair
+2nd condition: For n = 489376, We have: 978752 = 978799 - 47, with ((43, 47)) is a cousin prime pair, and 978756 = 978773 - 17, with 19 is also prime
+For n = 489378, We have: 978756 = 978799 - 43, with (41, 43) is a twin prime pair
+For n = 489380, We have: 978760 = 978773 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 489382, We have: 978764 = 978871 - 107, with (107, 109) is a twin prime pair
+2nd condition: For n = 489382, We have: 978764 = 978871 - 107, with ((103, 107)) is a cousin prime pair, and 978768 = 978773 - 5, with 7 is also prime
+For n = 489384, We have: 978768 = 978773 - 5, with (3, 5) is a twin prime pair
+For n = 489386, We have: 978772 = 979001 - 229, with (227, 229) is a twin prime pair
+1st condition: For n = 489388, We have: 978776 = 978883 - 107, with (107, 109) is a twin prime pair
+2nd condition: For n = 489388, We have: 978776 = 978799 - 23, with ((19, 23)) is a cousin prime pair, and 978780 = 978797 - 17, with 19 is also prime
+For n = 489390, We have: 978780 = 978799 - 19, with (17, 19) is a twin prime pair
+For n = 489392, We have: 978784 = 978797 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 489394, We have: 978788 = 978799 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 489394, We have: 978788 = 978799 - 11, with ((7, 11)) is a cousin prime pair, and 978792 = 978797 - 5, with 7 is also prime
+For n = 489396, We have: 978792 = 978797 - 5, with (3, 5) is a twin prime pair
+For n = 489398, We have: 978796 = 978839 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 489400, We have: 978800 = 978871 - 71, with (71, 73) is a twin prime pair
+2nd condition: For n = 489400, We have: 978800 = 978871 - 71, with ((67, 71)) is a cousin prime pair, and 978804 = 978821 - 17, with 19 is also prime
+For n = 489402, We have: 978804 = 978907 - 103, with (101, 103) is a twin prime pair
+For n = 489404, We have: 978808 = 978821 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 489406, We have: 978812 = 978853 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 489406, We have: 978812 = 978853 - 41, with ((37, 41)) is a cousin prime pair, and 978816 = 978821 - 5, with 7 is also prime
+For n = 489408, We have: 978816 = 978821 - 5, with (3, 5) is a twin prime pair
+For n = 489410, We have: 978820 = 978839 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 489412, We have: 978824 = 978853 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 489412, We have: 978824 = 978871 - 47, with ((43, 47)) is a cousin prime pair, and 978828 = 978839 - 11, with 13 is also prime
+For n = 489414, We have: 978828 = 978871 - 43, with (41, 43) is a twin prime pair
+For n = 489416, We have: 978832 = 978839 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 489418, We have: 978836 = 978839 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 489418, We have: 978836 = 978853 - 17, with ((13, 17)) is a cousin prime pair, and 978840 = 978851 - 11, with 13 is also prime
+For n = 489420, We have: 978840 = 978853 - 13, with (11, 13) is a twin prime pair
+For n = 489422, We have: 978844 = 978851 - 7, with (5, 7) is a twin prime pair
+For n = 489424, We have: 978848 = 978853 - 5, with (3, 5) is a twin prime pair
+For n = 489426, We have: 978852 = 978871 - 19, with (17, 19) is a twin prime pair
+For n = 489428, We have: 978856 = 978863 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 489430, We have: 978860 = 978863 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 489430, We have: 978860 = 978871 - 11, with ((7, 11)) is a cousin prime pair, and 978864 = 979001 - 137, with 139 is also prime
+For n = 489432, We have: 978864 = 978871 - 7, with (5, 7) is a twin prime pair
+For n = 489434, We have: 978868 = 979061 - 193, with (191, 193) is a twin prime pair
+1st condition: For n = 489436, We have: 978872 = 978883 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 489436, We have: 978872 = 978883 - 11, with ((7, 11)) is a cousin prime pair, and 978876 = 978917 - 41, with 43 is also prime
+For n = 489438, We have: 978876 = 978883 - 7, with (5, 7) is a twin prime pair
+For n = 489440, We have: 978880 = 979031 - 151, with (149, 151) is a twin prime pair
+1st condition: For n = 489442, We have: 978884 = 979063 - 179, with (179, 181) is a twin prime pair
+2nd condition: For n = 489442, We have: 978884 = 978907 - 23, with ((19, 23)) is a cousin prime pair, and 978888 = 978917 - 29, with 31 is also prime
+For n = 489444, We have: 978888 = 978907 - 19, with (17, 19) is a twin prime pair
+For n = 489446, We have: 978892 = 979001 - 109, with (107, 109) is a twin prime pair
+1st condition: For n = 489448, We have: 978896 = 978907 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 489448, We have: 978896 = 978907 - 11, with ((7, 11)) is a cousin prime pair, and 978900 = 978917 - 17, with 19 is also prime
+For n = 489450, We have: 978900 = 978907 - 7, with (5, 7) is a twin prime pair
+For n = 489452, We have: 978904 = 978917 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 489454, We have: 978908 = 979009 - 101, with (101, 103) is a twin prime pair
+2nd condition: For n = 489454, We have: 978908 = 978931 - 23, with ((19, 23)) is a cousin prime pair, and 978912 = 978917 - 5, with 7 is also prime
+For n = 489456, We have: 978912 = 978917 - 5, with (3, 5) is a twin prime pair
+For n = 489458, We have: 978916 = 978947 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 489460, We have: 978920 = 978931 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 489460, We have: 978920 = 978931 - 11, with ((7, 11)) is a cousin prime pair, and 978924 = 979001 - 77, with 79 is also prime
+For n = 489462, We have: 978924 = 978931 - 7, with (5, 7) is a twin prime pair
+For n = 489464, We have: 978928 = 978947 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 489466, We have: 978932 = 978973 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 489466, We have: 978932 = 978973 - 41, with ((37, 41)) is a cousin prime pair, and 978936 = 978947 - 11, with 13 is also prime
+For n = 489468, We have: 978936 = 978997 - 61, with (59, 61) is a twin prime pair
+For n = 489470, We have: 978940 = 978947 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 489472, We have: 978944 = 978947 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 489472, We have: 978944 = 979171 - 227, with ((223, 227)) is a cousin prime pair, and 978948 = 979103 - 155, with 157 is also prime
+For n = 489474, We have: 978948 = 979009 - 61, with (59, 61) is a twin prime pair
+For n = 489476, We have: 978952 = 979061 - 109, with (107, 109) is a twin prime pair
+1st condition: For n = 489478, We have: 978956 = 978973 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 489478, We have: 978956 = 978973 - 17, with ((13, 17)) is a cousin prime pair, and 978960 = 979001 - 41, with 43 is also prime
+For n = 489480, We have: 978960 = 978973 - 13, with (11, 13) is a twin prime pair
+For n = 489482, We have: 978964 = 979037 - 73, with (71, 73) is a twin prime pair
+For n = 489484, We have: 978968 = 978973 - 5, with (3, 5) is a twin prime pair
+For n = 489486, We have: 978972 = 979171 - 199, with (197, 199) is a twin prime pair
+For n = 489488, We have: 978976 = 979037 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 489490, We have: 978980 = 978997 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 489490, We have: 978980 = 978997 - 17, with ((13, 17)) is a cousin prime pair, and 978984 = 979001 - 17, with 19 is also prime
+For n = 489492, We have: 978984 = 978997 - 13, with (11, 13) is a twin prime pair
+For n = 489494, We have: 978988 = 979001 - 13, with (11, 13) is a twin prime pair
+For n = 489496, We have: 978992 = 978997 - 5, with (3, 5) is a twin prime pair
+For n = 489498, We have: 978996 = 979001 - 5, with (3, 5) is a twin prime pair
+For n = 489500, We have: 979000 = 979031 - 31, with (29, 31) is a twin prime pair
+For n = 489502, We have: 979004 = 979009 - 5, with (3, 5) is a twin prime pair
+For n = 489504, We have: 979008 = 979117 - 109, with (107, 109) is a twin prime pair
+For n = 489506, We have: 979012 = 979031 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 489508, We have: 979016 = 979117 - 101, with (101, 103) is a twin prime pair
+2nd condition: For n = 489508, We have: 979016 = 979063 - 47, with ((43, 47)) is a cousin prime pair, and 979020 = 979031 - 11, with 13 is also prime
+For n = 489510, We have: 979020 = 979063 - 43, with (41, 43) is a twin prime pair
+For n = 489512, We have: 979024 = 979031 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 489514, We have: 979028 = 979031 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 489514, We have: 979028 = 979159 - 131, with ((127, 131)) is a cousin prime pair, and 979032 = 979037 - 5, with 7 is also prime
+For n = 489516, We have: 979032 = 979037 - 5, with (3, 5) is a twin prime pair
+For n = 489518, We have: 979036 = 979109 - 73, with (71, 73) is a twin prime pair
+1st condition: For n = 489520, We have: 979040 = 979177 - 137, with (137, 139) is a twin prime pair
+2nd condition: For n = 489520, We have: 979040 = 979063 - 23, with ((19, 23)) is a cousin prime pair, and 979044 = 979061 - 17, with 19 is also prime
+For n = 489522, We have: 979044 = 979063 - 19, with (17, 19) is a twin prime pair
+For n = 489524, We have: 979048 = 979061 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 489526, We have: 979052 = 979063 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 489526, We have: 979052 = 979063 - 11, with ((7, 11)) is a cousin prime pair, and 979056 = 979061 - 5, with 7 is also prime
+For n = 489528, We have: 979056 = 979061 - 5, with (3, 5) is a twin prime pair
+For n = 489530, We have: 979060 = 979103 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 489532, We have: 979064 = 979093 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 489532, We have: 979064 = 979171 - 107, with ((103, 107)) is a cousin prime pair, and 979068 = 979103 - 35, with 37 is also prime
+For n = 489534, We have: 979068 = 979171 - 103, with (101, 103) is a twin prime pair
+For n = 489536, We have: 979072 = 979103 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 489538, We have: 979076 = 979093 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 489538, We have: 979076 = 979093 - 17, with ((13, 17)) is a cousin prime pair, and 979080 = 979109 - 29, with 31 is also prime
+For n = 489540, We have: 979080 = 979093 - 13, with (11, 13) is a twin prime pair
+For n = 489542, We have: 979084 = 979103 - 19, with (17, 19) is a twin prime pair
+For n = 489544, We have: 979088 = 979093 - 5, with (3, 5) is a twin prime pair
+For n = 489546, We have: 979092 = 979201 - 109, with (107, 109) is a twin prime pair
+For n = 489548, We have: 979096 = 979103 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 489550, We have: 979100 = 979103 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 489550, We have: 979100 = 979117 - 17, with ((13, 17)) is a cousin prime pair, and 979104 = 979109 - 5, with 7 is also prime
+For n = 489552, We have: 979104 = 979109 - 5, with (3, 5) is a twin prime pair
+For n = 489554, We have: 979108 = 979211 - 103, with (101, 103) is a twin prime pair
+For n = 489556, We have: 979112 = 979117 - 5, with (3, 5) is a twin prime pair
+For n = 489558, We have: 979116 = 979159 - 43, with (41, 43) is a twin prime pair
+For n = 489560, We have: 979120 = 979163 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 489562, We have: 979124 = 979261 - 137, with (137, 139) is a twin prime pair
+2nd condition: For n = 489562, We have: 979124 = 979171 - 47, with ((43, 47)) is a cousin prime pair, and 979128 = 979163 - 35, with 37 is also prime
+For n = 489564, We have: 979128 = 979159 - 31, with (29, 31) is a twin prime pair
+For n = 489566, We have: 979132 = 979163 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 489568, We have: 979136 = 979177 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 489568, We have: 979136 = 979159 - 23, with ((19, 23)) is a cousin prime pair, and 979140 = 979211 - 71, with 73 is also prime
+For n = 489570, We have: 979140 = 979159 - 19, with (17, 19) is a twin prime pair
+For n = 489572, We have: 979144 = 979163 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 489574, We have: 979148 = 979159 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 489574, We have: 979148 = 979159 - 11, with ((7, 11)) is a cousin prime pair, and 979152 = 979163 - 11, with 13 is also prime
+For n = 489576, We have: 979152 = 979159 - 7, with (5, 7) is a twin prime pair
+For n = 489578, We have: 979156 = 979163 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 489580, We have: 979160 = 979163 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 489580, We have: 979160 = 979171 - 11, with ((7, 11)) is a cousin prime pair, and 979164 = 979229 - 65, with 67 is also prime
+For n = 489582, We have: 979164 = 979171 - 7, with (5, 7) is a twin prime pair
+For n = 489584, We have: 979168 = 979211 - 43, with (41, 43) is a twin prime pair
+For n = 489586, We have: 979172 = 979177 - 5, with (3, 5) is a twin prime pair
+For n = 489588, We have: 979176 = 979189 - 13, with (11, 13) is a twin prime pair
+For n = 489590, We have: 979180 = 979211 - 31, with (29, 31) is a twin prime pair
+For n = 489592, We have: 979184 = 979189 - 5, with (3, 5) is a twin prime pair
+For n = 489594, We have: 979188 = 979201 - 13, with (11, 13) is a twin prime pair
+For n = 489596, We have: 979192 = 979211 - 19, with (17, 19) is a twin prime pair
+For n = 489598, We have: 979196 = 979201 - 5, with (3, 5) is a twin prime pair
+For n = 489600, We have: 979200 = 979207 - 7, with (5, 7) is a twin prime pair
+For n = 489602, We have: 979204 = 979211 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 489604, We have: 979208 = 979211 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 489604, We have: 979208 = 979219 - 11, with ((7, 11)) is a cousin prime pair, and 979212 = 979229 - 17, with 19 is also prime
+For n = 489606, We have: 979212 = 979219 - 7, with (5, 7) is a twin prime pair
+For n = 489608, We have: 979216 = 979229 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 489610, We have: 979220 = 979261 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 489610, We have: 979220 = 979261 - 41, with ((37, 41)) is a cousin prime pair, and 979224 = 979229 - 5, with 7 is also prime
+For n = 489612, We have: 979224 = 979229 - 5, with (3, 5) is a twin prime pair
+For n = 489614, We have: 979228 = 979337 - 109, with (107, 109) is a twin prime pair
+1st condition: For n = 489616, We have: 979232 = 979261 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 489616, We have: 979232 = 979273 - 41, with ((37, 41)) is a cousin prime pair, and 979236 = 979313 - 77, with 79 is also prime
+For n = 489618, We have: 979236 = 979519 - 283, with (281, 283) is a twin prime pair
+For n = 489620, We have: 979240 = 979283 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 489622, We have: 979244 = 979261 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 489622, We have: 979244 = 979261 - 17, with ((13, 17)) is a cousin prime pair, and 979248 = 979283 - 35, with 37 is also prime
+For n = 489624, We have: 979248 = 979261 - 13, with (11, 13) is a twin prime pair
+For n = 489626, We have: 979252 = 979283 - 31, with (29, 31) is a twin prime pair
+For n = 489628, We have: 979256 = 979261 - 5, with (3, 5) is a twin prime pair
+For n = 489630, We have: 979260 = 979273 - 13, with (11, 13) is a twin prime pair
+For n = 489632, We have: 979264 = 979283 - 19, with (17, 19) is a twin prime pair
+For n = 489634, We have: 979268 = 979273 - 5, with (3, 5) is a twin prime pair
+For n = 489636, We have: 979272 = 979291 - 19, with (17, 19) is a twin prime pair
+For n = 489638, We have: 979276 = 979283 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 489640, We have: 979280 = 979283 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 489640, We have: 979280 = 979291 - 11, with ((7, 11)) is a cousin prime pair, and 979284 = 979313 - 29, with 31 is also prime
+For n = 489642, We have: 979284 = 979291 - 7, with (5, 7) is a twin prime pair
+For n = 489644, We have: 979288 = 979361 - 73, with (71, 73) is a twin prime pair
+1st condition: For n = 489646, We have: 979292 = 979333 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 489646, We have: 979292 = 979333 - 41, with ((37, 41)) is a cousin prime pair, and 979296 = 979313 - 17, with 19 is also prime
+For n = 489648, We have: 979296 = 979327 - 31, with (29, 31) is a twin prime pair
+For n = 489650, We have: 979300 = 979313 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 489652, We have: 979304 = 979333 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 489652, We have: 979304 = 979327 - 23, with ((19, 23)) is a cousin prime pair, and 979308 = 979313 - 5, with 7 is also prime
+For n = 489654, We have: 979308 = 979313 - 5, with (3, 5) is a twin prime pair
+For n = 489656, We have: 979312 = 979343 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 489658, We have: 979316 = 979327 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 489658, We have: 979316 = 979327 - 11, with ((7, 11)) is a cousin prime pair, and 979320 = 979337 - 17, with 19 is also prime
+For n = 489660, We have: 979320 = 979327 - 7, with (5, 7) is a twin prime pair
+For n = 489662, We have: 979324 = 979337 - 13, with (11, 13) is a twin prime pair
+For n = 489664, We have: 979328 = 979333 - 5, with (3, 5) is a twin prime pair
+For n = 489666, We have: 979332 = 979337 - 5, with (3, 5) is a twin prime pair
+For n = 489668, We have: 979336 = 979343 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 489670, We have: 979340 = 979343 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 489670, We have: 979340 = 979423 - 83, with ((79, 83)) is a cousin prime pair, and 979344 = 979361 - 17, with 19 is also prime
+For n = 489672, We have: 979344 = 979543 - 199, with (197, 199) is a twin prime pair
+For n = 489674, We have: 979348 = 979361 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 489676, We have: 979352 = 979369 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 489676, We have: 979352 = 979369 - 17, with ((13, 17)) is a cousin prime pair, and 979356 = 979361 - 5, with 7 is also prime
+For n = 489678, We have: 979356 = 979361 - 5, with (3, 5) is a twin prime pair
+For n = 489680, We have: 979360 = 979373 - 13, with (11, 13) is a twin prime pair
+For n = 489682, We have: 979364 = 979369 - 5, with (3, 5) is a twin prime pair
+For n = 489684, We have: 979368 = 979373 - 5, with (3, 5) is a twin prime pair
+For n = 489686, We have: 979372 = 979379 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 489688, We have: 979376 = 979379 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 489688, We have: 979376 = 979423 - 47, with ((43, 47)) is a cousin prime pair, and 979380 = 979439 - 59, with 61 is also prime
+For n = 489690, We have: 979380 = 979423 - 43, with (41, 43) is a twin prime pair
+For n = 489692, We have: 979384 = 979403 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 489694, We have: 979388 = 979567 - 179, with (179, 181) is a twin prime pair
+2nd condition: For n = 489694, We have: 979388 = 979471 - 83, with ((79, 83)) is a cousin prime pair, and 979392 = 979403 - 11, with 13 is also prime
+For n = 489696, We have: 979392 = 979423 - 31, with (29, 31) is a twin prime pair
+For n = 489698, We have: 979396 = 979403 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 489700, We have: 979400 = 979403 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 489700, We have: 979400 = 979423 - 23, with ((19, 23)) is a cousin prime pair, and 979404 = 979439 - 35, with 37 is also prime
+For n = 489702, We have: 979404 = 979423 - 19, with (17, 19) is a twin prime pair
+For n = 489704, We have: 979408 = 979439 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 489706, We have: 979412 = 979423 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 489706, We have: 979412 = 979423 - 11, with ((7, 11)) is a cousin prime pair, and 979416 = 979457 - 41, with 43 is also prime
+For n = 489708, We have: 979416 = 979423 - 7, with (5, 7) is a twin prime pair
+For n = 489710, We have: 979420 = 979439 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 489712, We have: 979424 = 979651 - 227, with (227, 229) is a twin prime pair
+2nd condition: For n = 489712, We have: 979424 = 979471 - 47, with ((43, 47)) is a cousin prime pair, and 979428 = 979439 - 11, with 13 is also prime
+For n = 489714, We have: 979428 = 979471 - 43, with (41, 43) is a twin prime pair
+For n = 489716, We have: 979432 = 979439 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 489718, We have: 979436 = 979439 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 489718, We have: 979436 = 979519 - 83, with ((79, 83)) is a cousin prime pair, and 979440 = 979457 - 17, with 19 is also prime
+For n = 489720, We have: 979440 = 979471 - 31, with (29, 31) is a twin prime pair
+For n = 489722, We have: 979444 = 979457 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 489724, We have: 979448 = 979519 - 71, with (71, 73) is a twin prime pair
+2nd condition: For n = 489724, We have: 979448 = 979471 - 23, with ((19, 23)) is a cousin prime pair, and 979452 = 979457 - 5, with 7 is also prime
+For n = 489726, We have: 979452 = 979457 - 5, with (3, 5) is a twin prime pair
+For n = 489728, We have: 979456 = 979529 - 73, with (71, 73) is a twin prime pair
+1st condition: For n = 489730, We have: 979460 = 979471 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 489730, We have: 979460 = 979471 - 11, with ((7, 11)) is a cousin prime pair, and 979464 = 979481 - 17, with 19 is also prime
+For n = 489732, We have: 979464 = 979471 - 7, with (5, 7) is a twin prime pair
+For n = 489734, We have: 979468 = 979481 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 489736, We have: 979472 = 979543 - 71, with (71, 73) is a twin prime pair
+2nd condition: For n = 489736, We have: 979472 = 979519 - 47, with ((43, 47)) is a cousin prime pair, and 979476 = 979481 - 5, with 7 is also prime
+For n = 489738, We have: 979476 = 979481 - 5, with (3, 5) is a twin prime pair
+For n = 489740, We have: 979480 = 979541 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 489742, We have: 979484 = 979543 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 489742, We have: 979484 = 979567 - 83, with ((79, 83)) is a cousin prime pair, and 979488 = 979529 - 41, with 43 is also prime
+For n = 489744, We have: 979488 = 979519 - 31, with (29, 31) is a twin prime pair
+For n = 489746, We have: 979492 = 979553 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 489748, We have: 979496 = 979567 - 71, with (71, 73) is a twin prime pair
+2nd condition: For n = 489748, We have: 979496 = 979519 - 23, with ((19, 23)) is a cousin prime pair, and 979500 = 979529 - 29, with 31 is also prime
+For n = 489750, We have: 979500 = 979519 - 19, with (17, 19) is a twin prime pair
+For n = 489752, We have: 979504 = 979787 - 283, with (281, 283) is a twin prime pair
+1st condition: For n = 489754, We have: 979508 = 979519 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 489754, We have: 979508 = 979519 - 11, with ((7, 11)) is a cousin prime pair, and 979512 = 979529 - 17, with 19 is also prime
+For n = 489756, We have: 979512 = 979519 - 7, with (5, 7) is a twin prime pair
+For n = 489758, We have: 979516 = 979529 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 489760, We have: 979520 = 979549 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 489760, We have: 979520 = 979543 - 23, with ((19, 23)) is a cousin prime pair, and 979524 = 979529 - 5, with 7 is also prime
+For n = 489762, We have: 979524 = 979529 - 5, with (3, 5) is a twin prime pair
+For n = 489764, We have: 979528 = 979541 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 489766, We have: 979532 = 979543 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 489766, We have: 979532 = 979543 - 11, with ((7, 11)) is a cousin prime pair, and 979536 = 979541 - 5, with 7 is also prime
+For n = 489768, We have: 979536 = 979541 - 5, with (3, 5) is a twin prime pair
+For n = 489770, We have: 979540 = 979553 - 13, with (11, 13) is a twin prime pair
+For n = 489772, We have: 979544 = 979549 - 5, with (3, 5) is a twin prime pair
+For n = 489774, We have: 979548 = 979553 - 5, with (3, 5) is a twin prime pair
+For n = 489776, We have: 979552 = 979691 - 139, with (137, 139) is a twin prime pair
+1st condition: For n = 489778, We have: 979556 = 979567 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 489778, We have: 979556 = 979567 - 11, with ((7, 11)) is a cousin prime pair, and 979560 = 979709 - 149, with 151 is also prime
+For n = 489780, We have: 979560 = 979567 - 7, with (5, 7) is a twin prime pair
+For n = 489782, We have: 979564 = 979757 - 193, with (191, 193) is a twin prime pair
+1st condition: For n = 489784, We have: 979568 = 979717 - 149, with (149, 151) is a twin prime pair
+2nd condition: For n = 489784, We have: 979568 = 979651 - 83, with ((79, 83)) is a cousin prime pair, and 979572 = 979709 - 137, with 139 is also prime
+For n = 489786, We have: 979572 = 979921 - 349, with (347, 349) is a twin prime pair
+For n = 489788, We have: 979576 = 979757 - 181, with (179, 181) is a twin prime pair
+1st condition: For n = 489790, We have: 979580 = 979651 - 71, with (71, 73) is a twin prime pair
+2nd condition: For n = 489790, We have: 979580 = 979651 - 71, with ((67, 71)) is a cousin prime pair, and 979584 = 979691 - 107, with 109 is also prime
+For n = 489792, We have: 979584 = 980047 - 463, with (461, 463) is a twin prime pair
+For n = 489794, We have: 979588 = 979691 - 103, with (101, 103) is a twin prime pair
+1st condition: For n = 489796, We have: 979592 = 979651 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 489796, We have: 979592 = 979819 - 227, with ((223, 227)) is a cousin prime pair, and 979596 = 979691 - 95, with 97 is also prime
+For n = 489798, We have: 979596 = 979747 - 151, with (149, 151) is a twin prime pair
+For n = 489800, We have: 979600 = 979709 - 109, with (107, 109) is a twin prime pair
+1st condition: For n = 489802, We have: 979604 = 979831 - 227, with (227, 229) is a twin prime pair
+2nd condition: For n = 489802, We have: 979604 = 979651 - 47, with ((43, 47)) is a cousin prime pair, and 979608 = 979709 - 101, with 103 is also prime
+For n = 489804, We have: 979608 = 979651 - 43, with (41, 43) is a twin prime pair
+For n = 489806, We have: 979612 = 979883 - 271, with (269, 271) is a twin prime pair
+1st condition: For n = 489808, We have: 979616 = 979717 - 101, with (101, 103) is a twin prime pair
+2nd condition: For n = 489808, We have: 979616 = 979717 - 101, with ((97, 101)) is a cousin prime pair, and 979620 = 979691 - 71, with 73 is also prime
+For n = 489810, We have: 979620 = 979651 - 31, with (29, 31) is a twin prime pair
+For n = 489812, We have: 979624 = 979907 - 283, with (281, 283) is a twin prime pair
+1st condition: For n = 489814, We have: 979628 = 979807 - 179, with (179, 181) is a twin prime pair
+2nd condition: For n = 489814, We have: 979628 = 979651 - 23, with ((19, 23)) is a cousin prime pair, and 979632 = 979691 - 59, with 61 is also prime
+For n = 489816, We have: 979632 = 979651 - 19, with (17, 19) is a twin prime pair
+For n = 489818, We have: 979636 = 979709 - 73, with (71, 73) is a twin prime pair
+1st condition: For n = 489820, We have: 979640 = 979651 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 489820, We have: 979640 = 979651 - 11, with ((7, 11)) is a cousin prime pair, and 979644 = 979709 - 65, with 67 is also prime
+For n = 489822, We have: 979644 = 979651 - 7, with (5, 7) is a twin prime pair
+For n = 489824, We have: 979648 = 979691 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 489826, We have: 979652 = 979831 - 179, with (179, 181) is a twin prime pair
+2nd condition: For n = 489826, We have: 979652 = 979819 - 167, with ((163, 167)) is a cousin prime pair, and 979656 = 979691 - 35, with 37 is also prime
+For n = 489828, We have: 979656 = 979717 - 61, with (59, 61) is a twin prime pair
+For n = 489830, We have: 979660 = 979691 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 489832, We have: 979664 = 980491 - 827, with (827, 829) is a twin prime pair
+2nd condition: For n = 489832, We have: 979664 = 979747 - 83, with ((79, 83)) is a cousin prime pair, and 979668 = 979709 - 41, with 43 is also prime
+For n = 489834, We have: 979668 = 979807 - 139, with (137, 139) is a twin prime pair
+For n = 489836, We have: 979672 = 979691 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 489838, We have: 979676 = 979717 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 489838, We have: 979676 = 979717 - 41, with ((37, 41)) is a cousin prime pair, and 979680 = 979691 - 11, with 13 is also prime
+For n = 489840, We have: 979680 = 979819 - 139, with (137, 139) is a twin prime pair
+For n = 489842, We have: 979684 = 979691 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 489844, We have: 979688 = 979691 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 489844, We have: 979688 = 979819 - 131, with ((127, 131)) is a cousin prime pair, and 979692 = 979709 - 17, with 19 is also prime
+For n = 489846, We have: 979692 = 979831 - 139, with (137, 139) is a twin prime pair
+For n = 489848, We have: 979696 = 979709 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 489850, We have: 979700 = 979717 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 489850, We have: 979700 = 979717 - 17, with ((13, 17)) is a cousin prime pair, and 979704 = 979709 - 5, with 7 is also prime
+For n = 489852, We have: 979704 = 979709 - 5, with (3, 5) is a twin prime pair
+For n = 489854, We have: 979708 = 979889 - 181, with (179, 181) is a twin prime pair
+For n = 489856, We have: 979712 = 979717 - 5, with (3, 5) is a twin prime pair
+For n = 489858, We have: 979716 = 979747 - 31, with (29, 31) is a twin prime pair
+For n = 489860, We have: 979720 = 979919 - 199, with (197, 199) is a twin prime pair
+1st condition: For n = 489862, We have: 979724 = 979831 - 107, with (107, 109) is a twin prime pair
+2nd condition: For n = 489862, We have: 979724 = 979747 - 23, with ((19, 23)) is a cousin prime pair, and 979728 = 979757 - 29, with 31 is also prime
+For n = 489864, We have: 979728 = 979747 - 19, with (17, 19) is a twin prime pair
+For n = 489866, We have: 979732 = 979883 - 151, with (149, 151) is a twin prime pair
+1st condition: For n = 489868, We have: 979736 = 979747 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 489868, We have: 979736 = 979747 - 11, with ((7, 11)) is a cousin prime pair, and 979740 = 979757 - 17, with 19 is also prime
+For n = 489870, We have: 979740 = 979747 - 7, with (5, 7) is a twin prime pair
+For n = 489872, We have: 979744 = 979757 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 489874, We have: 979748 = 979807 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 489874, We have: 979748 = 979819 - 71, with ((67, 71)) is a cousin prime pair, and 979752 = 979757 - 5, with 7 is also prime
+For n = 489876, We have: 979752 = 979757 - 5, with (3, 5) is a twin prime pair
+For n = 489878, We have: 979756 = 979787 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 489880, We have: 979760 = 979819 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 489880, We have: 979760 = 979807 - 47, with ((43, 47)) is a cousin prime pair, and 979764 = 979889 - 125, with 127 is also prime
+For n = 489882, We have: 979764 = 979807 - 43, with (41, 43) is a twin prime pair
+For n = 489884, We have: 979768 = 979787 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 489886, We have: 979772 = 979831 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 489886, We have: 979772 = 979819 - 47, with ((43, 47)) is a cousin prime pair, and 979776 = 979787 - 11, with 13 is also prime
+For n = 489888, We have: 979776 = 979807 - 31, with (29, 31) is a twin prime pair
+For n = 489890, We have: 979780 = 979787 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 489892, We have: 979784 = 979787 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 489892, We have: 979784 = 979807 - 23, with ((19, 23)) is a cousin prime pair, and 979788 = 979883 - 95, with 97 is also prime
+For n = 489894, We have: 979788 = 979807 - 19, with (17, 19) is a twin prime pair
+For n = 489896, We have: 979792 = 980363 - 571, with (569, 571) is a twin prime pair
+1st condition: For n = 489898, We have: 979796 = 979807 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 489898, We have: 979796 = 979807 - 11, with ((7, 11)) is a cousin prime pair, and 979800 = 979907 - 107, with 109 is also prime
+For n = 489900, We have: 979800 = 979807 - 7, with (5, 7) is a twin prime pair
+For n = 489902, We have: 979804 = 979907 - 103, with (101, 103) is a twin prime pair
+1st condition: For n = 489904, We have: 979808 = 979819 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 489904, We have: 979808 = 979819 - 11, with ((7, 11)) is a cousin prime pair, and 979812 = 979883 - 71, with 73 is also prime
+For n = 489906, We have: 979812 = 979819 - 7, with (5, 7) is a twin prime pair
+For n = 489908, We have: 979816 = 979889 - 73, with (71, 73) is a twin prime pair
+1st condition: For n = 489910, We have: 979820 = 979831 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 489910, We have: 979820 = 979831 - 11, with ((7, 11)) is a cousin prime pair, and 979824 = 979883 - 59, with 61 is also prime
+For n = 489912, We have: 979824 = 979831 - 7, with (5, 7) is a twin prime pair
+For n = 489914, We have: 979828 = 979889 - 61, with (59, 61) is a twin prime pair
+1st condition: For n = 489916, We have: 979832 = 979873 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 489916, We have: 979832 = 979873 - 41, with ((37, 41)) is a cousin prime pair, and 979836 = 979907 - 71, with 73 is also prime
+For n = 489918, We have: 979836 = 979987 - 151, with (149, 151) is a twin prime pair
+For n = 489920, We have: 979840 = 979883 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 489922, We have: 979844 = 979873 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 489922, We have: 979844 = 980071 - 227, with ((223, 227)) is a cousin prime pair, and 979848 = 979883 - 35, with 37 is also prime
+For n = 489924, We have: 979848 = 979921 - 73, with (71, 73) is a twin prime pair
+For n = 489926, We have: 979852 = 979883 - 31, with (29, 31) is a twin prime pair
+1st condition: For n = 489928, We have: 979856 = 979873 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 489928, We have: 979856 = 979873 - 17, with ((13, 17)) is a cousin prime pair, and 979860 = 979889 - 29, with 31 is also prime
+For n = 489930, We have: 979860 = 979873 - 13, with (11, 13) is a twin prime pair
+For n = 489932, We have: 979864 = 979883 - 19, with (17, 19) is a twin prime pair
+For n = 489934, We have: 979868 = 979873 - 5, with (3, 5) is a twin prime pair
+For n = 489936, We have: 979872 = 980071 - 199, with (197, 199) is a twin prime pair
+For n = 489938, We have: 979876 = 979883 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 489940, We have: 979880 = 979883 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 489940, We have: 979880 = 979921 - 41, with ((37, 41)) is a cousin prime pair, and 979884 = 979889 - 5, with 7 is also prime
+For n = 489942, We have: 979884 = 979889 - 5, with (3, 5) is a twin prime pair
+For n = 489944, We have: 979888 = 979907 - 19, with (17, 19) is a twin prime pair
+1st condition: For n = 489946, We have: 979892 = 979921 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 489946, We have: 979892 = 980173 - 281, with ((277, 281)) is a cousin prime pair, and 979896 = 979907 - 11, with 13 is also prime
+For n = 489948, We have: 979896 = 979969 - 73, with (71, 73) is a twin prime pair
+For n = 489950, We have: 979900 = 979907 - 7, with (5, 7) is a twin prime pair
+1st condition: For n = 489952, We have: 979904 = 979907 - 3, with (3, 5) is a twin prime pair
+2nd condition: For n = 489952, We have: 979904 = 979921 - 17, with ((13, 17)) is a cousin prime pair, and 979908 = 979919 - 11, with 13 is also prime
+For n = 489954, We have: 979908 = 979921 - 13, with (11, 13) is a twin prime pair
+For n = 489956, We have: 979912 = 979919 - 7, with (5, 7) is a twin prime pair
+For n = 489958, We have: 979916 = 979921 - 5, with (3, 5) is a twin prime pair
+For n = 489960, We have: 979920 = 980071 - 151, with (149, 151) is a twin prime pair
+For n = 489962, We have: 979924 = 980027 - 103, with (101, 103) is a twin prime pair
+1st condition: For n = 489964, We have: 979928 = 979969 - 41, with (41, 43) is a twin prime pair
+2nd condition: For n = 489964, We have: 979928 = 979969 - 41, with ((37, 41)) is a cousin prime pair, and 979932 = 979949 - 17, with 19 is also prime
+For n = 489966, We have: 979932 = 980071 - 139, with (137, 139) is a twin prime pair
+For n = 489968, We have: 979936 = 979949 - 13, with (11, 13) is a twin prime pair
+1st condition: For n = 489970, We have: 979940 = 979969 - 29, with (29, 31) is a twin prime pair
+2nd condition: For n = 489970, We have: 979940 = 979987 - 47, with ((43, 47)) is a cousin prime pair, and 979944 = 979949 - 5, with 7 is also prime
+For n = 489972, We have: 979944 = 979949 - 5, with (3, 5) is a twin prime pair
+For n = 489974, We have: 979948 = 980219 - 271, with (269, 271) is a twin prime pair
+1st condition: For n = 489976, We have: 979952 = 979969 - 17, with (17, 19) is a twin prime pair
+2nd condition: For n = 489976, We have: 979952 = 979969 - 17, with ((13, 17)) is a cousin prime pair, and 979956 = 980027 - 71, with 73 is also prime
+For n = 489978, We have: 979956 = 979969 - 13, with (11, 13) is a twin prime pair
+For n = 489980, We have: 979960 = 980069 - 109, with (107, 109) is a twin prime pair
+For n = 489982, We have: 979964 = 979969 - 5, with (3, 5) is a twin prime pair
+For n = 489984, We have: 979968 = 979987 - 19, with (17, 19) is a twin prime pair
+For n = 489986, We have: 979972 = 980081 - 109, with (107, 109) is a twin prime pair
+1st condition: For n = 489988, We have: 979976 = 979987 - 11, with (11, 13) is a twin prime pair
+2nd condition: For n = 489988, We have: 979976 = 979987 - 11, with ((7, 11)) is a cousin prime pair, and 979980 = 980081 - 101, with 103 is also prime
+For n = 489990, We have: 979980 = 979987 - 7, with (5, 7) is a twin prime pair
+For n = 489992, We have: 979984 = 980027 - 43, with (41, 43) is a twin prime pair
+1st condition: For n = 489994, We have: 979988 = 980047 - 59, with (59, 61) is a twin prime pair
+2nd condition: For n = 489994, We have: 979988 = 980071 - 83, with ((79, 83)) is a cousin prime pair, and 979992 = 980027 - 35, with 37 is also prime
+For n = 489996, We have: 979992 = 980131 - 139, with (137, 139) is a twin prime pair
+For n = 489998, We have: 979996 = 980027 - 31, with (29, 31) is a twin prime pair
